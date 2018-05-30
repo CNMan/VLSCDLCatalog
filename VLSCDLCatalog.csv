@@ -29829,8 +29829,11 @@ X20-97645,SW DVD5 Office Professional Plus 64Bit Swedish OfficeOnlineSvr MLF,ISO
 X20-97646,SW DVD5 Office Professional Plus 64Bit Thai OfficeOnlineSvr MLF,ISO
 X20-97647,SW DVD5 Office Professional Plus 64Bit Turkish OfficeOnlineSvr MLF,ISO
 X20-97648,SW DVD5 Office Professional Plus 64Bit Arabic OfficeOnlineSvr MLF,ISO
+X20-98709,SW DVD5 Machine Learning Server 2016 English -2 for Hadoop MLF,ISO
 X20-98709,SW DVD5 R Server 2016 English -2 for Hadoop MLF,ISO
+X20-98713,SW DVD5 Machine Learning Server 2016 English -2 for Linux MLF,ISO
 X20-98713,SW DVD5 R Server 2016 English -2 for Linux MLF,ISO
+X20-98721,SW DVD5 Machine Learning Server 2016 English -2 TeradataDB MLF,ISO
 X20-98721,SW DVD5 R Server 2016 English -2 TeradataDB MLF,ISO
 X20-99426,SW DVD9 Win Pro 10 1511.2 64BIT English MLF,ISO
 X20-99427,SW DVD9 Win Pro 10 1511.2 64BIT French MLF,ISO
@@ -31492,9 +31495,13 @@ X21-30363,SW DVD9 Win Svr STD Core and DataCtr Core 2016 64Bit Russian -3 MLF,IS
 X21-30364,SW DVD9 Win Svr STD Core and DataCtr Core 2016 64Bit Turkish -3 MLF,ISO
 X21-30365,SW DVD9 Win Svr STD Core and DataCtr Core 2016 64Bit ChnTrad -3 MLF,ISO
 X21-30777,SW DVD5 Sys Ctr Endpnt Prtctn 1606 MultiLang EptProt Lin Mac MLF,ISO
+X21-31574,SW DVD5 Machine Learning Server 2016 English HadoopNovRefrsh MLF,ISO
 X21-31574,SW DVD5 R Server 2016 English HadoopNovRefrsh MLF,ISO
+X21-31575,SW DVD5 Machine Learning Server 2016 English LinuxNovRefresh MLF,ISO
 X21-31575,SW DVD5 R Server 2016 English LinuxNovRefresh MLF,ISO
+X21-31576,SW DVD5 Machine Learning Server 2016 English TeradataDBNov MLF,ISO
 X21-31576,SW DVD5 R Server 2016 English TeradataDBNov MLF,ISO
+X21-31577,SW DVD5 Machine Learning Server 2016 English RSvr forWindows MLF,ISO
 X21-31577,SW DVD5 R Server 2016 English RSvr forWindows MLF,ISO
 X21-32003,SW DVD5 Sys Ctr ConfigMgrClt ML 1606 MultiLang -2 ConfMgr SCEP MLF,ISO
 X21-32465,SW DVD9 Exchange Svr 2016 MultiLang -5 Std Ent .iso MLF,ISO
@@ -31502,9 +31509,13 @@ X21-35474,SW DVD9 NTRL Win 10 1703 W32 MultiLang FOD #1,ISO
 X21-35517,SW DVD5 NTRL Win 10 1703 32-BIT X64 MultiLang LangPackAll LIP,ISO
 X21-35556,SW DVD9 NTRL Win 10 1703 64Bit MultiLang FOD #1,ISO
 X21-35596,SW DVD5 NTRL Win 10 1703 32-BIT X64 MultiLang App Update,ISO
+X21-35864,SW DVD5 Machine Learning Server 2016 English HadoopAprlRfrsh MLF,ISO
 X21-35864,SW DVD5 R Server 2016 English HadoopAprlRfrsh MLF,ISO
+X21-35865,SW DVD5 Machine Learning Server 2016 English LinuxAprlRefrsh MLF,ISO
 X21-35865,SW DVD5 R Server 2016 English LinuxAprlRefrsh MLF,ISO
+X21-35866,SW DVD5 Machine Learning Server 2016 English TeradataAprFrsh MLF,ISO
 X21-35866,SW DVD5 R Server 2016 English TeradataAprFrsh MLF,ISO
+X21-35867,SW DVD5 Machine Learning Server 2016 English RSvr forWinAprl MLF,ISO
 X21-35867,SW DVD5 R Server 2016 English RSvr forWinAprl MLF,ISO
 X21-36018,SW DVD5 Visual Studio Test Pro 2017 MultiLang Lang Pk MLF,EXE
 X21-36119,SW DVD5 Visual Studio Ent 2017 MultiLang Lang Pk MLF,EXE
@@ -31952,6 +31963,9 @@ X21-42636,SW DVD5 Visual Studio Pro 2017 MultiLang -2 Lang Pk MLF,EXE
 X21-42637,SW DVD5 Visual Studio Ent 2017 MultiLang -2 Lang Pk MLF,EXE
 X21-44498,SW DVD5 Sys Ctr Endpnt Prtctn 1606 MultiLang -2 EptProt Lin Mac MLF,ISO
 X21-45732,Office Deployment Tools,EXE
+X21-45826,SW DVD5 Visual Studio Test Pro 2017 MultiLang -3 Lang Pk MLF,EXE
+X21-45827,SW DVD5 Visual Studio Pro 2017 MultiLang -3 Lang Pk MLF,EXE
+X21-45828,SW DVD5 Visual Studio Ent 2017 MultiLang -3 Lang Pk MLF,EXE
 X21-47042,SW DVD9 Exchange Svr 2016 MultiLang -7 Std Ent .iso MLF,ISO
 X21-47053,Visual Studio Team Foundation Server 2017 with Update 2 - ChnSimp,ISO
 X21-47054,Visual Studio Team Foundation Server 2017 with Update 2 - English,ISO
@@ -32335,3 +32349,8 @@ X21-48098,SW DVD5 Win Pro N 10 1703.1 32BIT Spanish MLF,ISO
 X21-48099,SW DVD9 Win Pro N 10 1703.1 64BIT Spanish MLF,ISO
 X21-48100,SW DVD5 Win Pro N 10 1703.1 32BIT Swedish MLF,ISO
 X21-48101,SW DVD9 Win Pro N 10 1703.1 64BIT Swedish MLF,ISO
+X21-58277,SW DVD5 Excel Mac 2016 MultiLang -8 .dmg MLF,ISO
+X21-58279,SW DVD5 Outlook Mac 2016 MAC MultiLang -8 .dmg MLF,ISO
+X21-58280,SW DVD5 PowerPoint Mac 2016 MultiLang -8 .dmg MLF,ISO
+X21-58281,SW DVD5 Word Mac 2016 MultiLang -8 .dmg MLF,ISO
+X21-58282,SW DVD5 Office Mac Standard 2016 MultiLang -9 .dmg MLF,ISO
