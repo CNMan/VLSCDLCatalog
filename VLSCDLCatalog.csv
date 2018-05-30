@@ -15356,6 +15356,7 @@ X19-52094,SW DVD5 Dsktp Optimization Pck SA 2014 Italian MLF,ISO
 X19-52098,SW DVD5 Dsktp Optimization Pck SA 2014 Japanese MLF,ISO
 X19-52102,SW DVD5 Dsktp Optimization Pck SA 2014 Korean MLF,ISO
 X19-52106,SW DVD5 Dsktp Optimization Pck SA 2014 Russian MLF,ISO
+X19-52110,SW DVD5 Dsktp Optimization Pck SA 2014 ChnTrad MLF,ISO
 X19-53522,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit ChnTrad -5 MLF,ISO
 X19-53530,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit CTHK -5 MLF,ISO
 X19-53569,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Brazilian -3 MLF,ISO
@@ -15956,3 +15957,155 @@ X19-69068,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Russian MLF,ISO
 X19-69072,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Russian MLF,ISO
 X19-69076,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 ChnTrad MLF,ISO
 X19-69080,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit ChnTrad MLF,ISO
+X19-74398,SW DVD5 Release Management for Visual Studio 2013 ChnSimp Update 3,ISO
+X19-74400,SW DVD5 Release Management for Visual Studio 2013 French Update 3,ISO
+X19-74402,SW DVD5 Release Management for Visual Studio 2013 Japanese Update 3,ISO
+X19-74404,SW DVD5 Release Management for Visual Studio 2013 Russian Update 3,ISO
+X19-74406,SW DVD5 Release Management for Visual Studio 2013 English Update 3,ISO
+X19-74408,SW DVD5 Release Management for Visual Studio 2013 German Update 3,ISO
+X19-74410,SW DVD5 Release Management for Visual Studio 2013 Spanish Update 3,ISO
+X19-74412,SW DVD5 Release Management for Visual Studio 2013 Italian Update 3,ISO
+X19-74414,SW DVD5 Release Management for Visual Studio 2013 Korean Update 3,ISO
+X19-74416,SW DVD5 Release Management for Visual Studio 2013 ChnTrad Update 3,ISO
+X19-74738,Visual Studio Team Foundation Server 2013 with Update 3 - ChnSimp,ISO
+X19-74739,Visual Studio Team Foundation Server 2013 with Update 3 - English,ISO
+X19-74740,Visual Studio Team Foundation Server 2013 with Update 3 - German,ISO
+X19-74741,Visual Studio Team Foundation Server 2013 with Update 3 - Spanish,ISO
+X19-74742,Visual Studio Team Foundation Server 2013 with Update 3 - French,ISO
+X19-74743,Visual Studio Team Foundation Server 2013 with Update 3 - Italian,ISO
+X19-74744,Visual Studio Team Foundation Server 2013 with Update 3 - Japanese,ISO
+X19-74745,Visual Studio Team Foundation Server 2013 with Update 3 - Korean,ISO
+X19-74746,Visual Studio Team Foundation Server 2013 with Update 3 - ChnTrad,ISO
+X19-74747,Visual Studio Team Foundation Server 2013 with Update 3 - Russian,ISO
+X19-74917,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 Brazilian -2 MLF,ISO
+X19-74918,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit Brazilian -2 MLF,ISO
+X19-74919,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 ChnSimp -2 MLF,ISO
+X19-74920,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit ChnSimp -2 MLF,ISO
+X19-74921,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 English -2 MLF,ISO
+X19-74922,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit English -2 MLF,ISO
+X19-74923,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 German -2 MLF,ISO
+X19-74924,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit German -2 MLF,ISO
+X19-74925,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 Spanish -2 MLF,ISO
+X19-74926,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit Spanish -2 MLF,ISO
+X19-74927,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 French -2 MLF,ISO
+X19-74928,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit French -2 MLF,ISO
+X19-74929,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 Italian -2 MLF,ISO
+X19-74930,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit Italian -2 MLF,ISO
+X19-74931,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 Japanese -2 MLF,ISO
+X19-74932,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit Japanese -2 MLF,ISO
+X19-74933,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 Korean -2 MLF,ISO
+X19-74934,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit Korean -2 MLF,ISO
+X19-74935,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 Russian -2 MLF,ISO
+X19-74936,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit Russian -2 MLF,ISO
+X19-74937,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 W32 ChnTrad -2 MLF,ISO
+X19-74938,SW DVD9 SQL Svr Enterprise Edtn 2012w SP2 64Bit ChnTrad -2 MLF,ISO
+X19-74939,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 Brazilian -2 MLF,ISO
+X19-74940,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit Brazilian -2 MLF,ISO
+X19-74941,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 ChnSimp -2 MLF,ISO
+X19-74942,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit ChnSimp -2 MLF,ISO
+X19-74943,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 English -2 MLF,ISO
+X19-74944,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit English -2 MLF,ISO
+X19-74945,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 German -2 MLF,ISO
+X19-74946,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit German -2 MLF,ISO
+X19-74947,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 Spanish -2 MLF,ISO
+X19-74948,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit Spanish -2 MLF,ISO
+X19-74949,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 French -2 MLF,ISO
+X19-74950,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit French -2 MLF,ISO
+X19-74951,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 Italian -2 MLF,ISO
+X19-74952,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit Italian -2 MLF,ISO
+X19-74953,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 Japanese -2 MLF,ISO
+X19-74954,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit Japanese -2 MLF,ISO
+X19-74955,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 Korean -2 MLF,ISO
+X19-74956,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit Korean -2 MLF,ISO
+X19-74957,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 Russian -2 MLF,ISO
+X19-74958,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit Russian -2 MLF,ISO
+X19-74959,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 W32 ChnTrad -2 MLF,ISO
+X19-74960,SW DVD9 SQLSvr Bsnss Intelligence 2012w SP2 64Bit ChnTrad -2 MLF,ISO
+X19-74961,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 Brazilian -2 MLF,ISO
+X19-74962,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit Brazilian -2 MLF,ISO
+X19-74963,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 ChnSimp -2 MLF,ISO
+X19-74964,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit ChnSimp -2 MLF,ISO
+X19-74965,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 English -2 MLF,ISO
+X19-74966,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit English -2 MLF,ISO
+X19-74967,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 German -2 MLF,ISO
+X19-74968,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit German -2 MLF,ISO
+X19-74969,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 Spanish -2 MLF,ISO
+X19-74970,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit Spanish -2 MLF,ISO
+X19-74971,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 French -2 MLF,ISO
+X19-74972,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit French -2 MLF,ISO
+X19-74973,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 Italian -2 MLF,ISO
+X19-74974,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit Italian -2 MLF,ISO
+X19-74975,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 Japanese -2 MLF,ISO
+X19-74976,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit Japanese -2 MLF,ISO
+X19-74977,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 Korean -2 MLF,ISO
+X19-74978,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit Korean -2 MLF,ISO
+X19-74979,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 Russian -2 MLF,ISO
+X19-74980,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit Russian -2 MLF,ISO
+X19-74981,SW DVD9 SQL Svr Ent Core 2012w SP2 W32 ChnTrad -2 MLF,ISO
+X19-74982,SW DVD9 SQL Svr Ent Core 2012w SP2 64Bit ChnTrad -2 MLF,ISO
+X19-74983,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 Brazilian -2 MLF,ISO
+X19-74984,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit Brazilian -2 MLF,ISO
+X19-74985,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 ChnSimp -2 MLF,ISO
+X19-74986,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit ChnSimp -2 MLF,ISO
+X19-74987,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 English -2 MLF,ISO
+X19-74988,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit English -2 MLF,ISO
+X19-74989,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 German -2 MLF,ISO
+X19-74990,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit German -2 MLF,ISO
+X19-74991,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 Spanish -2 MLF,ISO
+X19-74992,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit Spanish -2 MLF,ISO
+X19-74993,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 French -2 MLF,ISO
+X19-74994,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit French -2 MLF,ISO
+X19-74995,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 Italian -2 MLF,ISO
+X19-74996,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit Italian -2 MLF,ISO
+X19-74997,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 Japanese -2 MLF,ISO
+X19-74998,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit Japanese -2 MLF,ISO
+X19-74999,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 Korean -2 MLF,ISO
+X19-75000,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit Korean -2 MLF,ISO
+X19-75001,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 Russian -2 MLF,ISO
+X19-75002,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit Russian -2 MLF,ISO
+X19-75003,SW DVD9 SQL Svr Developer Edtn 2012w SP2 W32 ChnTrad -2 MLF,ISO
+X19-75004,SW DVD9 SQL Svr Developer Edtn 2012w SP2 64Bit ChnTrad -2 MLF,ISO
+X19-75005,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 Brazilian -2 MLF,ISO
+X19-75006,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit Brazilian -2 MLF,ISO
+X19-75007,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 ChnSimp -2 MLF,ISO
+X19-75008,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit ChnSimp -2 MLF,ISO
+X19-75009,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 English -2 MLF,ISO
+X19-75010,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit English -2 MLF,ISO
+X19-75011,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 German -2 MLF,ISO
+X19-75012,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit German -2 MLF,ISO
+X19-75013,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 Spanish -2 MLF,ISO
+X19-75014,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit Spanish -2 MLF,ISO
+X19-75015,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 French -2 MLF,ISO
+X19-75016,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit French -2 MLF,ISO
+X19-75017,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 Italian -2 MLF,ISO
+X19-75018,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit Italian -2 MLF,ISO
+X19-75019,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 Japanese -2 MLF,ISO
+X19-75020,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit Japanese -2 MLF,ISO
+X19-75021,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 Korean -2 MLF,ISO
+X19-75022,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit Korean -2 MLF,ISO
+X19-75023,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 Russian -2 MLF,ISO
+X19-75024,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit Russian -2 MLF,ISO
+X19-75025,SW DVD9 SQL Svr Standard Edtn 2012w SP2 W32 ChnTrad -2 MLF,ISO
+X19-75026,SW DVD9 SQL Svr Standard Edtn 2012w SP2 64Bit ChnTrad -2 MLF,ISO
+X19-75027,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Brazilian -2 MLF,ISO
+X19-75028,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Brazilian -2 MLF,ISO
+X19-75029,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 ChnSimp -2 MLF,ISO
+X19-75030,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit ChnSimp -2 MLF,ISO
+X19-75031,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 English -2 MLF,ISO
+X19-75032,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit English -2 MLF,ISO
+X19-75033,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 German -2 MLF,ISO
+X19-75034,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit German -2 MLF,ISO
+X19-75035,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Spanish -2 MLF,ISO
+X19-75036,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Spanish -2 MLF,ISO
+X19-75037,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 French -2 MLF,ISO
+X19-75038,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit French -2 MLF,ISO
+X19-75039,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Italian -2 MLF,ISO
+X19-75040,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Italian -2 MLF,ISO
+X19-75041,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Japanese -2 MLF,ISO
+X19-75042,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Japanese -2 MLF,ISO
+X19-75043,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Korean -2 MLF,ISO
+X19-75044,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Korean -2 MLF,ISO
+X19-75045,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 Russian -2 MLF,ISO
+X19-75046,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit Russian -2 MLF,ISO
+X19-75047,SW DVD9 SQL Svr Web Ed 2012w SP2 W32 ChnTrad -2 MLF,ISO
+X19-75048,SW DVD9 SQL Svr Web Ed 2012w SP2 64Bit ChnTrad -2 MLF,ISO
