@@ -10264,6 +10264,7 @@ X18-20392,SW DVD5 MapPoint 2013 English Euro Maps MLF,ISO
 X18-20396,SW DVD5 MapPoint 2013 French Euro Maps MLF,ISO
 X18-20400,SW DVD5 MapPoint 2013 German Euro Maps MLF,ISO
 X18-20404,SW DVD5 MapPoint 2013 Italian Euro Maps MLF,ISO
+X18-20408,SW DVD5 MapPoint 2013 Spanish Euro Maps MLF,ISO
 X18-20832,SW DVD5 NTRL Sys Ctr Svc Mgr Svr 2012 MultiLang -2 MLF,ISO
 X18-27444,SW DVD5 NTRL Win Svr Essentials 2012 64Bit Brazilian FPP VL OEM Core,ISO
 X18-27448,SW DVD5 NTRL Win Svr Essentials 2012 64Bit ChnSimp FPP VL OEM Core,ISO
@@ -10481,20 +10482,45 @@ X18-49598,SW DVD5 Dsktp Optimization Pck SA 2012 Japanese MLF,ISO
 X18-49602,SW DVD5 Dsktp Optimization Pck SA 2012 Korean MLF,ISO
 X18-49606,SW DVD5 Dsktp Optimization Pck SA 2012 Russian MLF,ISO
 X18-49610,SW DVD5 Dsktp Optimization Pck SA 2012 Spanish MLF,ISO
+X18-50016,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 Brazilian SP1 MLF,ISO
+X18-50020,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 ChnSimp SP1 MLF,ISO
+X18-50024,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 English SP1 MLF,ISO
+X18-50028,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 German SP1 MLF,ISO
+X18-50032,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 Spanish SP1 MLF,ISO
+X18-50036,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 French SP1 MLF,ISO
+X18-50040,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 Italian SP1 MLF,ISO
+X18-50044,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 Japanese SP1 MLF,ISO
+X18-50048,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 Korean SP1 MLF,ISO
+X18-50052,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 Russian SP1 MLF,ISO
+X18-50056,SW DVD5 SQL Svr Ent Std BI Web Dev 2012 ChnTrad SP1 MLF,ISO
 X18-53801,SW DVD5 Access 2013 W32 Arabic MLF,ISO
 X18-53802,SW DVD5 Access 2013 W32 Brazilian MLF,ISO
+X18-53804,SW DVD5 Office Srvr Language Pack 2013 64Bit Arabic MLF,ISO
 X18-53805,SW DVD5 Access 2013 W32 ChnSimp MLF,ISO
+X18-53806,SW DVD5 Office Srvr Language Pack 2013 64Bit Brazilian MLF,ISO
 X18-53807,SW DVD5 Access 2013 W32 ChnTrad MLF,ISO
+X18-53810,SW DVD5 Office Srvr Language Pack 2013 64Bit ChnSimp MLF,ISO
+X18-53812,SW DVD5 Office Srvr Language Pack 2013 64Bit ChnTrad MLF,ISO
 X18-53815,SW DVD5 Access 2013 W32 Dutch MLF,ISO
 X18-53817,SW DVD5 Access 2013 W32 English MLF,ISO
+X18-53820,SW DVD5 Office Srvr Language Pack 2013 64Bit Dutch MLF,ISO
+X18-53822,SW DVD5 Office Srvr Language Pack 2013 64Bit English MLF,ISO
 X18-53823,SW DVD5 Access 2013 W32 French MLF,ISO
 X18-53825,SW DVD5 Access 2013 W32 German MLF,ISO
+X18-53828,SW DVD5 Office Srvr Language Pack 2013 64Bit French MLF,ISO
 X18-53829,SW DVD5 Access 2013 W32 Hebrew MLF,ISO
+X18-53830,SW DVD5 Office Srvr Language Pack 2013 64Bit German MLF,ISO
+X18-53834,SW DVD5 Office Srvr Language Pack 2013 64Bit Hebrew MLF,ISO
 X18-53835,SW DVD5 Access 2013 W32 Italian MLF,ISO
 X18-53837,SW DVD5 Access 2013 W32 Japanese MLF,ISO
 X18-53841,SW DVD5 Access 2013 W32 Korean MLF,ISO
+X18-53842,SW DVD5 Office Srvr Language Pack 2013 64Bit Italian MLF,ISO
+X18-53844,SW DVD5 Office Srvr Language Pack 2013 64Bit Japanese MLF,ISO
+X18-53848,SW DVD5 Office Srvr Language Pack 2013 64Bit Korean MLF,ISO
 X18-53857,SW DVD5 Access 2013 W32 Russian MLF,ISO
+X18-53864,SW DVD5 Office Srvr Language Pack 2013 64Bit Russian MLF,ISO
 X18-53865,SW DVD5 Access 2013 W32 Spanish MLF,ISO
+X18-53872,SW DVD5 Office Srvr Language Pack 2013 64Bit Spanish MLF,ISO
 X18-53884,SW DVD5 Office 2013 W32 Arabic MLF,ISO
 X18-53886,SW DVD5 Office 2013 W32 Brazilian MLF,ISO
 X18-53890,SW DVD5 Office 2013 W32 ChnSimp MLF,ISO
@@ -10681,6 +10707,7 @@ X18-54618,SW DVD5 PowerPoint 2013 W32 French MLF,ISO
 X18-54619,SW DVD5 Lync Server Std 2013 64Bit Japanese MLF,ISO
 X18-54620,SW DVD5 PowerPoint 2013 W32 German MLF,ISO
 X18-54621,SW DVD5 Lync Server Std 2013 64Bit Korean MLF,ISO
+X18-54623,SW DVD5 Lync Server Std 2013 64Bit Russian MLF,ISO
 X18-54624,SW DVD5 PowerPoint 2013 W32 Hebrew MLF,ISO
 X18-54625,SW DVD5 Lync Server Std 2013 64Bit Spanish MLF,ISO
 X18-54631,SW DVD5 Office Multi Lang Pack 2013 W32 Arabic MLF,ISO
@@ -10948,6 +10975,38 @@ X18-57932,SW DVD5 Office Professional Plus 2013 64Bit Korean WebApps MLF,ISO
 X18-57940,SW DVD5 Office Professional Plus 2013 64Bit Russian WebApps MLF,ISO
 X18-57944,SW DVD5 Office Professional Plus 2013 64Bit Spanish WebApps MLF,ISO
 X18-57982,SW DVD5 Office Professional Plus 2013 64Bit Arabic WebApps MLF,ISO
+X18-58764,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 BRZLN ProdAct FPP OEM VL,ISO
+X18-58765,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 CHNS ProdAct FPP OEM VL,ISO
+X18-58766,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 CHNT ProdAct FPP OEM VL,ISO
+X18-58767,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 CHNTHK ProdAct FPP OEM VL,ISO
+X18-58768,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 ENG ProdAct FPP OEM VL,ISO
+X18-58769,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 FRE ProdAct FPP OEM VL,ISO
+X18-58770,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 GER ProdAct FPP OEM VL,ISO
+X18-58771,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 HUN ProdAct FPP OEM VL,ISO
+X18-58772,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 ITA ProdAct FPP OEM VL,ISO
+X18-58773,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 JPN ProdAct FPP OEM VL,ISO
+X18-58774,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 KOR ProdAct FPP OEM VL,ISO
+X18-58775,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 POL ProdAct FPP OEM VL,ISO
+X18-58776,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 POR ProdAct FPP OEM VL,ISO
+X18-58777,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 RUS ProdAct FPP OEM VL,ISO
+X18-58778,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 SPA ProdAct FPP OEM VL,ISO
+X18-58779,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 TUR ProdAct FPP OEM VL,ISO
+X18-58780,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 BRZLN ProdAct FPP OEM VL,ISO
+X18-58781,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 CHNS ProdAct FPP OEM VL,ISO
+X18-58782,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 CHNT ProdAct FPP OEM VL,ISO
+X18-58784,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 CHNTHK ProdAct FPP OEM VL,ISO
+X18-58785,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 ENG ProdAct FPP OEM VL,ISO
+X18-58786,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 FRE ProdAct FPP OEM VL,ISO
+X18-58787,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 GER ProdAct FPP OEM VL,ISO
+X18-58788,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 HUN ProdAct FPP OEM VL,ISO
+X18-58789,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 ITA ProdAct FPP OEM VL,ISO
+X18-58790,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 JPN ProdAct FPP OEM VL,ISO
+X18-58791,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 KOR ProdAct FPP OEM VL,ISO
+X18-58792,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 POL ProdAct FPP OEM VL,ISO
+X18-58793,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 POR ProdAct FPP OEM VL,ISO
+X18-58794,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 RUS ProdAct FPP OEM VL,ISO
+X18-58795,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 SPA ProdAct FPP OEM VL,ISO
+X18-58796,SW DVD5 NTRL Win MultiPoint Svr Prem 2012 x64 TUR ProdAct FPP OEM VL,ISO
 X18-59825,SW DVD5 Visio Std 2013 64Bit Arabic MLF,ISO
 X18-59826,SW DVD5 Visio Std 2013 64Bit Brazilian MLF,ISO
 X18-59827,SW DVD5 Visio Std 2013 64Bit ChnSimp MLF,ISO
@@ -10983,3 +11042,135 @@ X18-61026,SW DVD5 Visio Pro 2013 64Bit Korean MLF,ISO
 X18-61028,SW DVD5 Visio Pro 2013 64Bit Dutch MLF,ISO
 X18-61035,SW DVD5 Visio Pro 2013 64Bit Russian MLF,ISO
 X18-61037,SW DVD5 Visio Pro 2013 64Bit ChnTrad MLF,ISO
+X18-78041,SQL Svr Business Intelligence 2012 w SP1 Brazilian DownloadOnly 32bit -2,ISO
+X18-78042,SQL Svr Business Intelligence 2012 w SP1 Brazilian DownloadOnly 64bit -2,ISO
+X18-78043,SQL Svr Business Intelligence 2012 w SP1 ChnSimp Download Only 64bit -2,ISO
+X18-78044,SQL Svr Business Intelligence 2012 w SP1 ChnTrad Download Only 32bit -2,ISO
+X18-78045,SQL Svr Business Intelligence 2012 w SP1 ChnTrad Download Only 64bit -2,ISO
+X18-78046,SQL Svr Business Intelligence 2012 w SP1 English Download Only 32bit -2,ISO
+X18-78047,SQL Svr Business Intelligence 2012 w SP1 English Download Only 64bit -2,ISO
+X18-78048,SQL Svr Business Intelligence 2012 w SP1 French Download Only 64bit -2,ISO
+X18-78049,SQL Svr Business Intelligence 2012 w SP1 German Download Only 32bit -2,ISO
+X18-78050,SQL Svr Business Intelligence 2012 w SP1 German Download Only 64bit -2,ISO
+X18-78051,SQL Svr Business Intelligence 2012 w SP1 Italian Download Only 32bit -2,ISO
+X18-78052,SQL Svr Business Intelligence 2012 w SP1 Italian Download Only 64bit -2,ISO
+X18-78053,SQL Svr Business Intelligence 2012 w SP1 Japanese Download Only 32bit -2,ISO
+X18-78054,SQL Svr Business Intelligence 2012 w SP1 Japanese Download Only 64bit -2,ISO
+X18-78055,SQL Svr Business Intelligence 2012 w SP1 Korean Download Only 32bit -2,ISO
+X18-78056,SQL Svr Business Intelligence 2012 w SP1 Korean Download Only 64bit -2,ISO
+X18-78057,SQL Svr Business Intelligence 2012 w SP1 Russian Download Only 32bit -2,ISO
+X18-78058,SQL Svr Business Intelligence 2012 w SP1 Russian Download Only 64bit -2,ISO
+X18-78059,SQL Svr Business Intelligence 2012 w SP1 Spanish Download Only 32bit -2,ISO
+X18-78060,SQL Svr Business Intelligence 2012 w SP1 Spanish Download Only 64bit -2,ISO
+X18-78061,SQL Svr Business Intelligence 2012 w SP1 ChnSimp Download Only 32bit -3,ISO
+X18-78062,SQL Svr Business Intelligence 2012 w SP1 French Download Only 32bit -3,ISO
+X18-78063,SQL Svr Developer Edition 2012 w SP1 Brazilian Download Only 32bit -2,ISO
+X18-78064,SQL Svr Developer Edition 2012 w SP1 Brazilian Download Only 64bit -2,ISO
+X18-78065,SQL Svr Developer Edition 2012 w SP1 ChnSimp Download Only 32bit -2,ISO
+X18-78066,SQL Svr Developer Edition 2012 w SP1 ChnSimp Download Only 64bit -2,ISO
+X18-78067,SQL Svr Developer Edition 2012 w SP1 ChnTrad Download Only 32bit -2,ISO
+X18-78068,SQL Svr Developer Edition 2012 w SP1 ChnTrad Download Only 64bit -2,ISO
+X18-78069,SQL Svr Developer Edition 2012 w SP1 English Download Only 32bit -2,ISO
+X18-78070,SQL Svr Developer Edition 2012 w SP1 English Download Only 64bit -2,ISO
+X18-78071,SQL Svr Developer Edition 2012 w SP1 French Download Only 32bit -2,ISO
+X18-78072,SQL Svr Developer Edition 2012 w SP1 French Download Only 64bit -2,ISO
+X18-78073,SQL Svr Developer Edition 2012 w SP1 German Download Only 32bit -2,ISO
+X18-78074,SQL Svr Developer Edition 2012 w SP1 German Download Only 64bit -2,ISO
+X18-78075,SQL Svr Developer Edition 2012 w SP1 Italian Download Only 32bit -2,ISO
+X18-78076,SQL Svr Developer Edition 2012 w SP1 Italian Download Only 64bit -2,ISO
+X18-78077,SQL Svr Developer Edition 2012 w SP1 Japanese Download Only 32bit -2,ISO
+X18-78078,SQL Svr Developer Edition 2012 w SP1 Japanese Download Only 64bit -2,ISO
+X18-78079,SQL Svr Developer Edition 2012 w SP1 Korean Download Only 32bit -2,ISO
+X18-78080,SQL Svr Developer Edition 2012 w SP1 Korean Download Only 64bit -2,ISO
+X18-78081,SQL Svr Developer Edition 2012 w SP1 Russian Download Only 32bit -2,ISO
+X18-78082,SQL Svr Developer Edition 2012 w SP1 Russian Download Only 64bit -2,ISO
+X18-78083,SQL Svr Developer Edition 2012 w SP1 Spanish Download Only 32bit -2,ISO
+X18-78084,SQL Svr Developer Edition 2012 w SP1 Spanish Download Only 64bit -2,ISO
+X18-78085,SQL Svr Enterprise Core 2012 w SP1 ChnSimp Download Only 32bit -2,ISO
+X18-78086,SQL Svr Enterprise Core 2012 w SP1 ChnSimp Download Only 64bit -2,ISO
+X18-78087,SQL Svr Enterprise Core 2012 w SP1 ChnTrad Download Only 32bit -2,ISO
+X18-78088,SQL Svr Enterprise Core 2012 w SP1 ChnTrad Download Only 64bit -2,ISO
+X18-78089,SQL Svr Enterprise Core 2012 w SP1 Brazilian Download Only 32bit -2,ISO
+X18-78090,SQL Svr Enterprise Core 2012 w SP1 Brazilian Download Only 64bit -2,ISO
+X18-78091,SQL Svr Enterprise Core 2012 w SP1 English Download Only 32bit -2,ISO
+X18-78092,SQL Svr Enterprise Core 2012 w SP1 English Download Only 64bit -2,ISO
+X18-78093,SQL Svr Enterprise Core 2012 w SP1 French Download Only 32bit -2,ISO
+X18-78094,SQL Svr Enterprise Core 2012 w SP1 French Download Only 64bit -2,ISO
+X18-78095,SQL Svr Enterprise Core 2012 w SP1 German Download Only 32bit -2,ISO
+X18-78096,SQL Svr Enterprise Core 2012 w SP1 German Download Only 64bit -2,ISO
+X18-78097,SQL Svr Enterprise Core 2012 w SP1 Italian Download Only 32bit -2,ISO
+X18-78098,SQL Svr Enterprise Core 2012 w SP1 Italian Download Only 64bit -2,ISO
+X18-78099,SQL Svr Enterprise Core 2012 w SP1 Japanese Download Only 32bit -2,ISO
+X18-78100,SQL Svr Enterprise Core 2012 w SP1 Japanese Download Only 64bit -2,ISO
+X18-78101,SQL Svr Enterprise Core 2012 w SP1 Korean Download Only 32bit -2,ISO
+X18-78102,SQL Svr Enterprise Core 2012 w SP1 Korean Download Only 64bit -2,ISO
+X18-78103,SQL Svr Enterprise Core 2012 w SP1 Russian Download Only 32bit -2,ISO
+X18-78104,SQL Svr Enterprise Core 2012 w SP1 Russian Download Only 64bit -2,ISO
+X18-78105,SQL Svr Enterprise Core 2012 w SP1 Spanish Download Only 32bit -2,ISO
+X18-78106,SQL Svr Enterprise Core 2012 w SP1 Spanish Download Only 64bit -2,ISO
+X18-78107,SQL Svr Enterprise Edition 2012 w SP1 Brazilian Download Only 32bit -2,ISO
+X18-78108,SQL Svr Enterprise Edition 2012 w SP1 Brazilian Download Only 64bit -2,ISO
+X18-78109,SQL Svr Enterprise Edition 2012 w SP1 ChnSimp Download Only 32bit -2,ISO
+X18-78110,SQL Svr Enterprise Edition 2012 w SP1 ChnSimp Download Only 64bit -2,ISO
+X18-78111,SQL Svr Enterprise Edition 2012 w SP1 ChnTrad Download Only 32bit -2,ISO
+X18-78112,SQL Svr Enterprise Edition 2012 w SP1 ChnTrad Download Only 64bit -2,ISO
+X18-78113,SQL Svr Enterprise Edition 2012 w SP1 English Download Only 32bit -2,ISO
+X18-78114,SQL Svr Enterprise Edition 2012 w SP1 English Download Only 64bit -2,ISO
+X18-78115,SQL Svr Enterprise Edition 2012 w SP1 French Download Only 32bit -2,ISO
+X18-78116,SQL Svr Enterprise Edition 2012 w SP1 French Download Only 64bit -2,ISO
+X18-78117,SQL Svr Enterprise Edition 2012 w SP1 German Download Only 32bit -2,ISO
+X18-78118,SQL Svr Enterprise Edition 2012 w SP1 German Download Only 64bit -2,ISO
+X18-78119,SQL Svr Enterprise Edition 2012 w SP1 Italian Download Only 32bit -2,ISO
+X18-78120,SQL Svr Enterprise Edition 2012 w SP1 Italian Download Only 64bit -2,ISO
+X18-78121,SQL Svr Enterprise Edition 2012 w SP1 Japanese Download Only 32bit -2,ISO
+X18-78122,SQL Svr Enterprise Edition 2012 w SP1 Japanese Download Only 64bit -2,ISO
+X18-78123,SQL Svr Enterprise Edition 2012 w SP1 Korean Download Only 32bit -2,ISO
+X18-78124,SQL Svr Enterprise Edition 2012 w SP1 Korean Download Only 64bit -2,ISO
+X18-78125,SQL Svr Enterprise Edition 2012 w SP1 Russian Download Only 32bit -2,ISO
+X18-78126,SQL Svr Enterprise Edition 2012 w SP1 Russian Download Only 64bit -2,ISO
+X18-78127,SQL Svr Enterprise Edition 2012 w SP1 Spanish Download Only 32bit -2,ISO
+X18-78128,SQL Svr Enterprise Edition 2012 w SP1 Spanish Download Only 64bit -2,ISO
+X18-78129,SQL Svr Standard Edition 2012 w SP1 Brazilian Download Only 32bit -2,ISO
+X18-78130,SQL Svr Standard Edition 2012 w SP1 Brazilian Download Only 64bit -2,ISO
+X18-78131,SQL Svr Standard Edition 2012 w SP1 ChnSimp Download Only 32bit -2,ISO
+X18-78132,SQL Svr Standard Edition 2012 w SP1 ChnSimp Download Only 64bit -2,ISO
+X18-78133,SQL Svr Standard Edition 2012 w SP1 ChnTrad Download Only 32bit -2,ISO
+X18-78134,SQL Svr Standard Edition 2012 w SP1 ChnTrad Download Only 64bit -2,ISO
+X18-78135,SQL Svr Standard Edition 2012 w SP1 English Download Only 32bit -2,ISO
+X18-78136,SQL Svr Standard Edition 2012 w SP1 English Download Only 64bit -2,ISO
+X18-78137,SQL Svr Standard Edition 2012 w SP1 French Download Only 32bit -2,ISO
+X18-78138,SQL Svr Standard Edition 2012 w SP1 French Download Only 64bit -2,ISO
+X18-78139,SQL Svr Standard Edition 2012 w SP1 German Download Only 32bit -2,ISO
+X18-78140,SQL Svr Standard Edition 2012 w SP1 German Download Only 64bit -2,ISO
+X18-78141,SQL Svr Standard Edition 2012 w SP1 Italian Download Only 32bit -2,ISO
+X18-78142,SQL Svr Standard Edition 2012 w SP1 Italian Download Only 64bit -2,ISO
+X18-78143,SQL Svr Standard Edition 2012 w SP1 Japanese Download Only 32bit -2,ISO
+X18-78144,SQL Svr Standard Edition 2012 w SP1 Japanese Download Only 64bit -2,ISO
+X18-78145,SQL Svr Standard Edition 2012 w SP1 Korean Download Only 32bit -2,ISO
+X18-78146,SQL Svr Standard Edition 2012 w SP1 Korean Download Only 64bit -2,ISO
+X18-78147,SQL Svr Standard Edition 2012 w SP1 Russian Download Only 32bit -2,ISO
+X18-78148,SQL Svr Standard Edition 2012 w SP1 Russian Download Only 64bit -2,ISO
+X18-78149,SQL Svr Standard Edition 2012 w SP1 Spanish Download Only 32bit -2,ISO
+X18-78150,SQL Svr Standard Edition 2012 w SP1 Spanish Download Only 64bit -2,ISO
+X18-78151,SQL Svr Web Edition 2012 w SP1 Brazilian Download Only 32bit -2,ISO
+X18-78152,SQL Svr Web Edition 2012 w SP1 Brazilian Download Only 64bit -2,ISO
+X18-78153,SQL Svr Web Edition 2012 w SP1 ChnSimp Download Only 32bit -2,ISO
+X18-78154,SQL Svr Web Edition 2012 w SP1 ChnSimp Download Only 64bit -2,ISO
+X18-78155,SQL Svr Web Edition 2012 w SP1 ChnTrad Download Only 32bit -2,ISO
+X18-78156,SQL Svr Web Edition 2012 w SP1 ChnTrad Download Only 64bit -2,ISO
+X18-78157,SQL Svr Web Edition 2012 w SP1 English Download Only 32bit -2,ISO
+X18-78158,SQL Svr Web Edition 2012 w SP1 English Download Only 64bit -2,ISO
+X18-78159,SQL Svr Web Edition 2012 w SP1 French Download Only 32bit -2,ISO
+X18-78160,SQL Svr Web Edition 2012 w SP1 French Download Only 64bit -2,ISO
+X18-78161,SQL Svr Web Edition 2012 w SP1 German Download Only 32bit -2,ISO
+X18-78162,SQL Svr Web Edition 2012 w SP1 German Download Only 64bit -2,ISO
+X18-78163,SQL Svr Web Edition 2012 w SP1 Italian Download Only 32bit -2,ISO
+X18-78164,SQL Svr Web Edition 2012 w SP1 Italian Download Only 64bit -2,ISO
+X18-78165,SQL Svr Web Edition 2012 w SP1 Japanese Download Only 32bit -2,ISO
+X18-78166,SQL Svr Web Edition 2012 w SP1 Japanese Download Only 64bit -2,ISO
+X18-78167,SQL Svr Web Edition 2012 w SP1 Korean Download Only 32bit -2,ISO
+X18-78168,SQL Svr Web Edition 2012 w SP1 Korean Download Only 64bit -2,ISO
+X18-78169,SQL Svr Web Edition 2012 w SP1 Russian Download Only 32bit -2,ISO
+X18-78170,SQL Svr Web Edition 2012 w SP1 Russian Download Only 64bit -2,ISO
+X18-78171,SQL Svr Web Edition 2012 w SP1 Spanish Download Only 32bit -2,ISO
+X18-78172,SQL Svr Web Edition 2012 w SP1 Spanish Download Only 64bit -2,ISO
