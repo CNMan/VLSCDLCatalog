@@ -12763,6 +12763,17 @@ X19-11682,SW DVD5 Win Embed Industry ENT 8.1 W32 ChnTrad Hong Kong MLF,ISO
 X19-11687,SW DVD5 Win Embed Industry ENT 8.1 64Bit ChnTrad Hong Kong MLF,ISO
 X19-11692,SW DVD5 Win Embed Industry ENT 8.1 W32 Eng Intl MLF,ISO
 X19-11697,SW DVD5 Win Embed Industry ENT 8.1 64Bit Eng Intl MLF,ISO
+X19-11710,SW DVD5 Dsktp Optimization Pck SA 2013 R2 Brazilian MVLS MLF,ISO
+X19-11712,SW DVD5 Dsktp Optimization Pck SA 2013 R2 ChnSimp MVLS MLF,ISO
+X19-11714,SW DVD5 Dsktp Optimization Pck SA 2013 R2 ChnTrad MVLS MLF,ISO
+X19-11716,SW DVD5 Dsktp Optimization Pck SA 2013 R2 English MVLS MLF,ISO
+X19-11718,SW DVD5 Dsktp Optimization Pck SA 2013 R2 French MVLS MLF,ISO
+X19-11720,SW DVD5 Dsktp Optimization Pck SA 2013 R2 German MVLS MLF,ISO
+X19-11722,SW DVD5 Dsktp Optimization Pck SA 2013 R2 Italian MVLS MLF,ISO
+X19-11724,SW DVD5 Dsktp Optimization Pck SA 2013 R2 Japanese MVLS MLF,ISO
+X19-11726,SW DVD5 Dsktp Optimization Pck SA 2013 R2 Korean MVLS MLF,ISO
+X19-11728,SW DVD5 Dsktp Optimization Pck SA 2013 R2 Russian MVLS MLF,ISO
+X19-11730,SW DVD5 Dsktp Optimization Pck SA 2013 R2 Spanish MVLS MLF,ISO
 X19-11735,SW DVD5 Win Embedded Industry Pro 8.1 W32 Latvian MLF,ISO
 X19-11740,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Latvian MLF,ISO
 X19-11745,SW DVD5 Win Embedded Industry Pro 8.1 W32 Lithuanian MLF,ISO
@@ -12771,6 +12782,7 @@ X19-11755,SW DVD5 Win Embedded Industry Pro 8.1 W32 Croatian MLF,ISO
 X19-11760,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Croatian MLF,ISO
 X19-11765,SW DVD5 Win Embedded Industry Pro 8.1 W32 Ukrainian MLF,ISO
 X19-11770,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Ukrainian MLF,ISO
+X19-11809,SW DVD5 User Exp Virt SAL 2.0 MultiLang MLF,ISO
 X19-11817,SW DVD5 Project Server 2010w SP2 64Bit Brazilian MLF,ISO
 X19-11821,SW DVD5 Project Server 2010w SP2 64Bit ChnSimp MLF,ISO
 X19-11825,SW DVD5 Project Server 2010w SP2 64Bit English MLF,ISO
@@ -12795,31 +12807,56 @@ X19-11897,SW DVD5 Project Server 2010w SP2 64Bit Finnish MLF,ISO
 X19-11901,SW DVD5 Project Server 2010w SP2 64Bit Russian MLF,ISO
 X19-11905,SW DVD5 Project Server 2010w SP2 64Bit Turkish MLF,ISO
 X19-11909,SW DVD5 Project Server 2010w SP2 64Bit ChnTrad MLF,ISO
+X19-11913,SW DVD5 SharePoint Server 2010w SP2 64Bit Brazilian Lng Pk MLF,ISO
 X19-11917,SW DVD5 SharePoint Server 2010w SP2 64Bit Brazilian MLF,ISO
+X19-11921,SW DVD5 SharePoint Server 2010w SP2 64Bit ChnSimp Lng Pk MLF,ISO
 X19-11925,SW DVD5 SharePoint Server 2010w SP2 64Bit ChnSimp MLF,ISO
+X19-11929,SW DVD5 SharePoint Server 2010w SP2 64Bit English Lng Pk MLF,ISO
 X19-11933,SW DVD5 SharePoint Server 2010w SP2 64Bit English MLF,ISO
+X19-11937,SW DVD5 SharePoint Server 2010w SP2 64Bit Arabic Lng Pk MLF,ISO
 X19-11941,SW DVD5 SharePoint Server 2010w SP2 64Bit Arabic MLF,ISO
+X19-11945,SW DVD5 SharePoint Server 2010w SP2 64Bit Czech Lng Pk MLF,ISO
 X19-11949,SW DVD5 SharePoint Server 2010w SP2 64Bit Czech MLF,ISO
+X19-11953,SW DVD5 SharePoint Server 2010w SP2 64Bit German Lng Pk MLF,ISO
 X19-11957,SW DVD5 SharePoint Server 2010w SP2 64Bit German MLF,ISO
+X19-11961,SW DVD5 SharePoint Server 2010w SP2 64Bit Danish Lng Pk MLF,ISO
 X19-11965,SW DVD5 SharePoint Server 2010w SP2 64Bit Danish MLF,ISO
+X19-11969,SW DVD5 SharePoint Server 2010w SP2 64Bit Spanish Lng Pk MLF,ISO
 X19-11973,SW DVD5 SharePoint Server 2010w SP2 64Bit Spanish MLF,ISO
+X19-11977,SW DVD5 SharePoint Server 2010w SP2 64Bit French Lng Pk MLF,ISO
 X19-11982,SW DVD5 SharePoint Server 2010w SP2 64Bit French MLF,ISO
+X19-11986,SW DVD5 SharePoint Server 2010w SP2 64Bit Greek Lng Pk MLF,ISO
 X19-11990,SW DVD5 SharePoint Server 2010w SP2 64Bit Greek MLF,ISO
+X19-11994,SW DVD5 SharePoint Server 2010w SP2 64Bit Hebrew Lng Pk MLF,ISO
 X19-11998,SW DVD5 SharePoint Server 2010w SP2 64Bit Hebrew MLF,ISO
 X19-12002,SW DVD5 SharePoint Server 2010SP2 64Bit MultiLang MLF,ISO
+X19-12006,SW DVD5 SharePoint Server 2010w SP2 64Bit Hungarian Lng Pk MLF,ISO
 X19-12010,SW DVD5 SharePoint Server 2010w SP2 64Bit Hungarian MLF,ISO
+X19-12014,SW DVD5 SharePoint Server 2010w SP2 64Bit Italian Lng Pk MLF,ISO
 X19-12018,SW DVD5 SharePoint Server 2010w SP2 64Bit Italian MLF,ISO
+X19-12022,SW DVD5 SharePoint Server 2010w SP2 64Bit Japanese Lng Pk MLF,ISO
 X19-12026,SW DVD5 SharePoint Server 2010w SP2 64Bit Japanese MLF,ISO
+X19-12030,SW DVD5 SharePoint Server 2010w SP2 64Bit Korean Lng Pk MLF,ISO
 X19-12034,SW DVD5 SharePoint Server 2010w SP2 64Bit Korean MLF,ISO
+X19-12038,SW DVD5 SharePoint Server 2010w SP2 64Bit Norwegian Lng Pk MLF,ISO
 X19-12042,SW DVD5 SharePoint Server 2010w SP2 64Bit Norwegian MLF,ISO
+X19-12046,SW DVD5 SharePoint Server 2010w SP2 64Bit Dutch Lng Pk MLF,ISO
 X19-12050,SW DVD5 SharePoint Server 2010w SP2 64Bit Dutch MLF,ISO
+X19-12054,SW DVD5 SharePoint Server 2010w SP2 64Bit Portuguese Lng Pk MLF,ISO
 X19-12058,SW DVD5 SharePoint Server 2010w SP2 64Bit Portuguese MLF,ISO
+X19-12062,SW DVD5 SharePoint Server 2010w SP2 64Bit Polish Lng Pk MLF,ISO
 X19-12066,SW DVD5 SharePoint Server 2010w SP2 64Bit Polish MLF,ISO
+X19-12070,SW DVD5 SharePoint Server 2010w SP2 64Bit Swedish Lng Pk MLF,ISO
 X19-12074,SW DVD5 SharePoint Server 2010w SP2 64Bit Swedish MLF,ISO
+X19-12078,SW DVD5 SharePoint Server 2010w SP2 64Bit Finnish Lng Pk MLF,ISO
 X19-12083,SW DVD5 SharePoint Server 2010w SP2 64Bit Finnish MLF,ISO
+X19-12087,SW DVD5 SharePoint Server 2010w SP2 64Bit Russian Lng Pk MLF,ISO
 X19-12091,SW DVD5 SharePoint Server 2010w SP2 64Bit Russian MLF,ISO
+X19-12095,SW DVD5 SharePoint Server 2010w SP2 64Bit Thai Lng Pk MLF,ISO
 X19-12099,SW DVD5 SharePoint Server 2010w SP2 64Bit Thai MLF,ISO
+X19-12103,SW DVD5 SharePoint Server 2010w SP2 64Bit Turkish Lng Pk MLF,ISO
 X19-12107,SW DVD5 SharePoint Server 2010w SP2 64Bit Turkish MLF,ISO
+X19-12111,SW DVD5 SharePoint Server 2010w SP2 64Bit ChnTrad Lng Pk MLF,ISO
 X19-12115,SW DVD5 SharePoint Server 2010w SP2 64Bit ChnTrad MLF,ISO
 X19-12119,SW DVD5 Office Professional Plus 2010w SP2 64Bit Brazilian Web Apps MLF,ISO
 X19-12123,SW DVD5 Office Professional Plus 2010w SP2 64Bit ChnSimp Web Apps MLF,ISO
@@ -12879,6 +12916,25 @@ X19-12433,SW DVD5 Search Server 2010w SP2 64Bit Russian MLF,ISO
 X19-12437,SW DVD5 Search Server 2010w SP2 64Bit Thai MLF,ISO
 X19-12441,SW DVD5 Search Server 2010w SP2 64Bit Turkish MLF,ISO
 X19-12445,SW DVD5 Search Server 2010w SP2 64Bit ChnTrad MLF,ISO
+X19-12449,SW DVD5 SharePoint Server 2010w SP2 64Bit Latvian Lng Pk MLF,ISO
+X19-12453,SW DVD5 SharePoint Server 2010w SP2 64Bit Lithuanian Lng Pk MLF,ISO
+X19-12461,SW DVD5 SharePoint Server 2010w SP2 64Bit Croatian Lng Pk MLF,ISO
+X19-12465,SW DVD5 SharePoint Server 2010w SP2 64Bit Serbian Latin Lng Pk MLF,ISO
+X19-12469,SW DVD5 SharePoint Server 2010w SP2 64Bit Bulgarian Lng Pk MLF,ISO
+X19-12473,SW DVD5 SharePoint Server 2010w SP2 64Bit Slovenian Lng Pk MLF,ISO
+X19-12477,SW DVD5 SharePoint Server 2010w SP2 64Bit Estonian Lng Pk MLF,ISO
+X19-12481,SW DVD5 SharePoint Server 2010w SP2 64Bit Romanian Lng Pk MLF,ISO
+X19-12485,SW DVD5 SharePoint Server 2010w SP2 64Bit Slovak Lng Pk MLF,ISO
+X19-12489,SW DVD5 SharePoint Server 2010w SP2 64Bit Kazakh Lng Pk MLF,ISO
+X19-12493,SW DVD5 SharePoint Server 2010w SP2 64Bit MALAY Lng Pk MLF,ISO
+X19-12497,SW DVD5 SharePoint Server 2010w SP2 64Bit Ukrainian Lng Pk MLF,ISO
+X19-12501,SW DVD5 SharePoint Server 2010w SP2 64Bit Indic Lng Pk MLF,ISO
+X19-12505,SW DVD5 SharePoint Server 2010w SP2 64Bit Indonesian Lng Pk MLF,ISO
+X19-12509,SW DVD5 SharePoint Server 2010w SP2 64Bit Vietnamese Lng Pk MLF,ISO
+X19-12628,SW CD App V CAL for RDS 4.6w SP3 MultiLang MLF,ISO
+X19-12629,SW CD App Virt SAL 4.6w SP3 MultiLang MLF,ISO
+X19-13017,SW CD App V CAL for RDS 5.0w SP2 MultiLang MLF,ISO
+X19-13021,SW CD App Virt SAL 5.0w SP2 MultiLang MLF,ISO
 X19-13231,SW DVD5 VS Premium 2012 ChnSimp -2 Core MLF,ISO
 X19-13232,SW DVD5 VS Premium 2012 English -2 Core MLF,ISO
 X19-13234,SW DVD5 VS Premium 2012 German -2 Core MLF,ISO
@@ -13037,3 +13093,23 @@ X19-27626,SW DVD5 Release Management for Visual Studio 2013 Spanish,ISO
 X19-27627,SW DVD5 Release Management for Visual Studio 2013 Italian,ISO
 X19-27628,SW DVD5 Release Management for Visual Studio 2013 Korean,ISO
 X19-27629,SW DVD5 Release Management for Visual Studio 2013 ChnTrad,ISO
+X19-30577,SW DVD5 Sys Ctr Endpnt Prtctn 2012 R2 MultiLang -2 EptProt Lin Mac MLF,ISO
+X19-31413,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Brazilian -2 Core MLF,ISO
+X19-31414,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit ChnSimp -2 Core MLF,ISO
+X19-31415,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit ChnTrad -3 Core MLF,ISO
+X19-31416,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit ChnTrad HK -3 Core MLF,ISO
+X19-31417,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Czech -2 Core MLF,ISO
+X19-31418,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Dutch -2 Core MLF,ISO
+X19-31419,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit English -2 Core MLF,ISO
+X19-31420,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit French -2 Core MLF,ISO
+X19-31421,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit German -2 Core MLF,ISO
+X19-31422,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Hungarian -2 Core MLF,ISO
+X19-31423,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Italian -2 Core MLF,ISO
+X19-31424,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Japanese -2 Core MLF,ISO
+X19-31425,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Korean -2 Core MLF,ISO
+X19-31426,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Polish -2 Core MLF,ISO
+X19-31427,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Portuguese -2 Core MLF,ISO
+X19-31428,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Russian -2 Core MLF,ISO
+X19-31429,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Spanish -2 Core MLF,ISO
+X19-31430,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Swedish -2 Core MLF,ISO
+X19-31431,SW DVD9 Windows Svr Std and DataCtr 2012 R2 64Bit Turkish -2 Core MLF,ISO
