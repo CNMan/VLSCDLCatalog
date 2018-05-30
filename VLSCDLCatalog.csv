@@ -32758,6 +32758,9 @@ X21-63800,SW DVD5 Office Professional Plus 64Bit Spanish -5 OfficeOnlineSvr MLF,
 X21-63801,SW DVD5 Office Professional Plus 64Bit Swedish -5 OfficeOnlineSvr MLF,ISO
 X21-63802,SW DVD5 Office Professional Plus 64Bit Thai -5 OfficeOnlineSvr MLF,ISO
 X21-63803,SW DVD5 Office Professional Plus 64Bit Turkish -5 OfficeOnlineSvr MLF,ISO
+X21-64478,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang Orch MLF,ISO
+X21-64479,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang SvcMgr MLF,ISO
+X21-64482,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang VMM MLF,ISO
 X21-64582,SW DVD5 Visual Studio Test Pro 2017 MultiLang -4 Lang Pk MLF,EXE
 X21-64583,SW DVD5 Visual Studio Pro 2017 MultiLang -4 Lang Pk MLF,EXE
 X21-64584,SW DVD5 Visual Studio Ent 2017 MultiLang -4 Lang Pk MLF,EXE
@@ -32787,7 +32790,26 @@ X21-66414,SW DVD9 NTRL Win 10 1709.1 64Bit Eng Intl Home Pro SL S N,ISO
 X21-66415,SW DVD9 NTRL Win 10 1709.1 W32 Eng Intl Home Pro SL S N,ISO
 X21-66416,SW DVD9 NTRL Win 10 1709.1 64Bit Thai Home Pro SL S N,ISO
 X21-66417,SW DVD9 NTRL Win 10 1709.1 W32 Thai Home Pro SL S N,ISO
+X21-66432,SW DVD5 Sys Ctr DataCenter Core 1801 Brazilian OpsMgr MLF,ISO
+X21-66433,SW DVD5 Sys Ctr DataCenter Core 1801 ChnSimp OpsMgr MLF,ISO
+X21-66434,SW DVD5 Sys Ctr DataCenter Core 1801 English OpsMgr MLF,ISO
+X21-66435,SW DVD5 Sys Ctr DataCenter Core 1801 Czech OpsMgr MLF,ISO
+X21-66436,SW DVD5 Sys Ctr DataCenter Core 1801 German OpsMgr MLF,ISO
+X21-66437,SW DVD5 Sys Ctr DataCenter Core 1801 Spanish OpsMgr MLF,ISO
+X21-66438,SW DVD5 Sys Ctr DataCenter Core 1801 French OpsMgr MLF,ISO
+X21-66439,SW DVD5 Sys Ctr DataCenter Core 1801 Hungarian OpsMgr MLF,ISO
+X21-66440,SW DVD5 Sys Ctr DataCenter Core 1801 Italian OpsMgr MLF,ISO
+X21-66441,SW DVD5 Sys Ctr DataCenter Core 1801 Japanese OpsMgr MLF,ISO
+X21-66442,SW DVD5 Sys Ctr DataCenter Core 1801 Korean OpsMgr MLF,ISO
+X21-66443,SW DVD5 Sys Ctr DataCenter Core 1801 Dutch OpsMgr MLF,ISO
+X21-66444,SW DVD5 Sys Ctr DataCenter Core 1801 Portuguese OpsMgr MLF,ISO
+X21-66445,SW DVD5 Sys Ctr DataCenter Core 1801 Polish OpsMgr MLF,ISO
+X21-66446,SW DVD5 Sys Ctr DataCenter Core 1801 Swedish OpsMgr MLF,ISO
+X21-66447,SW DVD5 Sys Ctr DataCenter Core 1801 Russian OpsMgr MLF,ISO
+X21-66448,SW DVD5 Sys Ctr DataCenter Core 1801 Turkish OpsMgr MLF,ISO
+X21-66449,SW DVD5 Sys Ctr DataCenter Core 1801 ChnTrad OpsMgr MLF,ISO
 X21-67049,SW DVD9 Exchange Svr 2016 MultiLang -9 Std Ent .iso MLF,ISO
+X21-67050,SW DVD5 Sys Ctr Endpnt Prtctn 1606 MultiLang -3 EptProt Lin Mac MLF,ISO
 X21-67496,SW DVD9 Win Pro 10 1709.1 64BIT Dutch Pro Ent EDU N MLF,ISO
 X21-67497,SW DVD5 Win Pro 10 1709.1 32BIT Portuguese Pro Ent EDU N MLF,ISO
 X21-67498,SW DVD9 Win Pro 10 1709.1 64BIT Portuguese Pro Ent EDU N MLF,ISO
@@ -32932,3 +32954,41 @@ X21-67636,SW DVD9 Win 10 1709.1 64Bit Turkish S MLF,ISO
 X21-67637,SW DVD9 Win 10 1709.1 W32 Turkish S MLF,ISO
 X21-67638,SW DVD9 Win 10 1709.1 64Bit Ukrainian S MLF,ISO
 X21-67639,SW DVD9 Win 10 1709.1 W32 Ukrainian S MLF,ISO
+X21-70524,SW DVD9 Win Server STD CORE 2016 64Bit Brazilian -4 DC STD MLF,ISO
+X21-70525,SW DVD9 Win Server STD CORE 2016 64Bit ChnSimp -4 DC STD MLF,ISO
+X21-70526,SW DVD9 Win Server STD CORE 2016 64Bit English -4 DC STD MLF,ISO
+X21-70527,SW DVD9 Win Server STD CORE 2016 64Bit Czech -4 DC STD MLF,ISO
+X21-70528,SW DVD9 Win Server STD CORE 2016 64Bit German -4 DC STD MLF,ISO
+X21-70529,SW DVD9 Win Server STD CORE 2016 64Bit Spanish -4 DC STD MLF,ISO
+X21-70530,SW DVD9 Win Server STD CORE 2016 64Bit French -4 DC STD MLF,ISO
+X21-70531,SW DVD9 Win Server STD CORE 2016 64Bit Hungarian -4 DC STD MLF,ISO
+X21-70532,SW DVD9 Win Server STD CORE 2016 64Bit Italian -4 DC STD MLF,ISO
+X21-70533,SW DVD9 Win Server STD CORE 2016 64Bit Japanese -4 DC STD MLF,ISO
+X21-70534,SW DVD9 Win Server STD CORE 2016 64Bit Korean -4 DC STD MLF,ISO
+X21-70535,SW DVD9 Win Server STD CORE 2016 64Bit Dutch -4 DC STD MLF,ISO
+X21-70536,SW DVD9 Win Server STD CORE 2016 64Bit Portuguese -4 DC STD MLF,ISO
+X21-70537,SW DVD9 Win Server STD CORE 2016 64Bit Polish -4 DC STD MLF,ISO
+X21-70538,SW DVD9 Win Server STD CORE 2016 64Bit Swedish -4 DC STD MLF,ISO
+X21-70539,SW DVD9 Win Server STD CORE 2016 64Bit Russian -4 DC STD MLF,ISO
+X21-70540,SW DVD9 Win Server STD CORE 2016 64Bit Turkish -4 DC STD MLF,ISO
+X21-70541,SW DVD9 Win Server STD CORE 2016 64Bit ChnTrad -4 DC STD MLF,ISO
+X21-70542,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Turkish -3,ISO
+X21-70543,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Swedish -3,ISO
+X21-70544,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Spanish -3,ISO
+X21-70545,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Russian -3,ISO
+X21-70546,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Portuguese -3,ISO
+X21-70547,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Polish -3,ISO
+X21-70548,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Korean -3,ISO
+X21-70549,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Japanese -3,ISO
+X21-70550,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Italian -3,ISO
+X21-70551,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Hungarian -3,ISO
+X21-70552,SW DVD9 NTRL Win Svr Essentials 2016 64Bit German -3,ISO
+X21-70553,SW DVD9 NTRL Win Svr Essentials 2016 64Bit French -3,ISO
+X21-70554,SW DVD9 NTRL Win Svr Essentials 2016 64Bit English -3,ISO
+X21-70555,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Dutch -3,ISO
+X21-70556,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Czech -3,ISO
+X21-70557,SW DVD9 NTRL Win Svr Essentials 2016 64Bit ChnTrad -3,ISO
+X21-70558,SW DVD9 NTRL Win Svr Essentials 2016 64Bit ChnSimp -3,ISO
+X21-70559,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Brazilian -3,ISO
+X21-73764,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang -2 DPM MLF,ISO
+X21-74437,Visual Studio Team Foundation Server 2018 with Update 1 - MultiLang,ISO
