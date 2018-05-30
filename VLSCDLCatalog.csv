@@ -32762,8 +32762,14 @@ X21-64478,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang Orch MLF,ISO
 X21-64479,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang SvcMgr MLF,ISO
 X21-64482,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang VMM MLF,ISO
 X21-64582,SW DVD5 Visual Studio Test Pro 2017 MultiLang -4 Lang Pk MLF,EXE
+X21-64582,SW ELECTRONIC Visual Studio Test Pro 2017 MultiLang -4 Lang Pk MLF,EXE
 X21-64583,SW DVD5 Visual Studio Pro 2017 MultiLang -4 Lang Pk MLF,EXE
+X21-64583,SW ELECTRONIC Visual Studio Pro 2017 MultiLang -4 Lang Pk MLF,EXE
 X21-64584,SW DVD5 Visual Studio Ent 2017 MultiLang -4 Lang Pk MLF,EXE
+X21-64584,SW ELECTRONIC Visual Studio Ent 2017 MultiLang -4 Lang Pk MLF,EXE
+X21-64642,SW DVD5 AdvThrtAnltcs CltMgtLic 1.9 MultiLang MVLS MLF,ISO
+X21-65799,SW DVD9 Machine Learning Server 2016 English HadoopFebRfrsh MLF,ISO
+X21-65801,SW DVD9 Machine Learning Server 2016 English LinuxFebRrfrsh MLF,ISO
 X21-65880,SW DVD9 Win Server STD CORE 1709 64Bit Brazilian DC STD MLF,ISO
 X21-65881,SW DVD9 Win Server STD CORE 1709 64Bit ChnSimp DC STD MLF,ISO
 X21-65882,SW DVD9 Win Server STD CORE 1709 64Bit English DC STD MLF,ISO
@@ -32992,3 +32998,4 @@ X21-70558,SW DVD9 NTRL Win Svr Essentials 2016 64Bit ChnSimp -3,ISO
 X21-70559,SW DVD9 NTRL Win Svr Essentials 2016 64Bit Brazilian -3,ISO
 X21-73764,SW DVD5 Sys Ctr DataCenter Core 1801 MultiLang -2 DPM MLF,ISO
 X21-74437,Visual Studio Team Foundation Server 2018 with Update 1 - MultiLang,ISO
+X21-76277,SW DVD5 Machine Learning Server 2016 English -2 MachLearnforWin MLF,ISO
