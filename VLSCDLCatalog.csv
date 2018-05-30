@@ -9728,6 +9728,7 @@ X17-82163,SW DVD5 Office 2010w SP1 64Bit Turkish CORE MLF,ISO
 X17-82164,SW DVD5 Office 2010w SP1 W32 Ukrainian CORE MLF,ISO
 X17-82165,SW DVD5 Office 2010w SP1 64Bit Ukrainian CORE MLF,ISO
 X17-88259,SW DVD5 Frfrnt Endpoint Prtcn 2010 32-BIT X64 MultiLang w SU1 MLF,ISO
+X17-88259,SW DVD5 SC Endpoint Protection 2010 32-BIT X64 MultiLang w SU1 MLF,ISO
 X17-88380,SW DVD5 Office Pro 2010SP1 W32 EN XC DA NL FR DE IT PT ES Patch,ISO
 X17-88381,SW DVD5 Office Pro 2010SP1 W32 XT ZH B3 IW HI JA KO TH Patch,ISO
 X17-88382,SW DVD5 Office Pro 2010SP1 W32 ET FI EL KZ LV LT NO PL RU SV UK Patch,ISO
@@ -9763,6 +9764,61 @@ X17-88991,SW DVD5 NTRL Office Web Apps 2010w SP1 64Bit ChnSimp -2,ISO
 X17-88992,SW DVD5 NTRL Office Web Apps 2010w SP1 64Bit ChnTrad -2,ISO
 X17-93967,SW DVD5 Lync Mac 2011 MAC MultiLang ISO MLF,ISO
 X17-95510,SW DVD5 SA E-Learning(IW) Swedish -2 Office2010 R-3 MLF,ISO
+X17-96857,SW DVD9 SQLSvr Bsnss Intelligence 2012 Brazilian MLF,ISO
+X17-96861,SW DVD9 SQLSvr Bsnss Intelligence 2012 ChnSimp MLF,ISO
+X17-96865,SW DVD9 SQLSvr Bsnss Intelligence 2012 ChnTrad MLF,ISO
+X17-96869,SW DVD9 SQLSvr Bsnss Intelligence 2012 English MLF,ISO
+X17-96873,SW DVD9 SQLSvr Bsnss Intelligence 2012 French MLF,ISO
+X17-96877,SW DVD9 SQLSvr Bsnss Intelligence 2012 German MLF,ISO
+X17-96881,SW DVD9 SQLSvr Bsnss Intelligence 2012 Italian MLF,ISO
+X17-96885,SW DVD9 SQLSvr Bsnss Intelligence 2012 Japanese MLF,ISO
+X17-96889,SW DVD9 SQLSvr Bsnss Intelligence 2012 Korean MLF,ISO
+X17-96893,SW DVD9 SQLSvr Bsnss Intelligence 2012 Russian MLF,ISO
+X17-96897,SW DVD9 SQLSvr Bsnss Intelligence 2012 Spanish MLF,ISO
+X17-96901,SW DVD9 SQL Svr Developer Edtn 2012 Brazilian MLF,ISO
+X17-96905,SW DVD9 SQL Svr Developer Edtn 2012 ChnSimp MLF,ISO
+X17-96909,SW DVD9 SQL Svr Developer Edtn 2012 ChnTrad MLF,ISO
+X17-96913,SW DVD9 SQL Svr Developer Edtn 2012 English MLF,ISO
+X17-96917,SW DVD9 SQL Svr Developer Edtn 2012 French MLF,ISO
+X17-96921,SW DVD9 SQL Svr Developer Edtn 2012 German MLF,ISO
+X17-96925,SW DVD9 SQL Svr Developer Edtn 2012 Italian MLF,ISO
+X17-96929,SW DVD9 SQL Svr Developer Edtn 2012 Japanese MLF,ISO
+X17-96933,SW DVD9 SQL Svr Developer Edtn 2012 Korean MLF,ISO
+X17-96937,SW DVD9 SQL Svr Developer Edtn 2012 Russian MLF,ISO
+X17-96941,SW DVD9 SQL Svr Developer Edtn 2012 Spanish MLF,ISO
+X17-96945,SW DVD9 SQL Svr Enterprise Edtn 2012 Brazilian MLF,ISO
+X17-96949,SW DVD9 SQL Svr Enterprise Edtn 2012 ChnSimp MLF,ISO
+X17-96953,SW DVD9 SQL Svr Enterprise Edtn 2012 ChnTrad MLF,ISO
+X17-96957,SW DVD9 SQL Svr Enterprise Edtn 2012 English MLF,ISO
+X17-96961,SW DVD9 SQL Svr Enterprise Edtn 2012 French MLF,ISO
+X17-96965,SW DVD9 SQL Svr Enterprise Edtn 2012 German MLF,ISO
+X17-96969,SW DVD9 SQL Svr Enterprise Edtn 2012 Italian MLF,ISO
+X17-96973,SW DVD9 SQL Svr Enterprise Edtn 2012 Japanese MLF,ISO
+X17-96977,SW DVD9 SQL Svr Enterprise Edtn 2012 Korean MLF,ISO
+X17-96981,SW DVD9 SQL Svr Enterprise Edtn 2012 Russian MLF,ISO
+X17-96985,SW DVD9 SQL Svr Enterprise Edtn 2012 Spanish MLF,ISO
+X17-96989,SW DVD9 SQL Svr Standard Edtn 2012 Brazilian MLF,ISO
+X17-96993,SW DVD9 SQL Svr Standard Edtn 2012 ChnSimp MLF,ISO
+X17-96997,SW DVD9 SQL Svr Standard Edtn 2012 ChnTrad MLF,ISO
+X17-97001,SW DVD9 SQL Svr Standard Edtn 2012 English MLF,ISO
+X17-97005,SW DVD9 SQL Svr Standard Edtn 2012 French MLF,ISO
+X17-97009,SW DVD9 SQL Svr Standard Edtn 2012 German MLF,ISO
+X17-97013,SW DVD9 SQL Svr Standard Edtn 2012 Italian MLF,ISO
+X17-97017,SW DVD9 SQL Svr Standard Edtn 2012 Japanese MLF,ISO
+X17-97021,SW DVD9 SQL Svr Standard Edtn 2012 Korean MLF,ISO
+X17-97025,SW DVD9 SQL Svr Standard Edtn 2012 Russian MLF,ISO
+X17-97029,SW DVD9 SQL Svr Standard Edtn 2012 Spanish MLF,ISO
+X17-97033,SW DVD9 SQL Svr Web Ed 2012 Brazilian MLF,ISO
+X17-97037,SW DVD9 SQL Svr Web Ed 2012 ChnSimp MLF,ISO
+X17-97041,SW DVD9 SQL Svr Web Ed 2012 ChnTrad MLF,ISO
+X17-97045,SW DVD9 SQL Svr Web Ed 2012 English MLF,ISO
+X17-97049,SW DVD9 SQL Svr Web Ed 2012 French MLF,ISO
+X17-97053,SW DVD9 SQL Svr Web Ed 2012 German MLF,ISO
+X17-97057,SW DVD9 SQL Svr Web Ed 2012 Italian MLF,ISO
+X17-97061,SW DVD9 SQL Svr Web Ed 2012 Japanese MLF,ISO
+X17-97065,SW DVD9 SQL Svr Web Ed 2012 Korean MLF,ISO
+X17-97069,SW DVD9 SQL Svr Web Ed 2012 Russian MLF,ISO
+X17-97073,SW DVD9 SQL Svr Web Ed 2012 Spanish MLF,ISO
 X17-97230,SW CD Win Emb Dvc Mgr Svr 2011SP1 ChnSimp MLF,ISO
 X17-97234,SW CD Win Emb Dvc Mgr Svr 2011SP1 English MLF,ISO
 X17-97238,SW CD Win Emb Dvc Mgr Svr 2011SP1 German MLF,ISO
@@ -9796,6 +9852,17 @@ X17-98929,SW DVD5 SA E-Learning(IW) W32 Norwegian -2 Office 2010 R-3 MLF,ISO
 X17-98933,SW DVD5 SA E-Learning(IW) Polish -2 Office 2010 R-3 MLF,ISO
 X17-98937,SW DVD5 SA E-Learning(IW) Russian -2 Office 2010 R-3 MLF,ISO
 X17-98941,SW DVD5 SA E-Learning(IW) Spanish -2 Office 2010 R-2 MLF,ISO
+X17-99671,SW DVD9 SQL Svr Ent Core 2012 Brazilian MLF,ISO
+X17-99675,SW DVD9 SQL Svr Ent Core 2012 ChnSimp MLF,ISO
+X17-99682,SW DVD9 SQL Svr Ent Core 2012 English MLF,ISO
+X17-99686,SW DVD9 SQL Svr Ent Core 2012 German MLF,ISO
+X17-99690,SW DVD9 SQL Svr Ent Core 2012 Spanish MLF,ISO
+X17-99694,SW DVD9 SQL Svr Ent Core 2012 French MLF,ISO
+X17-99698,SW DVD9 SQL Svr Ent Core 2012 Italian MLF,ISO
+X17-99702,SW DVD9 SQL Svr Ent Core 2012 Japanese MLF,ISO
+X17-99706,SW DVD9 SQL Svr Ent Core 2012 Korean MLF,ISO
+X17-99710,SW DVD9 SQL Svr Ent Core 2012 Russian MLF,ISO
+X17-99714,SW DVD9 SQL Svr Ent Core 2012 ChnTrad MLF,ISO
 X17-99897,SW DVD5 SQL Svr Standard Edtn 2008 Brazilian SP3 MLF,ISO
 X17-99901,SW DVD5 SQL Svr Standard Edtn 2008 ChnSimp SP3 MLF,ISO
 X17-99905,SW DVD5 SQL Svr Standard Edtn 2008 ChnTrad SP3 MLF,ISO
@@ -9814,7 +9881,18 @@ X18-00914,SW DVD5 Search Server 2010w SP1 64Bit Czech -2 MLF,ISO
 X18-03026,SW DVD5 Lync Server Ent 2010 64Bit English Multi-Tenant MLF,ISO
 X18-03478,SW DVD5 Duet EntSharePoint SAPSVR 1.0 64Bit MultiLang FP1 ShrPnt MLF,ISO
 X18-03479,SW DVD5 Duet EntSharePoint SAPSVR 1.0 64Bit MultiLang FP1 NetWeaver MLF,ISO
+X18-04067,SW DVD5 Dsktp Optimization Pck SA 2011 R2 Brazilian Language Update MLF,ISO
+X18-04071,SW DVD5 Dsktp Optimization Pck SA 2011 R2 ChnSimp Language Update MLF,ISO
+X18-04075,SW DVD5 Dsktp Optimization Pck SA 2011 R2 ChnTrad Language Update MLF,ISO
+X18-04079,SW DVD5 Dsktp Optimization Pck SA 2011 R2 French Language Update MLF,ISO
+X18-04083,SW DVD5 Dsktp Optimization Pck SA 2011 R2 German Language Update MLF,ISO
+X18-04087,SW DVD5 Dsktp Optimization Pck SA 2011 R2 Italian Language Update MLF,ISO
+X18-04091,SW DVD5 Dsktp Optimization Pck SA 2011 R2 Japanese Language Update MLF,ISO
+X18-04095,SW DVD5 Dsktp Optimization Pck SA 2011 R2 Korean Language Update MLF,ISO
+X18-04099,SW DVD5 Dsktp Optimization Pck SA 2011 R2 Russian Language Update MLF,ISO
+X18-04103,SW DVD5 Dsktp Optimization Pck SA 2011 R2 Spanish Language Update MLF,ISO
 X18-04575,SW DVD5 SA E-Learning(IW) French SharePt 2010 R1 MLF,ISO
 X18-04579,SW DVD5 SA E-Learning(IW) Brazilian SharePt 2010 R1 MLF,ISO
 X18-04583,SW DVD5 SA E-Learning(IW) ChnSimp SharePt 2010 R1 MLF,ISO
 X18-04587,SW DVD5 SA E-Learning(IW) Danish SharePt 2010 R1 MLF,ISO
+X18-04595,SW DVD5 NTRL Dsktp Optimization Pck SA 2011R2 English LanguageUpdate MLF,ISO
