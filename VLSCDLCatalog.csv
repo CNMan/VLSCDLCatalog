@@ -11089,6 +11089,7 @@ X18-54675,SW DVD5 Office Multi Lang Pack 2013 W32 Korean MLF,ISO
 X18-54677,SW DVD5 Office Multi Lang Pack 2013 W32 Latvian MLF,ISO
 X18-54679,SW DVD5 Office Multi Lang Pack 2013 W32 Lithuanian MLF,ISO
 X18-54681,SW DVD5 Office Multi Lang Pack 2013 W32 MALAY MLF,ISO
+X18-54683,SW DVD9 Office Multi Lang Pack 2013 W32 MultiLang Disk 1 MLF,ISO
 X18-54685,SW DVD5 Office Multi Lang Pack 2013 W32 Norwegian MLF,ISO
 X18-54687,SW DVD5 Office Multi Lang Pack 2013 W32 Polish MLF,ISO
 X18-54689,SW DVD5 Office Multi Lang Pack 2013 W32 Portuguese MLF,ISO
@@ -11160,6 +11161,7 @@ X18-54837,SW DVD5 Project 2013 W32 Brazilian MLF,ISO
 X18-54839,SW DVD5 Project 2013 W32 ChnSimp MLF,ISO
 X18-54841,SW DVD5 Project 2013 W32 ChnTrad MLF,ISO
 X18-54843,SW DVD5 Project 2013 W32 Czech MLF,ISO
+X18-54844,SW DVD9 Office Multi Lang Pack 2013 64Bit MultiLang Disk 1 MLF,ISO
 X18-54845,SW DVD5 Project 2013 W32 Danish MLF,ISO
 X18-54847,SW DVD5 Project 2013 W32 Dutch MLF,ISO
 X18-54849,SW DVD5 Project 2013 W32 English MLF,ISO
@@ -11718,6 +11720,21 @@ X18-71073,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 ChnTrad Client MLF,ISO
 X18-71080,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Arabic Server MLF,ISO
 X18-71083,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Arabic Client MLF,ISO
 X18-77382,SW DVD5 Office Professional Plus 2013 W32 English KMS MLF,ISO
+X18-77842,SW DVD5 Office Mac Standard 2011w SP3 ChnSimp ISO MLF,ISO
+X18-77844,SW DVD5 Office Mac Standard 2011w SP3 English ISO MLF,ISO
+X18-77846,SW DVD5 Office Mac Standard 2011w SP3 German ISO MLF,ISO
+X18-77848,SW DVD5 Office Mac Standard 2011w SP3 Danish ISO MLF,ISO
+X18-77850,SW DVD5 Office Mac Standard 2011w SP3 Spanish ISO MLF,ISO
+X18-77852,SW DVD5 Office Mac Standard 2011w SP3 French ISO MLF,ISO
+X18-77854,SW DVD5 Office Mac Standard 2011w SP3 Italian ISO MLF,ISO
+X18-77856,SW DVD5 Office Mac Standard 2011w SP3 Japanese ISO MLF,ISO
+X18-77858,SW DVD5 Office Mac Standard 2011w SP3 Norwegian ISO MLF,ISO
+X18-77860,SW DVD5 Office Mac Standard 2011w SP3 Dutch ISO MLF,ISO
+X18-77862,SW DVD5 Office Mac Standard 2011w SP3 Polish ISO MLF,ISO
+X18-77864,SW DVD5 Office Mac Standard 2011w SP3 Swedish ISO MLF,ISO
+X18-77866,SW DVD5 Office Mac Standard 2011w SP3 Finnish ISO MLF,ISO
+X18-77868,SW DVD5 Office Mac Standard 2011w SP3 Russian ISO MLF,ISO
+X18-77870,SW DVD5 Office Mac Standard 2011w SP3 ChnTrad ISO MLF,ISO
 X18-78041,SQL Svr Business Intelligence 2012 w SP1 Brazilian DownloadOnly 32bit -2,ISO
 X18-78042,SQL Svr Business Intelligence 2012 w SP1 Brazilian 64bit -2,ISO
 X18-78042,SQL Svr Business Intelligence 2012 w SP1 Brazilian DownloadOnly 64bit -2,ISO
@@ -11924,6 +11941,33 @@ X18-78172,SQL Svr Web Edition 2012 w SP1 Spanish 64bit -2,ISO
 X18-78172,SQL Svr Web Edition 2012 w SP1 Spanish Download Only 64bit -2,ISO
 X18-79027,SW DVD5 Office Professional Plus 2010 W32 English -2 #1 KMS Host MLF,ISO
 X18-80119,SW DVD5 Frfrnt Identity Mgr 2010 R2w SP1 English BHOLD MLF,ISO
+X18-80786,SW DVD5 BizTalk Server Ent 2013 ChnSimp MLF,ISO
+X18-80790,SW DVD5 BizTalk Server Ent 2013 English MLF,ISO
+X18-80794,SW DVD5 BizTalk Server Ent 2013 German MLF,ISO
+X18-80798,SW DVD5 BizTalk Server Ent 2013 Spanish MLF,ISO
+X18-80814,SW DVD5 BizTalk Server Ent 2013 French MLF,ISO
+X18-80842,SW DVD5 BizTalk Server Ent 2013 Italian MLF,ISO
+X18-80863,SW DVD5 BizTalk Server Ent 2013 Japanese MLF,ISO
+X18-80874,SW DVD5 BizTalk Server Ent 2013 Korean MLF,ISO
+X18-80878,SW DVD5 BizTalk Server Ent 2013 ChnTrad MLF,ISO
+X18-82138,SW DVD5 BizTalk Server Std 2013 ChnSimp MLF,ISO
+X18-82154,SW DVD5 BizTalk Server Std 2013 English MLF,ISO
+X18-82166,SW DVD5 BizTalk Server Std 2013 German MLF,ISO
+X18-82175,SW DVD5 BizTalk Server Std 2013 Spanish MLF,ISO
+X18-82188,SW DVD5 BizTalk Server Std 2013 French MLF,ISO
+X18-82201,SW DVD5 BizTalk Server Std 2013 Italian MLF,ISO
+X18-82214,SW DVD5 BizTalk Server Std 2013 Japanese MLF,ISO
+X18-82226,SW DVD5 BizTalk Server Std 2013 Korean MLF,ISO
+X18-82239,SW DVD5 BizTalk Server Std 2013 ChnTrad MLF,ISO
+X18-82265,SW DVD5 BizTalk Server Branch 2013 ChnSimp MLF,ISO
+X18-82287,SW DVD5 BizTalk Server Branch 2013 English MLF,ISO
+X18-82300,SW DVD5 BizTalk Server Branch 2013 German MLF,ISO
+X18-82314,SW DVD5 BizTalk Server Branch 2013 Spanish MLF,ISO
+X18-82327,SW DVD5 BizTalk Server Branch 2013 French MLF,ISO
+X18-82340,SW DVD5 BizTalk Server Branch 2013 Italian MLF,ISO
+X18-82353,SW DVD5 BizTalk Server Branch 2013 Japanese MLF,ISO
+X18-82367,SW DVD5 BizTalk Server Branch 2013 Korean MLF,ISO
+X18-82378,SW DVD5 BizTalk Server Branch 2013 ChnTrad MLF,ISO
 X18-82568,SQLSvr Business Intelligence 2012w SP1 Brazilian 32bit -3,ISO
 X18-82569,SQLSvr Business Intelligence 2012w SP1 ChnTrad 32bit -3,ISO
 X18-82570,SQLSvr Business Intelligence 2012w SP1 German 32bit -3,ISO
@@ -11985,6 +12029,16 @@ X18-82625,SQL Svr Web Edition 2012w SP1 Korean 32bit -3,ISO
 X18-82626,SQL Svr Web Edition 2012w SP1 Russian 32bit -3,ISO
 X18-82627,SQL Svr Web Edition 2012w SP1 Spanish 32bit -3,ISO
 X18-83817,SW DVD5 User Exp Virt SAL 1.0w SP1 MultiLang MLF,ISO
+X18-83946,Visual Studio Team Foundation Server 2012 with Update 1 - ChnSimp,ISO
+X18-83954,Visual Studio Team Foundation Server 2012 with Update 1 - English,ISO
+X18-83962,Visual Studio Team Foundation Server 2012 with Update 1 - German,ISO
+X18-83970,Visual Studio Team Foundation Server 2012 with Update 1 - Spanish,ISO
+X18-83978,Visual Studio Team Foundation Server 2012 with Update 1 - French,ISO
+X18-83986,Visual Studio Team Foundation Server 2012 with Update 1 - Italian,ISO
+X18-83994,Visual Studio Team Foundation Server 2012 with Update 1 - Japanese,ISO
+X18-84002,Visual Studio Team Foundation Server 2012 with Update 1 - Korean,ISO
+X18-84010,Visual Studio Team Foundation Server 2012 with Update 1 - Russian,ISO
+X18-84018,Visual Studio Team Foundation Server 2012 with Update 1 - ChnTrad,ISO
 X18-84569,SW CD App Virt SAL 5.0 MultiLang -2 MLF,ISO
 X18-84570,SW CD App V CAL for RDS 4.6w SP2 MultiLang -2 MVLS MLF,ISO
 X18-84571,SW CD App Virt SAL 4.6w SP2 MultiLang -2 MVLS MLF,ISO
@@ -12012,3 +12066,4 @@ X18-90526,SW DVD5 Dsktp Optimization Pck SA 2013 Spanish -2 MLF,ISO
 X18-90528,SW CD App V CAL for RDS 5.0 MultiLang -2 with SP1 MLF,ISO
 X18-90529,SW CD App Virt SAL 5.0 MultiLang -2 with SP1 MLF,ISO
 X18-90530,SW DVD5 Dsktp Optimization Pck SA 2013 German -3 MLF,ISO
+X19-04580,SW DVD5 Lync Server 2013 English Hosting Pack MLF,ISO
