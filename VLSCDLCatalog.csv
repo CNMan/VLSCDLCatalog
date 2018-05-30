@@ -26373,6 +26373,7 @@ X19-83024,SW DVD9 Win Embed Industry ENT 8.1 W32 Turkish -3 MLF,EXE
 X19-83024,SW DVD9 Win Embed Industry ENT 8.1 W32 Turkish -3 MLF,ISO
 X19-83025,SW DVD9 Win Embed Industry ENT 8.1 64Bit Turkish -3 MLF,EXE
 X19-83025,SW DVD9 Win Embed Industry ENT 8.1 64Bit Turkish -3 MLF,ISO
+X19-83514,SW DVD9 SA E-Learning(IW) German -2 Office 2013 R2 MLF,ISO
 X19-83570,SW DVD9 NTRL Win Svr Essentials 2012 R2 64Bit Brazilian -2 FPP VL OEM,EXE
 X19-83570,SW DVD9 NTRL Win Svr Essentials 2012 R2 64Bit Brazilian -2 FPP VL OEM,ISO
 X19-83571,SW DVD9 NTRL Win Svr Essentials 2012 R2 64Bit ChnSimp -2 FPP VL OEM,EXE
@@ -26948,6 +26949,7 @@ X20-19897,SW DVD5 Office Professional Plus 2013 W32 English -3 KMS MLF,ISO
 X20-20733,SW DVD5 Sys Ctr Endpnt Prtctn 2012 R2 MultiLang -4 EptProt Lin Mac MLF,ISO
 X20-21849,SW DVD5 Sys Ctr ConfigMgr and Endpnt Prtctn 2012w SP2 MultiLang MLF,ISO
 X20-21853,SW DVD5 Sys Ctr ConfigMgrClt ML 2012 R2w SP1 MultiLang ConfMgr2 MLF,ISO
+X20-22834,SW DVD5 AdvThrtAnltcs CltMgtLic 2016 MultiLang MLF,ISO
 X20-24457,SW DVD9 NTRL Win 10 32Bit MultiLang FOD VL OEM,ISO
 X20-24731,SW DVD9 NTRL Win 10 64Bit MultiLang FOD VL OEM,ISO
 X20-25497,SW DVD5 Win Pro 10 32BIT Latvian MLF,ISO
@@ -27605,6 +27607,7 @@ X20-29027,SW DVD9 SQL Svr Web Ed 2014w SP1 64Bit Japanese -2 MLF,ISO
 X20-29028,SW DVD9 SQL Svr Web Ed 2014w SP1 64Bit Korean -2 MLF,ISO
 X20-29029,SW DVD9 SQL Svr Web Ed 2014w SP1 64Bit Russian -2 MLF,ISO
 X20-29030,SW DVD9 SQL Svr Web Ed 2014w SP1 64Bit ChnTrad -2 MLF,ISO
+X20-29215,SW DVD5 Identity Manager-CAL 2016 64Bit English Core MLF,ISO
 X20-29774,SW DVD5 Visual Studio Test Pro 2015 ChnSimp MLF,ISO
 X20-29778,SW DVD5 Visual Studio Test Pro 2015 English MLF,ISO
 X20-29782,SW DVD5 Visual Studio Test Pro 2015 German MLF,ISO
@@ -27621,15 +27624,25 @@ X20-29825,SW DVD5 Visual Studio Test Pro 2015 Korean MLF,ISO
 X20-29829,SW DVD5 Visual Studio Test Pro 2015 Russian MLF,ISO
 X20-29833,SW DVD5 Visual Studio Test Pro 2015 ChnTrad MLF,ISO
 X20-29835,Visual Studio Team Foundation Server 2013 with Update 5 - ChnSimp,ISO
+X20-29839,SW DVD5 VS Team Foundation Svr 2015 ChnSimp MLF,ISO
 X20-29841,Visual Studio Team Foundation Server 2013 with Update 5 - English,ISO
+X20-29845,SW DVD5 VS Team Foundation Svr 2015 English MLF,ISO
 X20-29847,Visual Studio Team Foundation Server 2013 with Update 5 - German,ISO
+X20-29851,SW DVD5 VS Team Foundation Svr 2015 German MLF,ISO
 X20-29853,Visual Studio Team Foundation Server 2013 with Update 5 - Spanish,ISO
+X20-29857,SW DVD5 VS Team Foundation Svr 2015 Spanish MLF,ISO
 X20-29859,Visual Studio Team Foundation Server 2013 with Update 5 - French,ISO
+X20-29863,SW DVD5 VS Team Foundation Svr 2015 French MLF,ISO
 X20-29865,Visual Studio Team Foundation Server 2013 with Update 5 - Italian,ISO
+X20-29869,SW DVD5 VS Team Foundation Svr 2015 Italian MLF,ISO
 X20-29871,Visual Studio Team Foundation Server 2013 with Update 5 - Japanese,ISO
+X20-29875,SW DVD5 VS Team Foundation Svr 2015 Japanese MLF,ISO
 X20-29877,Visual Studio Team Foundation Server 2013 with Update 5 - Korean,ISO
+X20-29881,SW DVD5 VS Team Foundation Svr 2015 Korean MLF,ISO
 X20-29883,Visual Studio Team Foundation Server 2013 with Update 5 - Russian,ISO
+X20-29887,SW DVD5 VS Team Foundation Svr 2015 Russian MLF,ISO
 X20-29889,Visual Studio Team Foundation Server 2013 with Update 5 - ChnTrad,ISO
+X20-29893,SW DVD5 VS Team Foundation Svr 2015 ChnTrad MLF,ISO
 X20-29897,SW DVD9 NTRL Visual Studio Pro 2015 ChnSimp FPP VL MLF,ISO
 X20-29901,SW DVD9 NTRL Visual Studio Pro 2015 English FPP VL MLF,ISO
 X20-29905,SW DVD9 NTRL Visual Studio Pro 2015 German FPP VL MLF,ISO
@@ -27647,5 +27660,19 @@ X20-29949,SW DVD9 NTRL Visual Studio Ent 2015 Spanish FPP VL MLF,ISO
 X20-29953,SW DVD9 NTRL Visual Studio Ent 2015 French FPP VL MLF,ISO
 X20-29955,SW DVD9 Visual Studio Ent 2015 MultiLang Pro Ent MLF,ISO
 X20-29957,SW DVD5 Visual Studio Test Pro 2015 Italian MLF,ISO
+X20-35799,SW CD App V CAL for RDS 5.1 MultiLang MLF,ISO
+X20-35800,SW CD App Virt SAL 5.1 MultiLang MLF,ISO
+X20-35801,SW DVD5 Dsktp Optimization Pck SA 2015 MultiLang MLF,ISO
+X20-35803,SW DVD5 User Exp Virt SAL 2.1w SP1 MultiLang MLF,ISO
+X20-37892,SW DVD9 SA E-Learning(IW) French -2 Office 2013 R2 MLF,ISO
+X20-37894,SW DVD9 SA E-Learning(IW) Dutch -2 Office 2013 R2 MLF,ISO
+X20-37907,SW DVD9 SA E-Learning(IW) Brazilian -2 Office 2013 R2 MLF,ISO
+X20-37909,SW DVD9 SA E-Learning(IW) ChnSimp -2 Office 2013 R2 MLF,ISO
+X20-38471,SW DVD9 SA E-Learning(IW) Arabic -2 Office 2013 R2 MLF,ISO
 X20-43962,SW DVD5 Sys Ctr 2012 Endpnt Prtctn w SP2 MultiLang EP for Windows MLF,ISO
 X20-43963,SW DVD5 Sys Ctr 2012 R2 Endpnt Prtctn w SP1 MultiLang EP for Windows MLF,ISO
+X20-45880,SW DVD5 Office Mac Standard 2016 MultiLang -2 ISO MLF,ISO
+X20-45881,SW DVD5 Outlook Mac 2016 MAC MultiLang -2 ISO MLF,ISO
+X20-45882,SW DVD5 Excel Mac 2016 MultiLang -2 ISO MLF,ISO
+X20-45883,SW DVD5 PowerPoint Mac 2016 MultiLang -2 ISO MLF,ISO
+X20-45884,SW DVD5 Word Mac 2016 MultiLang -2 ISO MLF,ISO
