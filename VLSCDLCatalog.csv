@@ -1,5 +1,6 @@
 Software Number,SW Description,Format
 D44207,SW CD MSDN 6.0 W32 German #1,EXE
+D44208,SW CD MSDN 6.0 W32 German #2,EXE
 D44241,SW CD MSDN Library W32 French #1,EXE
 D44242,SW CD MSDN Library W32 French #2,EXE
 X03-82906,SW CD MSDN Library Japanese #1,EXE
@@ -5342,6 +5343,7 @@ X15-41176,SW DVD5 Win Svr w o Hyper-V 2008w SP2 CHT  x86 DC EE SE,ISO
 X15-41180,SW DVD5 Win Svr w o Hyper-V 2008w SP2 CHT Hong Kong x86 DC EE SE,ISO
 X15-41184,SW DVD5 Win Svr w o Hyper-V 2008w SP2 Czech  x86 DC EE SE,ISO
 X15-41188,SW DVD5 Win Svr w o Hyper-V 2008w SP2 Dutch  x86 DC EE SE,ISO
+X15-41192,SW DVD5 Win Svr w o Hyper-V 2008w SP2 Hungarian x86 DC EE SE,ISO
 X15-41196,SW DVD5 Win Svr w o Hyper-V 2008w SP2 Italian  x86 DC EE SE,ISO
 X15-41200,SW DVD5 Win Svr w o Hyper-V 2008w SP2 Korean  x86 DC EE SE,ISO
 X15-41204,SW DVD5 Win Svr w o Hyper-V 2008w SP2 Polish  x86 DC EE SE,ISO
@@ -9857,6 +9859,7 @@ X17-95304,SW DVD5 Sys Ctr Ops Mgr Svr 2012 Spanish MLF,ISO
 X17-95305,SW DVD5 Sys Ctr Orchestrator Svr 2012 English MLF,ISO
 X17-95322,SW CD System Center Unified Installer 2012 English Unfd Instllr MLF,ISO
 X17-95332,SW DVD5 SC Endpoint Protection 2012 MAC MultiLang Linux MLF,ISO
+X17-95332,SW DVD5 Sys Ctr Endpnt Prtctn 2012 MAC MultiLang Linux MLF,ISO
 X17-95510,SW DVD5 SA E-Learning(IW) Swedish -2 Office2010 R-3 MLF,ISO
 X17-96857,SW DVD9 SQLSvr Bsnss Intelligence 2012 Brazilian MLF,ISO
 X17-96861,SW DVD9 SQLSvr Bsnss Intelligence 2012 ChnSimp MLF,ISO
@@ -10002,6 +10005,7 @@ X18-13168,SW DVD5 Office Pro Plus 2007 SP3 W32 AR BG YX CS HU RO SR SK SL TR MLF
 X18-13171,SW DVD5 SharePoint Server 2007SP3 W32 MultiLang MLF,ISO
 X18-13172,SW DVD5 SharePoint Server 2007SP3 64Bit MultiLang MLF,ISO
 X18-15372,SW DVD5 SC Endpoint Protection 2012 MultiLang SCEP MLF,ISO
+X18-15372,SW DVD5 Sys Ctr Endpnt Prtctn 2012 MultiLang SCEP MLF,ISO
 X18-16042,SW DVD5 Win Pro N 8 32BIT English MLF,ISO
 X18-16043,SW DVD5 Win Pro N 8 32BIT Eng Intl MLF,ISO
 X18-16044,SW DVD5 Win Pro N 8 32BIT Bulgarian MLF,ISO
@@ -10581,32 +10585,47 @@ X18-53880,SW DVD5 Office Srvr Language Pack 2013 64Bit Ukrainian MLF,ISO
 X18-53882,SW DVD5 Office Srvr Language Pack 2013 64Bit Vietnamese MLF,ISO
 X18-53884,SW DVD5 Office 2013 W32 Arabic MLF,ISO
 X18-53886,SW DVD5 Office 2013 W32 Brazilian MLF,ISO
+X18-53888,SW DVD5 Office 2013 W32 Bulgarian MLF,ISO
 X18-53890,SW DVD5 Office 2013 W32 ChnSimp MLF,ISO
 X18-53892,SW DVD5 Office 2013 W32 ChnTrad MLF,ISO
+X18-53894,SW DVD5 Office 2013 W32 Croatian MLF,ISO
 X18-53896,SW DVD5 Office 2013 W32 Czech MLF,ISO
 X18-53898,SW DVD5 Office 2013 W32 Danish MLF,ISO
 X18-53900,SW DVD5 Office 2013 W32 Dutch MLF,ISO
 X18-53902,SW DVD5 Office 2013 W32 English MLF,ISO
+X18-53904,SW DVD5 Office 2013 W32 Estonian MLF,ISO
 X18-53906,SW DVD5 Office 2013 W32 Finnish MLF,ISO
 X18-53908,SW DVD5 Office 2013 W32 French MLF,ISO
 X18-53910,SW DVD5 Office 2013 W32 German MLF,ISO
 X18-53912,SW DVD5 Office 2013 W32 Greek MLF,ISO
 X18-53914,SW DVD5 Office 2013 W32 Hebrew MLF,ISO
+X18-53916,SW DVD5 Office 2013 W32 Hindi MLF,ISO
 X18-53918,SW DVD5 Office 2013 W32 Hungarian MLF,ISO
+X18-53920,SW DVD5 Office 2013 W32 Indonesian MLF,ISO
 X18-53922,SW DVD5 Office 2013 W32 Italian MLF,ISO
 X18-53924,SW DVD5 Office 2013 W32 Japanese MLF,ISO
+X18-53926,SW DVD5 Office 2013 W32 Kazakh MLF,ISO
 X18-53928,SW DVD5 Office 2013 W32 Korean MLF,ISO
+X18-53930,SW DVD5 Office 2013 W32 Latvian MLF,ISO
+X18-53932,SW DVD5 Office 2013 W32 Lithuanian MLF,ISO
+X18-53934,SW DVD5 Office 2013 W32 MALAY MLF,ISO
 X18-53936,SW DVD5 Office 2013 W32 Norwegian MLF,ISO
 X18-53937,SW DVD5 Office 2013 W32 Polish MLF,ISO
 X18-53939,SW DVD5 Office 2013 W32 Portuguese MLF,ISO
+X18-53941,SW DVD5 Office 2013 W32 Romanian MLF,ISO
 X18-53943,SW DVD5 Office 2013 W32 Russian MLF,ISO
+X18-53945,SW DVD5 Office 2013 W32 Serbian Latin MLF,ISO
+X18-53947,SW DVD5 Office 2013 W32 Slovak MLF,ISO
+X18-53949,SW DVD5 Office 2013 W32 Slovenian MLF,ISO
 X18-53951,SW DVD5 Office 2013 W32 Spanish MLF,ISO
 X18-53953,SW DVD5 Office 2013 W32 Swedish MLF,ISO
 X18-53955,SW DVD5 Office 2013 W32 Thai MLF,ISO
 X18-53956,SW DVD5 Access 2013 64Bit Arabic MLF,ISO
 X18-53957,SW DVD5 Office 2013 W32 Turkish MLF,ISO
 X18-53958,SW DVD5 Access 2013 64Bit Brazilian MLF,ISO
+X18-53959,SW DVD5 Office 2013 W32 Ukrainian MLF,ISO
 X18-53960,SW DVD5 Access 2013 64Bit Bulgarian MLF,ISO
+X18-53961,SW DVD5 Office 2013 W32 Vietnamese MLF,ISO
 X18-53962,SW DVD5 Access 2013 64Bit ChnSimp MLF,ISO
 X18-53964,SW DVD5 Access 2013 64Bit ChnTrad MLF,ISO
 X18-53966,SW DVD5 Access 2013 64Bit Croatian MLF,ISO
@@ -10652,51 +10671,77 @@ X18-54043,SW DVD5 Office 2013 64Bit Arabic MLF,ISO
 X18-54044,SW DVD5 Excel 2013 W32 Croatian MLF,ISO
 X18-54045,SW DVD5 Office 2013 64Bit Brazilian MLF,ISO
 X18-54046,SW DVD5 Excel 2013 W32 Czech MLF,ISO
+X18-54047,SW DVD5 Office 2013 64Bit Bulgarian MLF,ISO
 X18-54048,SW DVD5 Excel 2013 W32 Danish MLF,ISO
 X18-54049,SW DVD5 Office 2013 64Bit ChnSimp MLF,ISO
 X18-54050,SW DVD5 Excel 2013 W32 Dutch MLF,ISO
 X18-54051,SW DVD5 Office 2013 64Bit ChnTrad MLF,ISO
 X18-54052,SW DVD5 Excel 2013 W32 English MLF,ISO
+X18-54053,SW DVD5 Office 2013 64Bit Croatian MLF,ISO
 X18-54054,SW DVD5 Excel 2013 W32 Estonian MLF,ISO
+X18-54055,SW DVD5 Office 2013 64Bit Czech MLF,ISO
 X18-54056,SW DVD5 Excel 2013 W32 Finnish MLF,ISO
+X18-54057,SW DVD5 Office 2013 64Bit Danish MLF,ISO
 X18-54058,SW DVD5 Excel 2013 W32 French MLF,ISO
 X18-54059,SW DVD5 Office 2013 64Bit Dutch MLF,ISO
 X18-54060,SW DVD5 Excel 2013 W32 German MLF,ISO
 X18-54061,SW DVD5 Office 2013 64Bit English MLF,ISO
 X18-54062,SW DVD5 Excel 2013 W32 Greek MLF,ISO
+X18-54063,SW DVD5 Office 2013 64Bit Estonian MLF,ISO
+X18-54064,SW DVD5 Office 2013 64Bit Finnish MLF,ISO
 X18-54065,SW DVD5 Excel 2013 W32 Hebrew MLF,ISO
 X18-54066,SW DVD5 Office 2013 64Bit French MLF,ISO
 X18-54067,SW DVD5 Excel 2013 W32 Hindi MLF,ISO
 X18-54068,SW DVD5 Office 2013 64Bit German MLF,ISO
 X18-54069,SW DVD5 Excel 2013 W32 Hungarian MLF,ISO
+X18-54070,SW DVD5 Office 2013 64Bit Greek MLF,ISO
 X18-54071,SW DVD5 Excel 2013 W32 Indonesian MLF,ISO
 X18-54072,SW DVD5 Office 2013 64Bit Hebrew MLF,ISO
 X18-54073,SW DVD5 Excel 2013 W32 Italian MLF,ISO
+X18-54074,SW DVD5 Office 2013 64Bit Hindi MLF,ISO
 X18-54075,SW DVD5 Excel 2013 W32 Japanese MLF,ISO
+X18-54076,SW DVD5 Office 2013 64Bit Hungarian MLF,ISO
 X18-54077,SW DVD5 Excel 2013 W32 Kazakh MLF,ISO
+X18-54078,SW DVD5 Office 2013 64Bit Indonesian MLF,ISO
 X18-54079,SW DVD5 Excel 2013 W32 Korean MLF,ISO
 X18-54080,SW DVD5 Office 2013 64Bit Italian MLF,ISO
 X18-54081,SW DVD5 Excel 2013 W32 Latvian MLF,ISO
 X18-54082,SW DVD5 Office 2013 64Bit Japanese MLF,ISO
 X18-54083,SW DVD5 Excel 2013 W32 Lithuanian MLF,ISO
+X18-54084,SW DVD5 Office 2013 64Bit Kazakh MLF,ISO
 X18-54085,SW DVD5 Excel 2013 W32 MALAY MLF,ISO
 X18-54086,SW DVD5 Office 2013 64Bit Korean MLF,ISO
 X18-54087,SW DVD5 Excel 2013 W32 Norwegian MLF,ISO
+X18-54088,SW DVD5 Office 2013 64Bit Latvian MLF,ISO
 X18-54089,SW DVD5 Excel 2013 W32 Polish MLF,ISO
+X18-54090,SW DVD5 Office 2013 64Bit Lithuanian MLF,ISO
 X18-54091,SW DVD5 Excel 2013 W32 Portuguese MLF,ISO
+X18-54092,SW DVD5 Office 2013 64Bit MALAY MLF,ISO
 X18-54093,SW DVD5 Excel 2013 W32 Romanian MLF,ISO
+X18-54094,SW DVD5 Office 2013 64Bit Norwegian MLF,ISO
 X18-54095,SW DVD5 Excel 2013 W32 Russian MLF,ISO
+X18-54096,SW DVD5 Office 2013 64Bit Polish MLF,ISO
 X18-54097,SW DVD5 Excel 2013 W32 Serbian Latin MLF,ISO
+X18-54098,SW DVD5 Office 2013 64Bit Portuguese MLF,ISO
 X18-54099,SW DVD5 Excel 2013 W32 Slovak MLF,ISO
+X18-54100,SW DVD5 Office 2013 64Bit Romanian MLF,ISO
 X18-54101,SW DVD5 Excel 2013 W32 Slovenian MLF,ISO
 X18-54102,SW DVD5 Office 2013 64Bit Russian MLF,ISO
 X18-54103,SW DVD5 Excel 2013 W32 Spanish MLF,ISO
+X18-54104,SW DVD5 Office 2013 64Bit Serbian Latin MLF,ISO
 X18-54105,SW DVD5 Excel 2013 W32 Swedish MLF,ISO
+X18-54106,SW DVD5 Office 2013 64Bit Slovak MLF,ISO
 X18-54107,SW DVD5 Excel 2013 W32 Thai MLF,ISO
+X18-54108,SW DVD5 Office 2013 64Bit Slovenian MLF,ISO
 X18-54109,SW DVD5 Excel 2013 W32 Turkish MLF,ISO
 X18-54110,SW DVD5 Office 2013 64Bit Spanish MLF,ISO
 X18-54111,SW DVD5 Excel 2013 W32 Ukrainian MLF,ISO
+X18-54112,SW DVD5 Office 2013 64Bit Swedish MLF,ISO
 X18-54113,SW DVD5 Excel 2013 W32 Vietnamese MLF,ISO
+X18-54114,SW DVD5 Office 2013 64Bit Thai MLF,ISO
+X18-54116,SW DVD5 Office 2013 64Bit Turkish MLF,ISO
+X18-54118,SW DVD5 Office 2013 64Bit Ukrainian MLF,ISO
+X18-54120,SW DVD5 Office 2013 64Bit Vietnamese MLF,ISO
 X18-54122,SW DVD5 OneNote 2013 W32 Arabic MLF,ISO
 X18-54124,SW DVD5 OneNote 2013 W32 Brazilian MLF,ISO
 X18-54126,SW DVD5 OneNote 2013 W32 Bulgarian MLF,ISO
@@ -11048,6 +11093,7 @@ X18-54625,SW DVD5 Lync Server Std 2013 64Bit Spanish MLF,ISO
 X18-54626,SW DVD5 PowerPoint 2013 W32 Hindi MLF,ISO
 X18-54627,SW DVD5 Off Adt and Cntrl Mngmnt 2013 W32 English Audit Cntrl Mgr MLF,ISO
 X18-54628,SW DVD5 PowerPoint 2013 W32 Hungarian MLF,ISO
+X18-54629,SW DVD5 Off Adt and Cntrl Mngmnt 2013 W32 English eDiscoveryRisk MLF,ISO
 X18-54630,SW DVD5 PowerPoint 2013 W32 Indonesian MLF,ISO
 X18-54631,SW DVD5 Office Multi Lang Pack 2013 W32 Arabic MLF,ISO
 X18-54632,SW DVD5 PowerPoint 2013 W32 Italian MLF,ISO
@@ -11134,57 +11180,83 @@ X18-54792,SW DVD5 Office Multi Lang Pack 2013 64Bit Arabic MLF,ISO
 X18-54793,SW DVD5 PowerPoint 2013 64Bit Italian MLF,ISO
 X18-54794,SW DVD5 Office Multi Lang Pack 2013 64Bit Brazilian MLF,ISO
 X18-54795,SW DVD5 PowerPoint 2013 64Bit Japanese MLF,ISO
+X18-54796,SW DVD5 Office Multi Lang Pack 2013 64Bit Bulgarian MLF,ISO
 X18-54797,SW DVD5 PowerPoint 2013 64Bit Kazakh MLF,ISO
 X18-54798,SW DVD5 Office Multi Lang Pack 2013 64Bit ChnSimp MLF,ISO
 X18-54799,SW DVD5 PowerPoint 2013 64Bit Korean MLF,ISO
 X18-54800,SW DVD5 Office Multi Lang Pack 2013 64Bit ChnTrad MLF,ISO
 X18-54801,SW DVD5 PowerPoint 2013 64Bit Latvian MLF,ISO
+X18-54802,SW DVD5 Office Multi Lang Pack 2013 64Bit Croatian MLF,ISO
 X18-54803,SW DVD5 PowerPoint 2013 64Bit Lithuanian MLF,ISO
+X18-54804,SW DVD5 Office Multi Lang Pack 2013 64Bit Czech MLF,ISO
 X18-54805,SW DVD5 PowerPoint 2013 64Bit MALAY MLF,ISO
+X18-54806,SW DVD5 Office Multi Lang Pack 2013 64Bit Danish MLF,ISO
 X18-54807,SW DVD5 PowerPoint 2013 64Bit Norwegian MLF,ISO
 X18-54808,SW DVD5 Office Multi Lang Pack 2013 64Bit Dutch MLF,ISO
 X18-54809,SW DVD5 PowerPoint 2013 64Bit Polish MLF,ISO
 X18-54810,SW DVD5 Office Multi Lang Pack 2013 64Bit English MLF,ISO
 X18-54811,SW DVD5 PowerPoint 2013 64Bit Portuguese MLF,ISO
+X18-54812,SW DVD5 Office Multi Lang Pack 2013 64Bit Estonian MLF,ISO
 X18-54813,SW DVD5 PowerPoint 2013 64Bit Romanian MLF,ISO
+X18-54814,SW DVD5 Office Multi Lang Pack 2013 64Bit Finnish MLF,ISO
 X18-54815,SW DVD5 PowerPoint 2013 64Bit Russian MLF,ISO
 X18-54816,SW DVD5 Office Multi Lang Pack 2013 64Bit French MLF,ISO
 X18-54817,SW DVD5 PowerPoint 2013 64Bit Serbian Latin MLF,ISO
 X18-54818,SW DVD5 Office Multi Lang Pack 2013 64Bit German MLF,ISO
 X18-54819,SW DVD5 PowerPoint 2013 64Bit Slovak MLF,ISO
+X18-54820,SW DVD5 Office Multi Lang Pack 2013 64Bit Greek MLF,ISO
 X18-54821,SW DVD5 PowerPoint 2013 64Bit Slovenian MLF,ISO
 X18-54822,SW DVD5 Office Multi Lang Pack 2013 64Bit Hebrew MLF,ISO
 X18-54823,SW DVD5 PowerPoint 2013 64Bit Spanish MLF,ISO
+X18-54824,SW DVD5 Office Multi Lang Pack 2013 64Bit Hindi MLF,ISO
 X18-54825,SW DVD5 PowerPoint 2013 64Bit Swedish MLF,ISO
+X18-54826,SW DVD5 Office Multi Lang Pack 2013 64Bit Hungarian MLF,ISO
 X18-54827,SW DVD5 PowerPoint 2013 64Bit Thai MLF,ISO
+X18-54828,SW DVD5 Office Multi Lang Pack 2013 64Bit Indonesian MLF,ISO
 X18-54829,SW DVD5 PowerPoint 2013 64Bit Turkish MLF,ISO
 X18-54830,SW DVD5 Office Multi Lang Pack 2013 64Bit Italian MLF,ISO
 X18-54831,SW DVD5 PowerPoint 2013 64Bit Ukrainian MLF,ISO
 X18-54832,SW DVD5 Office Multi Lang Pack 2013 64Bit Japanese MLF,ISO
 X18-54833,SW DVD5 PowerPoint 2013 64Bit Vietnamese MLF,ISO
+X18-54834,SW DVD5 Office Multi Lang Pack 2013 64Bit Kazakh MLF,ISO
 X18-54835,SW DVD5 Project 2013 W32 Arabic MLF,ISO
 X18-54836,SW DVD5 Office Multi Lang Pack 2013 64Bit Korean MLF,ISO
 X18-54837,SW DVD5 Project 2013 W32 Brazilian MLF,ISO
+X18-54838,SW DVD5 Office Multi Lang Pack 2013 64Bit Latvian MLF,ISO
 X18-54839,SW DVD5 Project 2013 W32 ChnSimp MLF,ISO
+X18-54840,SW DVD5 Office Multi Lang Pack 2013 64Bit Lithuanian MLF,ISO
 X18-54841,SW DVD5 Project 2013 W32 ChnTrad MLF,ISO
+X18-54842,SW DVD5 Office Multi Lang Pack 2013 64Bit MALAY MLF,ISO
 X18-54843,SW DVD5 Project 2013 W32 Czech MLF,ISO
 X18-54844,SW DVD9 Office Multi Lang Pack 2013 64Bit MultiLang Disk 1 MLF,ISO
 X18-54845,SW DVD5 Project 2013 W32 Danish MLF,ISO
+X18-54846,SW DVD5 Office Multi Lang Pack 2013 64Bit Norwegian MLF,ISO
 X18-54847,SW DVD5 Project 2013 W32 Dutch MLF,ISO
+X18-54848,SW DVD5 Office Multi Lang Pack 2013 64Bit Polish MLF,ISO
 X18-54849,SW DVD5 Project 2013 W32 English MLF,ISO
+X18-54850,SW DVD5 Office Multi Lang Pack 2013 64Bit Portuguese MLF,ISO
 X18-54851,SW DVD5 Project 2013 W32 Finnish MLF,ISO
+X18-54852,SW DVD5 Office Multi Lang Pack 2013 64Bit Romanian MLF,ISO
 X18-54853,SW DVD5 Project 2013 W32 French MLF,ISO
 X18-54854,SW DVD5 Office Multi Lang Pack 2013 64Bit Russian MLF,ISO
 X18-54855,SW DVD5 Project 2013 W32 German MLF,ISO
+X18-54856,SW DVD5 Office Multi Lang Pack 2013 64Bit Serbian Latin MLF,ISO
 X18-54857,SW DVD5 Project 2013 W32 Greek MLF,ISO
+X18-54858,SW DVD5 Office Multi Lang Pack 2013 64Bit Slovak MLF,ISO
 X18-54859,SW DVD5 Project 2013 W32 Hebrew MLF,ISO
+X18-54860,SW DVD5 Office Multi Lang Pack 2013 64Bit Slovenian MLF,ISO
 X18-54861,SW DVD5 Project 2013 W32 Hungarian MLF,ISO
 X18-54862,SW DVD5 Office Multi Lang Pack 2013 64Bit Spanish MLF,ISO
 X18-54863,SW DVD5 Project 2013 W32 Italian MLF,ISO
+X18-54864,SW DVD5 Office Multi Lang Pack 2013 64Bit Swedish MLF,ISO
 X18-54865,SW DVD5 Project 2013 W32 Japanese MLF,ISO
+X18-54866,SW DVD5 Office Multi Lang Pack 2013 64Bit Thai MLF,ISO
 X18-54867,SW DVD5 Project 2013 W32 Korean MLF,ISO
+X18-54868,SW DVD5 Office Multi Lang Pack 2013 64Bit Turkish MLF,ISO
 X18-54869,SW DVD5 Project 2013 W32 Norwegian MLF,ISO
+X18-54870,SW DVD5 Office Multi Lang Pack 2013 64Bit Ukrainian MLF,ISO
 X18-54871,SW DVD5 Project 2013 W32 Polish MLF,ISO
+X18-54872,SW DVD5 Office Multi Lang Pack 2013 64Bit Vietnamese MLF,ISO
 X18-54873,SW DVD5 Project 2013 W32 Portuguese MLF,ISO
 X18-54875,SW DVD5 Project 2013 W32 Romanian MLF,ISO
 X18-54877,SW DVD5 Project 2013 W32 Russian MLF,ISO
@@ -11194,6 +11266,7 @@ X18-54883,SW DVD5 Project 2013 W32 Spanish MLF,ISO
 X18-54885,SW DVD5 Project 2013 W32 Swedish MLF,ISO
 X18-54887,SW DVD5 Project 2013 W32 Turkish MLF,ISO
 X18-54889,SW DVD5 Project 2013 W32 Ukrainian MLF,ISO
+X18-54924,SW DVD9 Office Multi Lang Pack 2013 W32 MultiLang Disk 2 MLF,ISO
 X18-54949,SW DVD5 Project 2013 64Bit Arabic MLF,ISO
 X18-54951,SW DVD5 Project 2013 64Bit Brazilian MLF,ISO
 X18-54953,SW DVD5 Project 2013 64Bit ChnSimp MLF,ISO
@@ -11250,16 +11323,21 @@ X18-55054,SW DVD5 Project Pro 2013 W32 Spanish MLF,ISO
 X18-55056,SW DVD5 Project Pro 2013 W32 Swedish MLF,ISO
 X18-55058,SW DVD5 Project Pro 2013 W32 Turkish MLF,ISO
 X18-55060,SW DVD5 Project Pro 2013 W32 Ukrainian MLF,ISO
+X18-55085,SW DVD9 Office Multi Lang Pack 2013 64Bit MultiLang Disk 2 MLF,ISO
+X18-55114,SW DVD5 Office Multi Lang Pack 2013 W32 MultiLang Proofing Tools MLF,ISO
+X18-55118,SW DVD5 Office Multi Lang Pack 2013 64Bit MultiLang Proofing Tools MLF,ISO
 X18-55119,SW DVD5 Project Pro 2013 64Bit Arabic MLF,ISO
 X18-55120,SW DVD5 Office Professional Plus 2013 W32 Arabic MLF,ISO
 X18-55121,SW DVD5 Project Pro 2013 64Bit Brazilian MLF,ISO
 X18-55122,SW DVD5 Office Professional Plus 2013 W32 Brazilian MLF,ISO
 X18-55123,SW DVD5 Project Pro 2013 64Bit ChnSimp MLF,ISO
+X18-55124,SW DVD5 Office Professional Plus 2013 W32 Bulgarian MLF,ISO
 X18-55125,SW DVD5 Project Pro 2013 64Bit ChnTrad MLF,ISO
 X18-55126,SW DVD5 Office Professional Plus 2013 W32 ChnSimp MLF,ISO
 X18-55127,SW DVD5 Project Pro 2013 64Bit Czech MLF,ISO
 X18-55128,SW DVD5 Office Professional Plus 2013 W32 ChnTrad MLF,ISO
 X18-55129,SW DVD5 Project Pro 2013 64Bit Danish MLF,ISO
+X18-55130,SW DVD5 Office Professional Plus 2013 W32 Croatian MLF,ISO
 X18-55131,SW DVD5 Project Pro 2013 64Bit Dutch MLF,ISO
 X18-55132,SW DVD5 Office Professional Plus 2013 W32 Czech MLF,ISO
 X18-55133,SW DVD5 Project Pro 2013 64Bit English MLF,ISO
@@ -11269,6 +11347,7 @@ X18-55136,SW DVD5 Office Professional Plus 2013 W32 Dutch MLF,ISO
 X18-55137,SW DVD5 Project Pro 2013 64Bit French MLF,ISO
 X18-55138,SW DVD5 Office Professional Plus 2013 W32 English MLF,ISO
 X18-55139,SW DVD5 Project Pro 2013 64Bit German MLF,ISO
+X18-55140,SW DVD5 Office Professional Plus 2013 W32 Estonian MLF,ISO
 X18-55141,SW DVD5 Project Pro 2013 64Bit Greek MLF,ISO
 X18-55142,SW DVD5 Office Professional Plus 2013 W32 Finnish MLF,ISO
 X18-55143,SW DVD5 Project Pro 2013 64Bit Hebrew MLF,ISO
@@ -11279,19 +11358,25 @@ X18-55147,SW DVD5 Project Pro 2013 64Bit Italian MLF,ISO
 X18-55148,SW DVD5 Office Professional Plus 2013 W32 Greek MLF,ISO
 X18-55149,SW DVD5 Office Professional Plus 2013 W32 Hebrew MLF,ISO
 X18-55150,SW DVD5 Project Pro 2013 64Bit Japanese MLF,ISO
+X18-55151,SW DVD5 Office Professional Plus 2013 W32 Hindi MLF,ISO
 X18-55152,SW DVD5 Project Pro 2013 64Bit Korean MLF,ISO
 X18-55153,SW DVD5 Office Professional Plus 2013 W32 Hungarian MLF,ISO
 X18-55154,SW DVD5 Project Pro 2013 64Bit Norwegian MLF,ISO
+X18-55155,SW DVD5 Office Professional Plus 2013 W32 Indonesian MLF,ISO
 X18-55156,SW DVD5 Project Pro 2013 64Bit Polish MLF,ISO
 X18-55157,SW DVD5 Office Professional Plus 2013 W32 Italian MLF,ISO
 X18-55158,SW DVD5 Project Pro 2013 64Bit Portuguese MLF,ISO
 X18-55159,SW DVD5 Office Professional Plus 2013 W32 Japanese MLF,ISO
 X18-55160,SW DVD5 Project Pro 2013 64Bit Romanian MLF,ISO
+X18-55161,SW DVD5 Office Professional Plus 2013 W32 Kazakh MLF,ISO
 X18-55162,SW DVD5 Project Pro 2013 64Bit Russian MLF,ISO
 X18-55163,SW DVD5 Office Professional Plus 2013 W32 Korean MLF,ISO
 X18-55164,SW DVD5 Project Pro 2013 64Bit Slovak MLF,ISO
+X18-55165,SW DVD5 Office Professional Plus 2013 W32 Latvian MLF,ISO
 X18-55166,SW DVD5 Project Pro 2013 64Bit Slovenian MLF,ISO
+X18-55167,SW DVD5 Office Professional Plus 2013 W32 Lithuanian MLF,ISO
 X18-55168,SW DVD5 Project Pro 2013 64Bit Spanish MLF,ISO
+X18-55169,SW DVD5 Office Professional Plus 2013 W32 MALAY MLF,ISO
 X18-55170,SW DVD5 Project Pro 2013 64Bit Swedish MLF,ISO
 X18-55171,SW DVD5 Office Professional Plus 2013 W32 Norwegian MLF,ISO
 X18-55172,SW DVD5 Project Pro 2013 64Bit Turkish MLF,ISO
@@ -11299,11 +11384,15 @@ X18-55173,SW DVD5 Office Professional Plus 2013 W32 Polish MLF,ISO
 X18-55174,SW DVD5 Project Pro 2013 64Bit Ukrainian MLF,ISO
 X18-55175,SW DVD5 Office Professional Plus 2013 W32 Portuguese MLF,ISO
 X18-55176,SW DVD5 Project Server 2013 64Bit Brazilian MLF,ISO
+X18-55177,SW DVD5 Office Professional Plus 2013 W32 Romanian MLF,ISO
 X18-55178,SW DVD5 Project Server 2013 64Bit ChnSimp MLF,ISO
 X18-55179,SW DVD5 Office Professional Plus 2013 W32 Russian MLF,ISO
 X18-55180,SW DVD5 Project Server 2013 64Bit English MLF,ISO
+X18-55181,SW DVD5 Office Professional Plus 2013 W32 Serbian Latin MLF,ISO
 X18-55182,SW DVD5 Project Server 2013 64Bit Arabic MLF,ISO
+X18-55183,SW DVD5 Office Professional Plus 2013 W32 Slovak MLF,ISO
 X18-55184,SW DVD5 Project Server 2013 64Bit Czech MLF,ISO
+X18-55185,SW DVD5 Office Professional Plus 2013 W32 Slovenian MLF,ISO
 X18-55186,SW DVD5 Project Server 2013 64Bit German MLF,ISO
 X18-55187,SW DVD5 Office Professional Plus 2013 W32 Spanish MLF,ISO
 X18-55188,SW DVD5 Project Server 2013 64Bit Danish MLF,ISO
@@ -11313,7 +11402,9 @@ X18-55191,SW DVD5 Office Professional Plus 2013 W32 Thai MLF,ISO
 X18-55192,SW DVD5 Project Server 2013 64Bit French MLF,ISO
 X18-55193,SW DVD5 Office Professional Plus 2013 W32 Turkish MLF,ISO
 X18-55194,SW DVD5 Project Server 2013 64Bit Greek MLF,ISO
+X18-55195,SW DVD5 Office Professional Plus 2013 W32 Ukrainian MLF,ISO
 X18-55196,SW DVD5 Project Server 2013 64Bit Hebrew MLF,ISO
+X18-55197,SW DVD5 Office Professional Plus 2013 W32 Vietnamese MLF,ISO
 X18-55198,SW DVD5 Project Server 2013 64Bit Hungarian MLF,ISO
 X18-55200,SW DVD5 Project Server 2013 64Bit Italian MLF,ISO
 X18-55202,SW DVD5 Project Server 2013 64Bit Japanese MLF,ISO
@@ -11355,58 +11446,84 @@ X18-55279,SW DVD5 Publisher 2013 W32 Russian MLF,ISO
 X18-55280,SW DVD5 Office Professional Plus 2013 64Bit Arabic MLF,ISO
 X18-55281,SW DVD5 Office Professional Plus 2013 64Bit Brazilian MLF,ISO
 X18-55282,SW DVD5 Publisher 2013 W32 Thai MLF,ISO
+X18-55283,SW DVD5 Office Professional Plus 2013 64Bit Bulgarian MLF,ISO
 X18-55284,SW DVD5 Publisher 2013 W32 Turkish MLF,ISO
 X18-55285,SW DVD5 Office Professional Plus 2013 64Bit ChnSimp MLF,ISO
 X18-55286,SW DVD5 Publisher 2013 W32 ChnTrad MLF,ISO
 X18-55287,SW DVD5 Office Professional Plus 2013 64Bit ChnTrad MLF,ISO
 X18-55288,SW DVD5 Publisher 2013 W32 Slovenian MLF,ISO
+X18-55289,SW DVD5 Office Professional Plus 2013 64Bit Croatian MLF,ISO
 X18-55290,SW DVD5 Publisher 2013 W32 Estonian MLF,ISO
+X18-55291,SW DVD5 Office Professional Plus 2013 64Bit Czech MLF,ISO
 X18-55292,SW DVD5 Publisher 2013 W32 Vietnamese MLF,ISO
+X18-55293,SW DVD5 Office Professional Plus 2013 64Bit Danish MLF,ISO
 X18-55294,SW DVD5 Publisher 2013 W32 Latvian MLF,ISO
 X18-55295,SW DVD5 Office Professional Plus 2013 64Bit Dutch MLF,ISO
 X18-55296,SW DVD5 Publisher 2013 W32 Lithuanian MLF,ISO
 X18-55297,SW DVD5 Office Professional Plus 2013 64Bit English MLF,ISO
 X18-55298,SW DVD5 Publisher 2013 W32 Croatian MLF,ISO
+X18-55299,SW DVD5 Office Professional Plus 2013 64Bit Estonian MLF,ISO
 X18-55300,SW DVD5 Publisher 2013 W32 Ukrainian MLF,ISO
+X18-55301,SW DVD5 Office Professional Plus 2013 64Bit Finnish MLF,ISO
 X18-55302,SW DVD5 Publisher 2013 W32 Indonesian MLF,ISO
 X18-55303,SW DVD5 Office Professional Plus 2013 64Bit French MLF,ISO
 X18-55304,SW DVD5 Publisher 2013 W32 Hindi MLF,ISO
 X18-55305,SW DVD5 Office Professional Plus 2013 64Bit German MLF,ISO
 X18-55306,SW DVD5 Publisher 2013 W32 MALAY MLF,ISO
+X18-55307,SW DVD5 Office Professional Plus 2013 64Bit Greek MLF,ISO
 X18-55308,SW DVD5 Publisher 2013 W32 Serbian Latin MLF,ISO
 X18-55309,SW DVD5 Office Professional Plus 2013 64Bit Hebrew MLF,ISO
 X18-55310,SW DVD5 Publisher 2013 W32 Kazakh MLF,ISO
+X18-55311,SW DVD5 Office Professional Plus 2013 64Bit Hindi MLF,ISO
 X18-55312,SW DVD5 Publisher 2013 64Bit Brazilian MLF,ISO
+X18-55313,SW DVD5 Office Professional Plus 2013 64Bit Hungarian MLF,ISO
 X18-55314,SW DVD5 Publisher 2013 64Bit ChnSimp MLF,ISO
+X18-55315,SW DVD5 Office Professional Plus 2013 64Bit Indonesian MLF,ISO
 X18-55316,SW DVD5 Office Professional Plus 2013 64Bit Italian MLF,ISO
 X18-55317,SW DVD5 Publisher 2013 64Bit English MLF,ISO
 X18-55318,SW DVD5 Office Professional Plus 2013 64Bit Japanese MLF,ISO
 X18-55319,SW DVD5 Publisher 2013 64Bit Arabic MLF,ISO
 X18-55320,SW DVD5 Publisher 2013 64Bit Bulgarian MLF,ISO
+X18-55321,SW DVD5 Office Professional Plus 2013 64Bit Kazakh MLF,ISO
 X18-55322,SW DVD5 Publisher 2013 64Bit Czech MLF,ISO
 X18-55323,SW DVD5 Office Professional Plus 2013 64Bit Korean MLF,ISO
 X18-55324,SW DVD5 Publisher 2013 64Bit German MLF,ISO
+X18-55325,SW DVD5 Office Professional Plus 2013 64Bit Latvian MLF,ISO
 X18-55326,SW DVD5 Publisher 2013 64Bit Danish MLF,ISO
 X18-55327,SW DVD5 Publisher 2013 64Bit Spanish MLF,ISO
+X18-55328,SW DVD5 Office Professional Plus 2013 64Bit Lithuanian MLF,ISO
 X18-55329,SW DVD5 Publisher 2013 64Bit French MLF,ISO
+X18-55330,SW DVD5 Office Professional Plus 2013 64Bit MALAY MLF,ISO
 X18-55331,SW DVD5 Publisher 2013 64Bit Greek MLF,ISO
+X18-55332,SW DVD5 Office Professional Plus 2013 64Bit Norwegian MLF,ISO
 X18-55333,SW DVD5 Publisher 2013 64Bit Hebrew MLF,ISO
+X18-55334,SW DVD5 Office Professional Plus 2013 64Bit Polish MLF,ISO
 X18-55335,SW DVD5 Publisher 2013 64Bit Hungarian MLF,ISO
+X18-55336,SW DVD5 Office Professional Plus 2013 64Bit Portuguese MLF,ISO
 X18-55337,SW DVD5 Publisher 2013 64Bit Italian MLF,ISO
+X18-55338,SW DVD5 Office Professional Plus 2013 64Bit Romanian MLF,ISO
 X18-55339,SW DVD5 Publisher 2013 64Bit Japanese MLF,ISO
 X18-55340,SW DVD5 Office Professional Plus 2013 64Bit Russian MLF,ISO
 X18-55341,SW DVD5 Publisher 2013 64Bit Korean MLF,ISO
+X18-55342,SW DVD5 Office Professional Plus 2013 64Bit Serbian Latin MLF,ISO
 X18-55343,SW DVD5 Publisher 2013 64Bit Norwegian MLF,ISO
+X18-55344,SW DVD5 Office Professional Plus 2013 64Bit Slovak MLF,ISO
 X18-55345,SW DVD5 Publisher 2013 64Bit Dutch MLF,ISO
+X18-55346,SW DVD5 Office Professional Plus 2013 64Bit Slovenian MLF,ISO
 X18-55347,SW DVD5 Publisher 2013 64Bit Portuguese MLF,ISO
 X18-55348,SW DVD5 Office Professional Plus 2013 64Bit Spanish MLF,ISO
 X18-55349,SW DVD5 Publisher 2013 64Bit Polish MLF,ISO
+X18-55350,SW DVD5 Office Professional Plus 2013 64Bit Swedish MLF,ISO
 X18-55351,SW DVD5 Publisher 2013 64Bit Romanian MLF,ISO
+X18-55352,SW DVD5 Office Professional Plus 2013 64Bit Thai MLF,ISO
 X18-55353,SW DVD5 Publisher 2013 64Bit Swedish MLF,ISO
+X18-55354,SW DVD5 Office Professional Plus 2013 64Bit Turkish MLF,ISO
 X18-55355,SW DVD5 Publisher 2013 64Bit Finnish MLF,ISO
 X18-55356,SW DVD5 Publisher 2013 64Bit Slovak MLF,ISO
+X18-55357,SW DVD5 Office Professional Plus 2013 64Bit Ukrainian MLF,ISO
 X18-55358,SW DVD5 Publisher 2013 64Bit Russian MLF,ISO
 X18-55359,SW DVD5 Publisher 2013 64Bit Thai MLF,ISO
+X18-55360,SW DVD5 Office Professional Plus 2013 64Bit Vietnamese MLF,ISO
 X18-55361,SW DVD5 Publisher 2013 64Bit Turkish MLF,ISO
 X18-55363,SW DVD5 Publisher 2013 64Bit ChnTrad MLF,ISO
 X18-55365,SW DVD5 Publisher 2013 64Bit Slovenian MLF,ISO
@@ -11584,6 +11701,27 @@ X18-56148,SW DVD5 Office Professional Plus 2013 64Bit Japanese KMS MLF,ISO
 X18-56149,SW DVD5 Office Professional Plus 2013 64Bit Korean KMS MLF,ISO
 X18-56150,SW DVD5 Office Professional Plus 2013 64Bit Russian KMS MLF,ISO
 X18-56151,SW DVD5 Office Professional Plus 2013 64Bit Spanish KMS MLF,ISO
+X18-56723,Sys Ctr Ops Manager Svr 2012 wSP1 English,ISO
+X18-56727,Sys Ctr Application Controller 2012 wSP1 Multi-Language,ISO
+X18-56731,Sys Ctr Orchestrator 2012 wSP1 Multi-Language,ISO
+X18-56747,SW DVD5 SysCtr 2012 w SP1 Virtual Machine Manager-MultiLang,ISO
+X18-56934,Sys Ctr Ops Manager Svr 2012 wSP1 Brazilian,ISO
+X18-56962,Sys Ctr Ops Manager Svr 2012 wSP1 ChSimp,ISO
+X18-57008,Sys Ctr Ops Manager Svr 2012 wSP1 Czech,ISO
+X18-57033,Sys Ctr Ops Manager Svr 2012 wSP1 German,ISO
+X18-57058,Sys Ctr Ops Manager Svr 2012 wSP1 Spanish,ISO
+X18-57083,Sys Ctr Ops Manager Svr 2012 wSP1 French,ISO
+X18-57108,Sys Ctr Ops Manager Svr 2012 wSP1 Russian,ISO
+X18-57133,Sys Ctr Ops Manager Svr 2012 wSP1 Hungarian,ISO
+X18-57158,Sys Ctr Ops Manager Svr 2012 wSP1 Italian,ISO
+X18-57183,Sys Ctr Ops Manager Svr 2012 wSP1 Japanese,ISO
+X18-57208,Sys Ctr Ops Manager Svr 2012 wSP1 Korean,ISO
+X18-57233,Sys Ctr Ops Manager Svr 2012 wSP1 Dutch,ISO
+X18-57260,Sys Ctr Ops Manager Svr 2012 wSP1 Portuguese,ISO
+X18-57311,Sys Ctr Ops Manager Svr 2012 wSP1 Polish,ISO
+X18-57359,Sys Ctr Ops Manager Svr 2012 wSP1 Swedish,ISO
+X18-57405,Sys Ctr Ops Manager Svr 2012 wSP1 Turkish,ISO
+X18-57455,Sys Ctr Ops Manager Svr 2012 wSP1 ChTrad ChTradHK,ISO
 X18-57756,SW CD App V CAL for RDS 5.0 MultiLang MLF,ISO
 X18-57760,SW CD App Virt SAL 5.0 MultiLang MLF,ISO
 X18-57787,SW CD App V CAL for RDS 4.6w SP2 MultiLang MVLS MLF,ISO
@@ -11591,16 +11729,27 @@ X18-57789,SW CD App Virt SAL 4.6w SP2 MultiLang MVLS MLF,ISO
 X18-57911,SW DVD5 Office Professional Plus 2013 64Bit Brazilian WebApps MLF,ISO
 X18-57913,SW DVD5 Office Professional Plus 2013 64Bit ChnSimp WebApps MLF,ISO
 X18-57914,SW DVD5 Office Professional Plus 2013 64Bit ChnTrad WebApps MLF,ISO
+X18-57916,SW DVD5 Office Professional Plus 2013 64Bit Czech WebApps MLF,ISO
+X18-57917,SW DVD5 Office Professional Plus 2013 64Bit Danish WebApps MLF,ISO
 X18-57918,SW DVD5 Office Professional Plus 2013 64Bit Dutch WebApps MLF,ISO
 X18-57919,SW DVD5 Office Professional Plus 2013 64Bit English WebApps MLF,ISO
+X18-57921,SW DVD5 Office Professional Plus 2013 64Bit Finnish WebApps MLF,ISO
 X18-57922,SW DVD5 Office Professional Plus 2013 64Bit French WebApps MLF,ISO
 X18-57923,SW DVD5 Office Professional Plus 2013 64Bit German WebApps MLF,ISO
+X18-57924,SW DVD5 Office Professional Plus 2013 64Bit Greek WebApps MLF,ISO
 X18-57925,SW DVD5 Office Professional Plus 2013 64Bit Hebrew WebApps MLF,ISO
+X18-57927,SW DVD5 Office Professional Plus 2013 64Bit Hungarian WebApps MLF,ISO
 X18-57929,SW DVD5 Office Professional Plus 2013 64Bit Italian WebApps MLF,ISO
 X18-57930,SW DVD5 Office Professional Plus 2013 64Bit Japanese WebApps MLF,ISO
 X18-57932,SW DVD5 Office Professional Plus 2013 64Bit Korean WebApps MLF,ISO
+X18-57936,SW DVD5 Office Professional Plus 2013 64Bit Norwegian WebApps MLF,ISO
+X18-57937,SW DVD5 Office Professional Plus 2013 64Bit Polish WebApps MLF,ISO
+X18-57938,SW DVD5 Office Professional Plus 2013 64Bit Portuguese WebApps MLF,ISO
 X18-57940,SW DVD5 Office Professional Plus 2013 64Bit Russian WebApps MLF,ISO
 X18-57944,SW DVD5 Office Professional Plus 2013 64Bit Spanish WebApps MLF,ISO
+X18-57945,SW DVD5 Office Professional Plus 2013 64Bit Swedish WebApps MLF,ISO
+X18-57946,SW DVD5 Office Professional Plus 2013 64Bit Thai WebApps MLF,ISO
+X18-57947,SW DVD5 Office Professional Plus 2013 64Bit Turkish WebApps MLF,ISO
 X18-57982,SW DVD5 Office Professional Plus 2013 64Bit Arabic WebApps MLF,ISO
 X18-58764,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 BRZLN ProdAct FPP OEM VL,ISO
 X18-58765,SW DVD5 NTRL Win MultiPoint Svr Std 2012 x64 CHNS ProdAct FPP OEM VL,ISO
@@ -11700,6 +11849,8 @@ X18-61037,SW DVD5 Visio Pro 2013 64Bit ChnTrad MLF,ISO
 X18-61038,SW DVD5 Visio Pro 2013 64Bit Slovenian MLF,ISO
 X18-61039,SW DVD5 Visio Pro 2013 64Bit Ukrainian MLF,ISO
 X18-70473,SW DVD5 Dynamics AX 2012 R2 MultiLang MLF,ISO
+X18-70475,SW DVD5 Dynamics AX 2012 R2 English CnnctMSDynamics MLF,ISO
+X18-70985,SW DVD5 SA E-Learning(IW) W32 English Office 365 R-1 MLF,ISO
 X18-71003,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Brazilian Server MLF,ISO
 X18-71005,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit ChnSimp Server MLF,ISO
 X18-71007,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit English Server MLF,ISO
@@ -11713,20 +11864,34 @@ X18-71023,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Russian Server MLF,ISO
 X18-71025,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Turkish Server MLF,ISO
 X18-71027,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit ChnTrad Server MLF,ISO
 X18-71029,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Brazilian Client MLF,ISO
+X18-71031,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Brazilian Client MLF,ISO
 X18-71033,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 ChnSimp Client MLF,ISO
+X18-71035,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit ChnSimp Client MLF,ISO
 X18-71037,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 English Client MLF,ISO
+X18-71039,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit English Client MLF,ISO
 X18-71041,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 German Client MLF,ISO
+X18-71043,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit German Client MLF,ISO
 X18-71045,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Spanish Client MLF,ISO
+X18-71047,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Spanish Client MLF,ISO
 X18-71049,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 French Client MLF,ISO
+X18-71051,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit French Client MLF,ISO
 X18-71053,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Hebrew Client MLF,ISO
+X18-71055,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Hebrew Client MLF,ISO
 X18-71057,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Italian Client MLF,ISO
+X18-71059,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Italian Client MLF,ISO
 X18-71061,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Japanese Client MLF,ISO
+X18-71063,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Japanese Client MLF,ISO
 X18-71065,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Russian Client MLF,ISO
+X18-71067,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Russian Client MLF,ISO
 X18-71069,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Turkish Client MLF,ISO
+X18-71071,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Turkish Client MLF,ISO
 X18-71073,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 ChnTrad Client MLF,ISO
+X18-71075,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit ChnTrad Client MLF,ISO
 X18-71080,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Arabic Server MLF,ISO
 X18-71083,SW DVD5 Duet EntSharePoint SAPSVR 2.0 64Bit Arabic Client MLF,ISO
+X18-71086,SW DVD5 Duet EntSharePoint SAPSVR 2.0 W32 Arabic Client MLF,ISO
 X18-77382,SW DVD5 Office Professional Plus 2013 W32 English KMS MLF,ISO
+X18-77595,SW DVD5 SysCtr 2012 w SP1 Endpoint Protection for Windows -MultiLang,ISO
 X18-77842,SW DVD5 Office Mac Standard 2011w SP3 ChnSimp ISO MLF,ISO
 X18-77844,SW DVD5 Office Mac Standard 2011w SP3 English ISO MLF,ISO
 X18-77846,SW DVD5 Office Mac Standard 2011w SP3 German ISO MLF,ISO
@@ -11947,7 +12112,9 @@ X18-78171,SQL Svr Web Edition 2012 w SP1 Spanish Download Only 32bit -2,ISO
 X18-78172,SQL Svr Web Edition 2012 w SP1 Spanish 64bit -2,ISO
 X18-78172,SQL Svr Web Edition 2012 w SP1 Spanish Download Only 64bit -2,ISO
 X18-79027,SW DVD5 Office Professional Plus 2010 W32 English -2 #1 KMS Host MLF,ISO
+X18-79179,SW DVD9 SA E-Learning(IW) W32 English Office 2013 R-1 MLF,ISO
 X18-80119,SW DVD5 Frfrnt Identity Mgr 2010 R2w SP1 English BHOLD MLF,ISO
+X18-80381,Sys Ctr DPM 2012 wSP1 Multi-Language -2,ISO
 X18-80786,SW DVD5 BizTalk Server Ent 2013 ChnSimp MLF,ISO
 X18-80790,SW DVD5 BizTalk Server Ent 2013 English MLF,ISO
 X18-80794,SW DVD5 BizTalk Server Ent 2013 German MLF,ISO
@@ -12037,15 +12204,45 @@ X18-82626,SQL Svr Web Edition 2012w SP1 Russian 32bit -3,ISO
 X18-82627,SQL Svr Web Edition 2012w SP1 Spanish 32bit -3,ISO
 X18-83817,SW DVD5 User Exp Virt SAL 1.0w SP1 MultiLang MLF,ISO
 X18-83946,Visual Studio Team Foundation Server 2012 with Update 1 - ChnSimp,ISO
+X18-83948,Visual Studio Team Foundation Server 2012 with Update 2 - ChnSimp,ISO
+X18-83950,Visual Studio Team Foundation Server 2012 with Update 3 - ChnSimp,ISO
+X18-83952,Visual Studio Team Foundation Server 2012 with Update 4 - ChnSimp,ISO
 X18-83954,Visual Studio Team Foundation Server 2012 with Update 1 - English,ISO
+X18-83956,Visual Studio Team Foundation Server 2012 with Update 2 - English,ISO
+X18-83958,Visual Studio Team Foundation Server 2012 with Update 3 - English,ISO
+X18-83960,Visual Studio Team Foundation Server 2012 with Update 4 - English,ISO
 X18-83962,Visual Studio Team Foundation Server 2012 with Update 1 - German,ISO
+X18-83964,Visual Studio Team Foundation Server 2012 with Update 2 - German,ISO
+X18-83966,Visual Studio Team Foundation Server 2012 with Update 3 - German,ISO
+X18-83968,Visual Studio Team Foundation Server 2012 with Update 4 - German,ISO
 X18-83970,Visual Studio Team Foundation Server 2012 with Update 1 - Spanish,ISO
+X18-83972,Visual Studio Team Foundation Server 2012 with Update 2 - Spanish,ISO
+X18-83974,Visual Studio Team Foundation Server 2012 with Update 3 - Spanish,ISO
+X18-83976,Visual Studio Team Foundation Server 2012 with Update 4 - Spanish,ISO
 X18-83978,Visual Studio Team Foundation Server 2012 with Update 1 - French,ISO
+X18-83980,Visual Studio Team Foundation Server 2012 with Update 2 - French,ISO
+X18-83982,Visual Studio Team Foundation Server 2012 with Update 3 - French,ISO
+X18-83984,Visual Studio Team Foundation Server 2012 with Update 4 - French,ISO
 X18-83986,Visual Studio Team Foundation Server 2012 with Update 1 - Italian,ISO
+X18-83988,Visual Studio Team Foundation Server 2012 with Update 2 - Italian,ISO
+X18-83990,Visual Studio Team Foundation Server 2012 with Update 3 - Italian,ISO
+X18-83992,Visual Studio Team Foundation Server 2012 with Update 4 - Italian,ISO
 X18-83994,Visual Studio Team Foundation Server 2012 with Update 1 - Japanese,ISO
+X18-83996,Visual Studio Team Foundation Server 2012 with Update 2 - Japanese,ISO
+X18-83998,Visual Studio Team Foundation Server 2012 with Update 3 - Japanese,ISO
+X18-84000,Visual Studio Team Foundation Server 2012 with Update 4 - Japanese,ISO
 X18-84002,Visual Studio Team Foundation Server 2012 with Update 1 - Korean,ISO
+X18-84004,Visual Studio Team Foundation Server 2012 with Update 2 - Korean,ISO
+X18-84006,Visual Studio Team Foundation Server 2012 with Update 3 - Korean,ISO
+X18-84008,Visual Studio Team Foundation Server 2012 with Update 4 - Korean,ISO
 X18-84010,Visual Studio Team Foundation Server 2012 with Update 1 - Russian,ISO
+X18-84012,Visual Studio Team Foundation Server 2012 with Update 2 - Russian,ISO
+X18-84014,Visual Studio Team Foundation Server 2012 with Update 3 - Russian,ISO
+X18-84016,Visual Studio Team Foundation Server 2012 with Update 4 - Russian,ISO
 X18-84018,Visual Studio Team Foundation Server 2012 with Update 1 - ChnTrad,ISO
+X18-84020,Visual Studio Team Foundation Server 2012 with Update 2 - ChnTrad,ISO
+X18-84022,Visual Studio Team Foundation Server 2012 with Update 3 - ChnTrad,ISO
+X18-84024,Visual Studio Team Foundation Server 2012 with Update 4 - ChnTrad,ISO
 X18-84569,SW CD App Virt SAL 5.0 MultiLang -2 MLF,ISO
 X18-84570,SW CD App V CAL for RDS 4.6w SP2 MultiLang -2 MVLS MLF,ISO
 X18-84571,SW CD App Virt SAL 4.6w SP2 MultiLang -2 MVLS MLF,ISO
@@ -12060,6 +12257,11 @@ X18-84579,SW DVD5 Dsktp Optimization Pck SA 2012 Japanese -2 MLF,ISO
 X18-84580,SW DVD5 Dsktp Optimization Pck SA 2012 Korean -2 MLF,ISO
 X18-84581,SW DVD5 Dsktp Optimization Pck SA 2012 Russian -2 MLF,ISO
 X18-84582,SW DVD5 Dsktp Optimization Pck SA 2012 Spanish -2 MLF,ISO
+X18-84756,SW DVD5 SysCtr 2012 w SP1 ConfigMgr EndptPrtcn for Windows-MultiLang -2,ISO
+X18-84757,SW DVD5 Sys Ctr 2012w SP1 Endpoint Prot for Lin Mac MultiLang -2,ISO
+X18-86921,SW DVD5 Frfrnt Identity Mgr 2010 R2w SP1 English -2 MLF,ISO
+X18-86986,SW DVD5 Dynamics AX 2012 R2 MultiLang -2 MngmntReporter MLF,ISO
+X18-87579,SW CD BizTalk Server Ent 2013 English HIS 2013 MLF,ISO
 X18-90516,SW DVD5 Dsktp Optimization Pck SA 2013 Brazilian -2 MLF,ISO
 X18-90517,SW DVD5 Dsktp Optimization Pck SA 2013 ChnSimp -2 MLF,ISO
 X18-90518,SW DVD5 Dsktp Optimization Pck SA 2013 ChnTrad -2 MLF,ISO
@@ -12077,7 +12279,606 @@ X18-93012,SW DVD9 NTRL Win Embedded Industry Pro 8 W32 English MultiLang MLF,ISO
 X18-93016,SW DVD9 NTRL Win Embedded Industry Pro 8 64Bit English MultiLang MLF,ISO
 X18-93020,SW DVD9 NTRL Win Embed Industry ENT 8 W32 English MultiLang MLF,ISO
 X18-93024,SW DVD9 NTRL Win Embed Industry ENT 8 64Bit English MultiLang MLF,ISO
+X18-93828,SW DVD9 NTRL Windows Embed 8 MultiLang MLF,ISO
+X18-96627,SW DVD5 Win Pro 8.1 64BIT Arabic MLF,ISO
+X18-96628,SW DVD5 Win Pro 8.1 64BIT Bulgarian MLF,ISO
+X18-96629,SW DVD5 Win Pro 8.1 64BIT Czech MLF,ISO
+X18-96630,SW DVD5 Win Pro 8.1 64BIT Danish MLF,ISO
+X18-96631,SW DVD5 Win Pro 8.1 64BIT German MLF,ISO
+X18-96632,SW DVD5 Win Pro 8.1 64BIT Greek MLF,ISO
+X18-96633,SW DVD5 Win Pro 8.1 64BIT Eng Intl MLF,ISO
+X18-96634,SW DVD5 Win Pro 8.1 64BIT English MLF,ISO
+X18-96635,SW DVD5 Win Pro 8.1 64BIT Spanish MLF,ISO
+X18-96636,SW DVD5 Win Pro 8.1 64BIT Estonian MLF,ISO
+X18-96637,SW DVD5 Win Pro 8.1 64BIT Finnish MLF,ISO
+X18-96638,SW DVD5 Win Pro 8.1 64BIT French MLF,ISO
+X18-96639,SW DVD5 Win Pro 8.1 64BIT Hebrew MLF,ISO
+X18-96640,SW DVD5 Win Pro 8.1 64BIT Croatian MLF,ISO
+X18-96641,SW DVD5 Win Pro 8.1 64BIT Hungarian MLF,ISO
+X18-96642,SW DVD5 Win Pro 8.1 64BIT Italian MLF,ISO
+X18-96643,SW DVD5 Win Pro 8.1 64BIT Japanese MLF,ISO
+X18-96644,SW DVD5 Win Pro K 8.1 64BIT Korean MLF,ISO
+X18-96645,SW DVD5 Win Pro 8.1 64BIT Lithuanian MLF,ISO
+X18-96646,SW DVD5 Win Pro 8.1 64BIT Latvian MLF,ISO
+X18-96647,SW DVD5 Win Pro 8.1 64BIT Norwegian MLF,ISO
+X18-96648,SW DVD5 Win Pro 8.1 64BIT Dutch MLF,ISO
+X18-96649,SW DVD5 Win Pro 8.1 64BIT Polish MLF,ISO
+X18-96650,SW DVD5 Win Pro 8.1 64BIT Brazilian MLF,ISO
+X18-96651,SW DVD5 Win Pro 8.1 64BIT Portuguese MLF,ISO
+X18-96652,SW DVD5 Win Pro 8.1 64BIT Romanian MLF,ISO
+X18-96653,SW DVD5 Win Pro 8.1 64BIT Russian MLF,ISO
+X18-96654,SW DVD5 Win Pro 8.1 64BIT Slovak MLF,ISO
+X18-96655,SW DVD5 Win Pro 8.1 64BIT Slovenian MLF,ISO
+X18-96656,SW DVD5 Win Pro 8.1 64BIT Serbian Latin MLF,ISO
+X18-96657,SW DVD5 Win Pro 8.1 64BIT Swedish MLF,ISO
+X18-96658,SW DVD5 Win Pro 8.1 64BIT Thai MLF,ISO
+X18-96659,SW DVD5 Win Pro 8.1 64BIT Turkish MLF,ISO
+X18-96660,SW DVD5 Win Pro 8.1 64BIT Ukrainian MLF,ISO
+X18-96661,SW DVD5 Win Pro 8.1 64BIT ChnSimp MLF,ISO
+X18-96662,SW DVD5 Win Pro 8.1 64BIT ChnTrad Hong Kong MLF,ISO
+X18-96663,SW DVD5 Win Pro 8.1 64BIT ChnTrad MLF,ISO
+X18-96664,SW DVD5 Win Pro 8.1 32BIT Arabic MLF,ISO
+X18-96665,SW DVD5 Win Pro 8.1 32BIT Bulgarian MLF,ISO
+X18-96666,SW DVD5 Win Pro 8.1 32BIT Czech MLF,ISO
+X18-96667,SW DVD5 Win Pro 8.1 32BIT Danish MLF,ISO
+X18-96668,SW DVD5 Win Pro 8.1 32BIT German MLF,ISO
+X18-96669,SW DVD5 Win Pro 8.1 32BIT Greek MLF,ISO
+X18-96670,SW DVD5 Win Pro 8.1 32BIT Eng Intl MLF,ISO
+X18-96671,SW DVD5 Win Pro 8.1 32BIT English MLF,ISO
+X18-96672,SW DVD5 Win Pro 8.1 32BIT Spanish MLF,ISO
+X18-96673,SW DVD5 Win Pro 8.1 32BIT Estonian MLF,ISO
+X18-96674,SW DVD5 Win Pro 8.1 32BIT Finnish MLF,ISO
+X18-96675,SW DVD5 Win Pro 8.1 32BIT French MLF,ISO
+X18-96676,SW DVD5 Win Pro 8.1 32BIT Hebrew MLF,ISO
+X18-96677,SW DVD5 Win Pro 8.1 32BIT Croatian MLF,ISO
+X18-96678,SW DVD5 Win Pro 8.1 32BIT Hungarian MLF,ISO
+X18-96679,SW DVD5 Win Pro 8.1 32BIT Italian MLF,ISO
+X18-96680,SW DVD5 Win Pro 8.1 32BIT Japanese MLF,ISO
+X18-96681,SW DVD5 Win Pro K 8.1 32BIT Korean MLF,ISO
+X18-96682,SW DVD5 Win Pro 8.1 32BIT Lithuanian MLF,ISO
+X18-96683,SW DVD5 Win Pro 8.1 32BIT Latvian MLF,ISO
+X18-96684,SW DVD5 Win Pro 8.1 32BIT Norwegian MLF,ISO
+X18-96685,SW DVD5 Win Pro 8.1 32BIT Dutch MLF,ISO
+X18-96686,SW DVD5 Win Pro 8.1 32BIT Polish MLF,ISO
+X18-96687,SW DVD5 Win Pro 8.1 32BIT Brazilian MLF,ISO
+X18-96688,SW DVD5 Win Pro 8.1 32BIT Portuguese MLF,ISO
+X18-96689,SW DVD5 Win Pro 8.1 32BIT Romanian MLF,ISO
+X18-96690,SW DVD5 Win Pro 8.1 32BIT Russian MLF,ISO
+X18-96691,SW DVD5 Win Pro 8.1 32BIT Slovak MLF,ISO
+X18-96692,SW DVD5 Win Pro 8.1 32BIT Slovenian MLF,ISO
+X18-96693,SW DVD5 Win Pro 8.1 32BIT Serbian Latin MLF,ISO
+X18-96694,SW DVD5 Win Pro 8.1 32BIT Swedish MLF,ISO
+X18-96695,SW DVD5 Win Pro 8.1 32BIT Thai MLF,ISO
+X18-96696,SW DVD5 Win Pro 8.1 32BIT Turkish MLF,ISO
+X18-96697,SW DVD5 Win Pro 8.1 32BIT Ukrainian MLF,ISO
+X18-96698,SW DVD5 Win Pro 8.1 32BIT ChnSimp MLF,ISO
+X18-96699,SW DVD5 Win Pro 8.1 32BIT ChnTrad Hong Kong MLF,ISO
+X18-96700,SW DVD5 Win Pro 8.1 32BIT ChnTrad MLF,ISO
+X18-96701,SW DVD5 Win Pro N 8.1 64BIT Bulgarian MLF,ISO
+X18-96702,SW DVD5 Win Pro N 8.1 64BIT Czech MLF,ISO
+X18-96703,SW DVD5 Win Pro N 8.1 64BIT Danish MLF,ISO
+X18-96704,SW DVD5 Win Pro N 8.1 64BIT German MLF,ISO
+X18-96705,SW DVD5 Win Pro N 8.1 64BIT Greek MLF,ISO
+X18-96706,SW DVD5 Win Pro N 8.1 64BIT Eng Intl MLF,ISO
+X18-96707,SW DVD5 Win Pro N 8.1 64BIT English MLF,ISO
+X18-96708,SW DVD5 Win Pro N 8.1 64BIT Spanish MLF,ISO
+X18-96709,SW DVD5 Win Pro N 8.1 64BIT Estonian MLF,ISO
+X18-96710,SW DVD5 Win Pro N 8.1 64BIT Finnish MLF,ISO
+X18-96711,SW DVD5 Win Pro N 8.1 64BIT French MLF,ISO
+X18-96712,SW DVD5 Win Pro N 8.1 64BIT Croatian MLF,ISO
+X18-96713,SW DVD5 Win Pro N 8.1 64BIT Hungarian MLF,ISO
+X18-96714,SW DVD5 Win Pro N 8.1 64BIT Italian MLF,ISO
+X18-96715,SW DVD5 Win Pro KN 8.1 64BIT Korean MLF,ISO
+X18-96716,SW DVD5 Win Pro N 8.1 64BIT Lithuanian MLF,ISO
+X18-96717,SW DVD5 Win Pro N 8.1 64BIT Latvian MLF,ISO
+X18-96718,SW DVD5 Win Pro N 8.1 64BIT Norwegian MLF,ISO
+X18-96719,SW DVD5 Win Pro N 8.1 64BIT Dutch MLF,ISO
+X18-96720,SW DVD5 Win Pro N 8.1 64BIT Polish MLF,ISO
+X18-96721,SW DVD5 Win Pro N 8.1 64BIT Portuguese MLF,ISO
+X18-96722,SW DVD5 Win Pro N 8.1 64BIT Romanian MLF,ISO
+X18-96723,SW DVD5 Win Pro N 8.1 64BIT Slovak MLF,ISO
+X18-96724,SW DVD5 Win Pro N 8.1 64BIT Slovenian MLF,ISO
+X18-96725,SW DVD5 Win Pro N 8.1 64BIT Swedish MLF,ISO
+X18-96726,SW DVD5 Win Pro N 8.1 32BIT Bulgarian MLF,ISO
+X18-96727,SW DVD5 Win Pro N 8.1 32BIT Czech MLF,ISO
+X18-96728,SW DVD5 Win Pro N 8.1 32BIT Danish MLF,ISO
+X18-96729,SW DVD5 Win Pro N 8.1 32BIT German MLF,ISO
+X18-96730,SW DVD5 Win Pro N 8.1 32BIT Greek MLF,ISO
+X18-96731,SW DVD5 Win Pro N 8.1 32BIT Eng Intl MLF,ISO
+X18-96732,SW DVD5 Win Pro N 8.1 32BIT English MLF,ISO
+X18-96733,SW DVD5 Win Pro N 8.1 32BIT Spanish MLF,ISO
+X18-96734,SW DVD5 Win Pro N 8.1 32BIT Estonian MLF,ISO
+X18-96735,SW DVD5 Win Pro N 8.1 32BIT Finnish MLF,ISO
+X18-96736,SW DVD5 Win Pro N 8.1 32BIT French MLF,ISO
+X18-96737,SW DVD5 Win Pro N 8.1 32BIT Croatian MLF,ISO
+X18-96738,SW DVD5 Win Pro N 8.1 32BIT Hungarian MLF,ISO
+X18-96739,SW DVD5 Win Pro N 8.1 32BIT Italian MLF,ISO
+X18-96740,SW DVD5 Win Pro KN 8.1 32BIT Korean MLF,ISO
+X18-96741,SW DVD5 Win Pro N 8.1 32BIT Lithuanian MLF,ISO
+X18-96742,SW DVD5 Win Pro N 8.1 32BIT Latvian MLF,ISO
+X18-96743,SW DVD5 Win Pro N 8.1 32BIT Norwegian MLF,ISO
+X18-96744,SW DVD5 Win Pro N 8.1 32BIT Dutch MLF,ISO
+X18-96745,SW DVD5 Win Pro N 8.1 32BIT Polish MLF,ISO
+X18-96746,SW DVD5 Win Pro N 8.1 32BIT Portuguese MLF,ISO
+X18-96747,SW DVD5 Win Pro N 8.1 32BIT Romanian MLF,ISO
+X18-96748,SW DVD5 Win Pro N 8.1 32BIT Slovak MLF,ISO
+X18-96749,SW DVD5 Win Pro N 8.1 32BIT Slovenian MLF,ISO
+X18-96750,SW DVD5 Win Pro N 8.1 32BIT Swedish MLF,ISO
+X18-96752,SW DVD5 SA Win Ent 8.1 64BIT Arabic MLF,ISO
+X18-96753,SW DVD5 SA Win Ent 8.1 64BIT Bulgarian MLF,ISO
+X18-96754,SW DVD5 SA Win Ent 8.1 64BIT Czech MLF,ISO
+X18-96755,SW DVD5 SA Win Ent 8.1 64BIT Danish MLF,ISO
+X18-96756,SW DVD5 SA Win Ent 8.1 64BIT German MLF,ISO
+X18-96757,SW DVD5 SA Win Ent 8.1 64BIT Greek MLF,ISO
+X18-96758,SW DVD5 SA Win Ent 8.1 64BIT Eng Intl MLF,ISO
+X18-96759,SW DVD5 SA Win Ent 8.1 64BIT English MLF,ISO
+X18-96760,SW DVD5 SA Win Ent 8.1 64BIT Spanish MLF,ISO
+X18-96761,SW DVD5 SA Win Ent 8.1 64BIT Estonian MLF,ISO
+X18-96762,SW DVD5 SA Win Ent 8.1 64BIT Finnish MLF,ISO
+X18-96763,SW DVD5 SA Win Ent 8.1 64BIT French MLF,ISO
+X18-96764,SW DVD5 SA Win Ent 8.1 64BIT Hebrew MLF,ISO
+X18-96765,SW DVD5 SA Win Ent 8.1 64BIT Croatian MLF,ISO
+X18-96766,SW DVD5 SA Win Ent 8.1 64BIT Hungarian MLF,ISO
+X18-96767,SW DVD5 SA Win Ent 8.1 64BIT Italian MLF,ISO
+X18-96768,SW DVD5 SA Win Ent 8.1 64BIT Japanese MLF,ISO
+X18-96769,SW DVD5 SA Win Ent K 8.1 64BIT Korean MLF,ISO
+X18-96770,SW DVD5 SA Win Ent 8.1 64BIT Lithuanian MLF,ISO
+X18-96771,SW DVD5 SA Win Ent 8.1 64BIT Latvian MLF,ISO
+X18-96772,SW DVD5 SA Win Ent 8.1 64BIT Norwegian MLF,ISO
+X18-96773,SW DVD5 SA Win Ent 8.1 64BIT Dutch MLF,ISO
+X18-96774,SW DVD5 SA Win Ent 8.1 64BIT Polish MLF,ISO
+X18-96775,SW DVD5 SA Win Ent 8.1 64BIT Brazilian MLF,ISO
+X18-96776,SW DVD5 SA Win Ent 8.1 64BIT Portuguese MLF,ISO
+X18-96777,SW DVD5 SA Win Ent 8.1 64BIT Romanian MLF,ISO
+X18-96778,SW DVD5 SA Win Ent 8.1 64BIT Russian MLF,ISO
+X18-96779,SW DVD5 SA Win Ent 8.1 64BIT Slovak MLF,ISO
+X18-96780,SW DVD5 SA Win Ent 8.1 64BIT Slovenian MLF,ISO
+X18-96781,SW DVD5 SA Win Ent 8.1 64BIT Serbian Latin MLF,ISO
+X18-96782,SW DVD5 SA Win Ent 8.1 64BIT Swedish MLF,ISO
+X18-96783,SW DVD5 SA Win Ent 8.1 64BIT Thai MLF,ISO
+X18-96784,SW DVD5 SA Win Ent 8.1 64BIT Turkish MLF,ISO
+X18-96785,SW DVD5 SA Win Ent 8.1 64BIT Ukrainian MLF,ISO
+X18-96786,SW DVD5 SA Win Ent 8.1 64BIT ChnSimp MLF,ISO
+X18-96787,SW DVD5 SA Win Ent 8.1 64BIT ChnTrad Hong Kong MLF,ISO
+X18-96788,SW DVD5 SA Win Ent 8.1 64BIT ChnTrad MLF,ISO
+X18-96790,SW DVD5 SA Win Ent 8.1 32BIT Arabic MLF,ISO
+X18-96791,SW DVD5 SA Win Ent 8.1 32BIT Bulgarian MLF,ISO
+X18-96792,SW DVD5 SA Win Ent 8.1 32BIT Czech MLF,ISO
+X18-96793,SW DVD5 SA Win Ent 8.1 32BIT Danish MLF,ISO
+X18-96794,SW DVD5 SA Win Ent 8.1 32BIT German MLF,ISO
+X18-96795,SW DVD5 SA Win Ent 8.1 32BIT Greek MLF,ISO
+X18-96796,SW DVD5 SA Win Ent 8.1 32BIT Eng Intl MLF,ISO
+X18-96797,SW DVD5 SA Win Ent 8.1 32BIT English MLF,ISO
+X18-96798,SW DVD5 SA Win Ent 8.1 32BIT Spanish MLF,ISO
+X18-96799,SW DVD5 SA Win Ent 8.1 32BIT Estonian MLF,ISO
+X18-96800,SW DVD5 SA Win Ent 8.1 32BIT Finnish MLF,ISO
+X18-96801,SW DVD5 SA Win Ent 8.1 32BIT French MLF,ISO
+X18-96802,SW DVD5 SA Win Ent 8.1 32BIT Hebrew MLF,ISO
+X18-96803,SW DVD5 SA Win Ent 8.1 32BIT Croatian MLF,ISO
+X18-96804,SW DVD5 SA Win Ent 8.1 32BIT Hungarian MLF,ISO
+X18-96805,SW DVD5 SA Win Ent 8.1 32BIT Italian MLF,ISO
+X18-96806,SW DVD5 SA Win Ent 8.1 32BIT Japanese MLF,ISO
+X18-96807,SW DVD5 SA Win Ent K 8.1 32BIT Korean MLF,ISO
+X18-96808,SW DVD5 SA Win Ent 8.1 32BIT Lithuanian MLF,ISO
+X18-96809,SW DVD5 SA Win Ent 8.1 32BIT Latvian MLF,ISO
+X18-96810,SW DVD5 SA Win Ent 8.1 32BIT Norwegian MLF,ISO
+X18-96811,SW DVD5 SA Win Ent 8.1 32BIT Dutch MLF,ISO
+X18-96812,SW DVD5 SA Win Ent 8.1 32BIT Polish MLF,ISO
+X18-96813,SW DVD5 SA Win Ent 8.1 32BIT Brazilian MLF,ISO
+X18-96814,SW DVD5 SA Win Ent 8.1 32BIT Portuguese MLF,ISO
+X18-96815,SW DVD5 SA Win Ent 8.1 32BIT Romanian MLF,ISO
+X18-96816,SW DVD5 SA Win Ent 8.1 32BIT Russian MLF,ISO
+X18-96817,SW DVD5 SA Win Ent 8.1 32BIT Slovak MLF,ISO
+X18-96818,SW DVD5 SA Win Ent 8.1 32BIT Slovenian MLF,ISO
+X18-96819,SW DVD5 SA Win Ent 8.1 32BIT Serbian Latin MLF,ISO
+X18-96820,SW DVD5 SA Win Ent 8.1 32BIT Swedish MLF,ISO
+X18-96821,SW DVD5 SA Win Ent 8.1 32BIT Thai MLF,ISO
+X18-96822,SW DVD5 SA Win Ent 8.1 32BIT Turkish MLF,ISO
+X18-96823,SW DVD5 SA Win Ent 8.1 32BIT Ukrainian MLF,ISO
+X18-96824,SW DVD5 SA Win Ent 8.1 32BIT ChnSimp MLF,ISO
+X18-96825,SW DVD5 SA Win Ent 8.1 32BIT ChnTrad Hong Kong MLF,ISO
+X18-96826,SW DVD5 SA Win Ent 8.1 32BIT ChnTrad MLF,ISO
+X18-96827,SW DVD5 SA Win Ent N 8.1 32BIT Bulgarian MLF,ISO
+X18-96828,SW DVD5 SA Win Ent N 8.1 32BIT Croatian MLF,ISO
+X18-96829,SW DVD5 SA Win Ent N 8.1 32BIT Czech MLF,ISO
+X18-96830,SW DVD5 SA Win Ent N 8.1 32BIT Danish MLF,ISO
+X18-96831,SW DVD5 SA Win Ent N 8.1 32BIT Dutch MLF,ISO
+X18-96833,SW DVD5 SA Win Ent N 8.1 32BIT English MLF,ISO
+X18-96834,SW DVD5 SA Win Ent N 8.1 32BIT Eng Intl MLF,ISO
+X18-96835,SW DVD5 SA Win Ent N 8.1 32BIT Estonian MLF,ISO
+X18-96836,SW DVD5 SA Win Ent N 8.1 32BIT Finnish MLF,ISO
+X18-96837,SW DVD5 SA Win Ent N 8.1 32BIT French MLF,ISO
+X18-96838,SW DVD5 SA Win Ent N 8.1 32BIT German MLF,ISO
+X18-96839,SW DVD5 SA Win Ent N 8.1 32BIT Greek MLF,ISO
+X18-96840,SW DVD5 SA Win Ent N 8.1 32BIT Hungarian MLF,ISO
+X18-96841,SW DVD5 SA Win Ent N 8.1 32BIT Italian MLF,ISO
+X18-96842,SW DVD5 SA Win Ent KN 8.1 64BIT Korean MLF,ISO
+X18-96843,SW DVD5 SA Win Ent N 8.1 32BIT Latvian MLF,ISO
+X18-96844,SW DVD5 SA Win Ent N 8.1 32BIT Lithuanian MLF,ISO
+X18-96845,SW DVD5 SA Win Ent N 8.1 32BIT Norwegian MLF,ISO
+X18-96846,SW DVD5 SA Win Ent N 8.1 32BIT Polish MLF,ISO
+X18-96847,SW DVD5 SA Win Ent N 8.1 32BIT Portuguese MLF,ISO
+X18-96848,SW DVD5 SA Win Ent N 8.1 32BIT Romanian MLF,ISO
+X18-96849,SW DVD5 SA Win Ent N 8.1 32BIT Slovak MLF,ISO
+X18-96850,SW DVD5 SA Win Ent N 8.1 32BIT Slovenian MLF,ISO
+X18-96851,SW DVD5 SA Win Ent N 8.1 32BIT Spanish MLF,ISO
+X18-96852,SW DVD5 SA Win Ent N 8.1 32BIT Swedish MLF,ISO
+X18-96853,SW DVD5 SA Win Ent N 8.1 64BIT Bulgarian MLF,ISO
+X18-96854,SW DVD5 SA Win Ent N 8.1 64BIT Croatian MLF,ISO
+X18-96855,SW DVD5 SA Win Ent N 8.1 64BIT Czech MLF,ISO
+X18-96856,SW DVD5 SA Win Ent N 8.1 64BIT Danish MLF,ISO
+X18-96857,SW DVD5 SA Win Ent N 8.1 64BIT Dutch MLF,ISO
+X18-96859,SW DVD5 SA Win Ent N 8.1 64BIT English MLF,ISO
+X18-96860,SW DVD5 SA Win Ent N 8.1 64BIT Eng Intl MLF,ISO
+X18-96861,SW DVD5 SA Win Ent N 8.1 64BIT Estonian MLF,ISO
+X18-96862,SW DVD5 SA Win Ent N 8.1 64BIT Finnish MLF,ISO
+X18-96863,SW DVD5 SA Win Ent N 8.1 64BIT French MLF,ISO
+X18-96864,SW DVD5 SA Win Ent N 8.1 64BIT German MLF,ISO
+X18-96865,SW DVD5 SA Win Ent N 8.1 64BIT Greek MLF,ISO
+X18-96866,SW DVD5 SA Win Ent N 8.1 64BIT Hungarian MLF,ISO
+X18-96867,SW DVD5 SA Win Ent N 8.1 64BIT Italian MLF,ISO
+X18-96868,SW DVD5 SA Win Ent KN 8.1 32BIT Korean MLF,ISO
+X18-96869,SW DVD5 SA Win Ent N 8.1 64BIT Latvian MLF,ISO
+X18-96870,SW DVD5 SA Win Ent N 8.1 64BIT Lithuanian MLF,ISO
+X18-96871,SW DVD5 SA Win Ent N 8.1 64BIT Norwegian MLF,ISO
+X18-96872,SW DVD5 SA Win Ent N 8.1 64BIT Polish MLF,ISO
+X18-96873,SW DVD5 SA Win Ent N 8.1 64BIT Portuguese MLF,ISO
+X18-96874,SW DVD5 SA Win Ent N 8.1 64BIT Romanian MLF,ISO
+X18-96875,SW DVD5 SA Win Ent N 8.1 64BIT Slovak MLF,ISO
+X18-96876,SW DVD5 SA Win Ent N 8.1 64BIT Slovenian MLF,ISO
+X18-96877,SW DVD5 SA Win Ent N 8.1 64BIT Spanish MLF,ISO
+X18-96878,SW DVD5 SA Win Ent N 8.1 64BIT Swedish MLF,ISO
+X18-97873,SW DVD5 Win 8.1 W32 MultiLanguage except ChnTrad Language Pack,ISO
+X18-97874,SW DVD5 Win 8.1 W32 ChnTrad Language Pack,ISO
+X18-97875,SW DVD5 Win 8.1 64Bit MultiLanguage except ChnTrad Language Pack,ISO
+X18-97876,SW DVD5 Win 8.1 64Bit ChnTrad Language Pack,ISO
+X19-03240,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit English FPP VL OEM,ISO
+X19-03272,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Brazilian FPP VL OEM,ISO
+X19-03273,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit ChnTrad FPP VL OEM,ISO
+X19-03274,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit ChnTrad HK FPP VL OEM,ISO
+X19-03275,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Czech FPP VL OEM,ISO
+X19-03276,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Dutch FPP VL OEM,ISO
+X19-03277,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit French FPP VL OEM,ISO
+X19-03278,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit German FPP VL OEM,ISO
+X19-03279,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Hungarian FPP VL OEM,ISO
+X19-03280,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Italian FPP VL OEM,ISO
+X19-03281,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Japanese FPP VL OEM,ISO
+X19-03282,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Korean FPP VL OEM,ISO
+X19-03283,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Polish FPP VL OEM,ISO
+X19-03284,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Portuguese FPP VL OEM,ISO
+X19-03285,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Russian FPP VL OEM,ISO
+X19-03286,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Spanish FPP VL OEM,ISO
+X19-03287,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Swedish FPP VL OEM,ISO
+X19-03288,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit Turkish FPP VL OEM,ISO
 X19-04580,SW DVD5 Lync Server 2013 English Hosting Pack MLF,ISO
+X19-05176,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Brazilian Core MLF,ISO
+X19-05177,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit ChnSimp Core MLF,ISO
+X19-05180,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Czech Core MLF,ISO
+X19-05181,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Dutch Core MLF,ISO
+X19-05182,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit English Core MLF,ISO
+X19-05183,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit French Core MLF,ISO
+X19-05184,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit German Core MLF,ISO
+X19-05185,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Hungarian Core MLF,ISO
+X19-05186,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Italian Core MLF,ISO
+X19-05187,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Japanese Core MLF,ISO
+X19-05188,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Korean Core MLF,ISO
+X19-05189,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Polish Core MLF,ISO
+X19-05190,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Portuguese Core MLF,ISO
+X19-05191,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Russian Core MLF,ISO
+X19-05192,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Spanish Core MLF,ISO
+X19-05193,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Swedish Core MLF,ISO
+X19-05194,SW DVD5 Windows Svr Std and DataCtr 2012 R2 64Bit Turkish Core MLF,ISO
+X19-05195,SW DVD5 NTRL Win Svr Language Pack 2012 R2 64Bit ChnTrad FPP VL OEM,ISO
+X19-05196,SW DVD5 NTRL Win Svr Language Pack 2012 R2 64Bit MultiLang FPP VL OEM,ISO
+X19-05204,SW DVD5 NTRL Win Svr Essentials 2012 R2 64Bit ChnSimp FPP VL OEM,ISO
+X19-06314,SW DVD9 SA E-Learning(Clnt) W32 English Windows 8 R-1 MLF,ISO
+X19-10009,SW DVD5 Dyn CRM Svr 2013 Brazilian 64Svr 32x64Clnt MLF,ISO
+X19-10013,SW DVD5 Dyn CRM Svr 2013 ChnSimp 64Svr 32x64Clnt MLF,ISO
+X19-10017,SW DVD5 Dyn CRM Svr 2013 English 64Svr 32x64Clnt MLF,ISO
+X19-10021,SW DVD5 Dyn CRM Svr 2013 Arabic 64Svr 32x64Clnt MLF,ISO
+X19-10025,SW DVD5 Dyn CRM Svr 2013 Czech 64Svr 32x64Clnt MLF,ISO
+X19-10029,SW DVD5 Dyn CRM Svr 2013 German 64Svr 32x64Clnt MLF,ISO
+X19-10033,SW DVD5 Dyn CRM Svr 2013 Danish 64Svr 32x64Clnt MLF,ISO
+X19-10037,SW DVD5 Dyn CRM Svr 2013 Spanish 64Svr 32x64Clnt MLF,ISO
+X19-10041,SW DVD5 Dyn CRM Svr 2013 French 64Svr 32x64Clnt MLF,ISO
+X19-10045,SW DVD5 Dyn CRM Svr 2013 Greek 64Svr 32x64Clnt MLF,ISO
+X19-10049,SW DVD5 Dyn CRM Svr 2013 Hebrew 64Svr 32x64Clnt MLF,ISO
+X19-10053,SW DVD5 Dyn CRM Svr 2013 Hungarian 64Svr 32x64Clnt MLF,ISO
+X19-10057,SW DVD5 Dyn CRM Svr 2013 Italian 64Svr 32x64Clnt MLF,ISO
+X19-10061,SW DVD5 Dyn CRM Svr 2013 Japanese 64Svr 32x64Clnt MLF,ISO
+X19-10065,SW DVD5 Dyn CRM Svr 2013 Korean 64Svr 32x64Clnt MLF,ISO
+X19-10069,SW DVD5 Dyn CRM Svr 2013 Norwegian 64Svr 32x64Clnt MLF,ISO
+X19-10073,SW DVD5 Dyn CRM Svr 2013 Dutch 64Svr 32x64Clnt MLF,ISO
+X19-10077,SW DVD5 Dyn CRM Svr 2013 Portuguese 64Svr 32x64Clnt MLF,ISO
+X19-10081,SW DVD5 Dyn CRM Svr 2013 Polish 64Svr 32x64Clnt MLF,ISO
+X19-10085,SW DVD5 Dyn CRM Svr 2013 Swedish 64Svr 32x64Clnt MLF,ISO
+X19-10089,SW DVD5 Dyn CRM Svr 2013 Finnish 64Svr 32x64Clnt MLF,ISO
+X19-10093,SW DVD5 Dyn CRM Svr 2013 Russian 64Svr 32x64Clnt MLF,ISO
+X19-10097,SW DVD5 Dyn CRM Svr 2013 Turkish 64Svr 32x64Clnt MLF,ISO
+X19-10101,SW DVD5 Dyn CRM Svr 2013 ChnTrad 64Svr 32x64Clnt MLF,ISO
+X19-10105,SW DVD5 Dyn CRM Svr 2013 ChnTrad Hong Kong 64Svr 32x64Clnt MLF,ISO
+X19-10311,SW DVD5 Dyn CRM Wkgrp Svr 2013 Brazilian 64Svr 32x64Clnt MLF,ISO
+X19-10315,SW DVD5 Dyn CRM Wkgrp Svr 2013 ChnSimp 64Svr 32x64Clnt MLF,ISO
+X19-10319,SW DVD5 Dyn CRM Wkgrp Svr 2013 English 64Svr 32x64Clnt MLF,ISO
+X19-10323,SW DVD5 Dyn CRM Wkgrp Svr 2013 Arabic 64Svr 32x64Clnt MLF,ISO
+X19-10327,SW DVD5 Dyn CRM Wkgrp Svr 2013 Czech 64Svr 32x64Clnt MLF,ISO
+X19-10331,SW DVD5 Dyn CRM Wkgrp Svr 2013 German 64Svr 32x64Clnt MLF,ISO
+X19-10335,SW DVD5 Dyn CRM Wkgrp Svr 2013 Danish 64Svr 32x64Clnt MLF,ISO
+X19-10339,SW DVD5 Dyn CRM Wkgrp Svr 2013 Spanish 64Svr 32x64Clnt MLF,ISO
+X19-10343,SW DVD5 Dyn CRM Wkgrp Svr 2013 French 64Svr 32x64Clnt MLF,ISO
+X19-10347,SW DVD5 Dyn CRM Wkgrp Svr 2013 Greek 64Svr 32x64Clnt MLF,ISO
+X19-10351,SW DVD5 Dyn CRM Wkgrp Svr 2013 Hebrew 64Svr 32x64Clnt MLF,ISO
+X19-10355,SW DVD5 Dyn CRM Wkgrp Svr 2013 Hungarian 64Svr 32x64Clnt MLF,ISO
+X19-10359,SW DVD5 Dyn CRM Wkgrp Svr 2013 Italian 64Svr 32x64Clnt MLF,ISO
+X19-10363,SW DVD5 Dyn CRM Wkgrp Svr 2013 Japanese 64Svr 32x64Clnt MLF,ISO
+X19-10367,SW DVD5 Dyn CRM Wkgrp Svr 2013 Korean 64Svr 32x64Clnt MLF,ISO
+X19-10371,SW DVD5 Dyn CRM Wkgrp Svr 2013 Norwegian 64Svr 32x64Clnt MLF,ISO
+X19-10375,SW DVD5 Dyn CRM Wkgrp Svr 2013 Dutch 64Svr 32x64Clnt MLF,ISO
+X19-10379,SW DVD5 Dyn CRM Wkgrp Svr 2013 Portuguese 64Svr 32x64Clnt MLF,ISO
+X19-10383,SW DVD5 Dyn CRM Wkgrp Svr 2013 Polish 64Svr 32x64Clnt MLF,ISO
+X19-10387,SW DVD5 Dyn CRM Wkgrp Svr 2013 Swedish 64Svr 32x64Clnt MLF,ISO
+X19-10391,SW DVD5 Dyn CRM Wkgrp Svr 2013 Finnish 64Svr 32x64Clnt MLF,ISO
+X19-10395,SW DVD5 Dyn CRM Wkgrp Svr 2013 Russian 64Svr 32x64Clnt MLF,ISO
+X19-10399,SW DVD5 Dyn CRM Wkgrp Svr 2013 Turkish 64Svr 32x64Clnt MLF,ISO
+X19-10403,SW DVD5 Dyn CRM Wkgrp Svr 2013 ChnTrad 64Svr 32x64Clnt MLF,ISO
+X19-10407,SW DVD5 Dyn CRM Wkgrp Svr 2013 ChnTrad Hong Kong 64Svr 32x64Clnt MLF,ISO
+X19-10914,SW CD BizTalk Server Dev 2013 English HIS 2013 MLF,ISO
+X19-11001,SW DVD5 Win Embedded Industry Pro 8.1 W32 Brazilian MLF,ISO
+X19-11006,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Brazilian MLF,ISO
+X19-11011,SW DVD5 Win Embedded Industry Pro 8.1 W32 ChnSimp MLF,ISO
+X19-11016,SW DVD5 Win Embedded Industry Pro 8.1 64Bit ChnSimp MLF,ISO
+X19-11021,SW DVD5 Win Embedded Industry Pro 8.1 W32 English MLF,ISO
+X19-11026,SW DVD5 Win Embedded Industry Pro 8.1 64Bit English MLF,ISO
+X19-11031,SW DVD5 Win Embedded Industry Pro 8.1 W32 Serbian Latin MLF,ISO
+X19-11036,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Serbian Latin MLF,ISO
+X19-11041,SW DVD5 Win Embedded Industry Pro 8.1 W32 Arabic MLF,ISO
+X19-11047,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Arabic MLF,ISO
+X19-11052,SW DVD5 Win Embedded Industry Pro 8.1 W32 Bulgarian MLF,ISO
+X19-11057,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Bulgarian MLF,ISO
+X19-11062,SW DVD5 Win Embedded Industry Pro 8.1 W32 Czech MLF,ISO
+X19-11067,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Czech MLF,ISO
+X19-11072,SW DVD5 Win Embedded Industry Pro 8.1 W32 German MLF,ISO
+X19-11077,SW DVD5 Win Embedded Industry Pro 8.1 64Bit German MLF,ISO
+X19-11082,SW DVD5 Win Embedded Industry Pro 8.1 W32 Danish MLF,ISO
+X19-11087,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Danish MLF,ISO
+X19-11092,SW DVD5 Win Embedded Industry Pro 8.1 W32 Spanish MLF,ISO
+X19-11097,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Spanish MLF,ISO
+X19-11102,SW DVD5 Win Embedded Industry Pro 8.1 W32 French MLF,ISO
+X19-11107,SW DVD5 Win Embedded Industry Pro 8.1 64Bit French MLF,ISO
+X19-11112,SW DVD5 Win Embedded Industry Pro 8.1 W32 Greek MLF,ISO
+X19-11117,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Greek MLF,ISO
+X19-11122,SW DVD5 Win Embedded Industry Pro 8.1 W32 Hebrew MLF,ISO
+X19-11127,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Hebrew MLF,ISO
+X19-11132,SW DVD5 Win Embedded Industry Pro 8.1 W32 Hungarian MLF,ISO
+X19-11137,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Hungarian MLF,ISO
+X19-11142,SW DVD5 Win Embedded Industry Pro 8.1 W32 Italian MLF,ISO
+X19-11147,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Italian MLF,ISO
+X19-11152,SW DVD5 Win Embedded Industry Pro 8.1 W32 Japanese MLF,ISO
+X19-11157,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Japanese MLF,ISO
+X19-11162,SW DVD5 Win Embedded Industry Pro 8.1 W32 Korean MLF,ISO
+X19-11167,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Korean MLF,ISO
+X19-11172,SW DVD5 Win Embedded Industry Pro 8.1 W32 Slovenian MLF,ISO
+X19-11177,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Slovenian MLF,ISO
+X19-11182,SW DVD5 Win Embedded Industry Pro 8.1 W32 Estonian MLF,ISO
+X19-11187,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Estonian MLF,ISO
+X19-11192,SW DVD5 Win Embedded Industry Pro 8.1 W32 Norwegian MLF,ISO
+X19-11197,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Norwegian MLF,ISO
+X19-11202,SW DVD5 Win Embedded Industry Pro 8.1 W32 Dutch MLF,ISO
+X19-11207,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Dutch MLF,ISO
+X19-11212,SW DVD5 Win Embedded Industry Pro 8.1 W32 Portuguese MLF,ISO
+X19-11217,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Portuguese MLF,ISO
+X19-11222,SW DVD5 Win Embedded Industry Pro 8.1 W32 Polish MLF,ISO
+X19-11227,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Polish MLF,ISO
+X19-11232,SW DVD5 Win Embedded Industry Pro 8.1 W32 Romanian MLF,ISO
+X19-11237,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Romanian MLF,ISO
+X19-11242,SW DVD5 Win Embedded Industry Pro 8.1 W32 Swedish MLF,ISO
+X19-11247,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Swedish MLF,ISO
+X19-11252,SW DVD5 Win Embedded Industry Pro 8.1 W32 Finnish MLF,ISO
+X19-11257,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Finnish MLF,ISO
+X19-11262,SW DVD5 Win Embedded Industry Pro 8.1 W32 Slovak MLF,ISO
+X19-11267,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Slovak MLF,ISO
+X19-11272,SW DVD5 Win Embedded Industry Pro 8.1 W32 Russian MLF,ISO
+X19-11277,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Russian MLF,ISO
+X19-11282,SW DVD5 Win Embedded Industry Pro 8.1 W32 Thai MLF,ISO
+X19-11287,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Thai MLF,ISO
+X19-11292,SW DVD5 Win Embedded Industry Pro 8.1 W32 Turkish MLF,ISO
+X19-11297,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Turkish MLF,ISO
+X19-11302,SW DVD5 Win Embedded Industry Pro 8.1 W32 ChnTrad MLF,ISO
+X19-11307,SW DVD5 Win Embedded Industry Pro 8.1 64Bit ChnTrad MLF,ISO
+X19-11312,SW DVD5 Win Embedded Industry Pro 8.1 W32 ChnTrad Hong Kong MLF,ISO
+X19-11317,SW DVD5 Win Embedded Industry Pro 8.1 64Bit ChnTrad Hong Kong MLF,ISO
+X19-11322,SW DVD5 Win Embedded Industry Pro 8.1 W32 Eng Intl MLF,ISO
+X19-11327,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Eng Intl MLF,ISO
+X19-11332,SW DVD5 Win Embed Industry ENT 8.1 W32 Latvian MLF,ISO
+X19-11337,SW DVD5 Win Embed Industry ENT 8.1 64Bit Latvian MLF,ISO
+X19-11342,SW DVD5 Win Embed Industry ENT 8.1 W32 Lithuanian MLF,ISO
+X19-11347,SW DVD5 Win Embed Industry ENT 8.1 64Bit Lithuanian MLF,ISO
+X19-11352,SW DVD5 Win Embed Industry ENT 8.1 W32 Croatian MLF,ISO
+X19-11357,SW DVD5 Win Embed Industry ENT 8.1 64Bit Croatian MLF,ISO
+X19-11362,SW DVD5 Win Embed Industry ENT 8.1 W32 Ukrainian MLF,ISO
+X19-11367,SW DVD5 Win Embed Industry ENT 8.1 64Bit Ukrainian MLF,ISO
+X19-11372,SW DVD5 Win Embed Industry ENT 8.1 W32 Brazilian MLF,ISO
+X19-11377,SW DVD5 Win Embed Industry ENT 8.1 64Bit Brazilian MLF,ISO
+X19-11382,SW DVD5 Win Embed Industry ENT 8.1 W32 ChnSimp MLF,ISO
+X19-11387,SW DVD5 Win Embed Industry ENT 8.1 64Bit ChnSimp MLF,ISO
+X19-11392,SW DVD5 Win Embed Industry ENT 8.1 W32 English MLF,ISO
+X19-11397,SW DVD5 Win Embed Industry ENT 8.1 64Bit English MLF,ISO
+X19-11402,SW DVD5 Win Embed Industry ENT 8.1 W32 Serbian Latin MLF,ISO
+X19-11407,SW DVD5 Win Embed Industry ENT 8.1 64Bit Serbian Latin MLF,ISO
+X19-11412,SW DVD5 Win Embed Industry ENT 8.1 W32 Arabic MLF,ISO
+X19-11417,SW DVD5 Win Embed Industry ENT 8.1 64Bit Arabic MLF,ISO
+X19-11422,SW DVD5 Win Embed Industry ENT 8.1 W32 Bulgarian MLF,ISO
+X19-11427,SW DVD5 Win Embed Industry ENT 8.1 64Bit Bulgarian MLF,ISO
+X19-11432,SW DVD5 Win Embed Industry ENT 8.1 W32 Czech MLF,ISO
+X19-11437,SW DVD5 Win Embed Industry ENT 8.1 64Bit Czech MLF,ISO
+X19-11442,SW DVD5 Win Embed Industry ENT 8.1 W32 German MLF,ISO
+X19-11447,SW DVD5 Win Embed Industry ENT 8.1 64Bit German MLF,ISO
+X19-11452,SW DVD5 Win Embed Industry ENT 8.1 W32 Danish MLF,ISO
+X19-11457,SW DVD5 Win Embed Industry ENT 8.1 64Bit Danish MLF,ISO
+X19-11462,SW DVD5 Win Embed Industry ENT 8.1 W32 Spanish MLF,ISO
+X19-11467,SW DVD5 Win Embed Industry ENT 8.1 64Bit Spanish MLF,ISO
+X19-11472,SW DVD5 Win Embed Industry ENT 8.1 W32 French MLF,ISO
+X19-11477,SW DVD5 Win Embed Industry ENT 8.1 64Bit French MLF,ISO
+X19-11482,SW DVD5 Win Embed Industry ENT 8.1 W32 Greek MLF,ISO
+X19-11487,SW DVD5 Win Embed Industry ENT 8.1 64Bit Greek MLF,ISO
+X19-11492,SW DVD5 Win Embed Industry ENT 8.1 W32 Hebrew MLF,ISO
+X19-11497,SW DVD5 Win Embed Industry ENT 8.1 64Bit Hebrew MLF,ISO
+X19-11502,SW DVD5 Win Embed Industry ENT 8.1 W32 Hungarian MLF,ISO
+X19-11507,SW DVD5 Win Embed Industry ENT 8.1 64Bit Hungarian MLF,ISO
+X19-11512,SW DVD5 Win Embed Industry ENT 8.1 W32 Italian MLF,ISO
+X19-11517,SW DVD5 Win Embed Industry ENT 8.1 64Bit Italian MLF,ISO
+X19-11522,SW DVD5 Win Embed Industry ENT 8.1 W32 Japanese MLF,ISO
+X19-11527,SW DVD5 Win Embed Industry ENT 8.1 64Bit Japanese MLF,ISO
+X19-11532,SW DVD5 Win Embed Industry ENT 8.1 W32 Korean MLF,ISO
+X19-11537,SW DVD5 Win Embed Industry ENT 8.1 64Bit Korean MLF,ISO
+X19-11542,SW DVD5 Win Embed Industry ENT 8.1 W32 Slovenian MLF,ISO
+X19-11547,SW DVD5 Win Embed Industry ENT 8.1 64Bit Slovenian MLF,ISO
+X19-11552,SW DVD5 Win Embed Industry ENT 8.1 W32 Estonian MLF,ISO
+X19-11557,SW DVD5 Win Embed Industry ENT 8.1 64Bit Estonian MLF,ISO
+X19-11562,SW DVD5 Win Embed Industry ENT 8.1 W32 Norwegian MLF,ISO
+X19-11567,SW DVD5 Win Embed Industry ENT 8.1 64Bit Norwegian MLF,ISO
+X19-11572,SW DVD5 Win Embed Industry ENT 8.1 W32 Dutch MLF,ISO
+X19-11577,SW DVD5 Win Embed Industry ENT 8.1 64Bit Dutch MLF,ISO
+X19-11582,SW DVD5 Win Embed Industry ENT 8.1 W32 Portuguese MLF,ISO
+X19-11587,SW DVD5 Win Embed Industry ENT 8.1 64Bit Portuguese MLF,ISO
+X19-11592,SW DVD5 Win Embed Industry ENT 8.1 W32 Polish MLF,ISO
+X19-11597,SW DVD5 Win Embed Industry ENT 8.1 64Bit Polish MLF,ISO
+X19-11602,SW DVD5 Win Embed Industry ENT 8.1 W32 Romanian MLF,ISO
+X19-11607,SW DVD5 Win Embed Industry ENT 8.1 64Bit Romanian MLF,ISO
+X19-11612,SW DVD5 Win Embed Industry ENT 8.1 W32 Swedish MLF,ISO
+X19-11617,SW DVD5 Win Embed Industry ENT 8.1 64Bit Swedish MLF,ISO
+X19-11622,SW DVD5 Win Embed Industry ENT 8.1 W32 Finnish MLF,ISO
+X19-11627,SW DVD5 Win Embed Industry ENT 8.1 64Bit Finnish MLF,ISO
+X19-11632,SW DVD5 Win Embed Industry ENT 8.1 W32 Slovak MLF,ISO
+X19-11637,SW DVD5 Win Embed Industry ENT 8.1 64Bit Slovak MLF,ISO
+X19-11642,SW DVD5 Win Embed Industry ENT 8.1 W32 Russian MLF,ISO
+X19-11647,SW DVD5 Win Embed Industry ENT 8.1 64Bit Russian MLF,ISO
+X19-11652,SW DVD5 Win Embed Industry ENT 8.1 W32 Thai MLF,ISO
+X19-11657,SW DVD5 Win Embed Industry ENT 8.1 64Bit Thai MLF,ISO
+X19-11662,SW DVD5 Win Embed Industry ENT 8.1 W32 Turkish MLF,ISO
+X19-11667,SW DVD5 Win Embed Industry ENT 8.1 64Bit Turkish MLF,ISO
+X19-11672,SW DVD5 Win Embed Industry ENT 8.1 W32 ChnTrad MLF,ISO
+X19-11677,SW DVD5 Win Embed Industry ENT 8.1 64Bit ChnTrad MLF,ISO
+X19-11682,SW DVD5 Win Embed Industry ENT 8.1 W32 ChnTrad Hong Kong MLF,ISO
+X19-11687,SW DVD5 Win Embed Industry ENT 8.1 64Bit ChnTrad Hong Kong MLF,ISO
+X19-11692,SW DVD5 Win Embed Industry ENT 8.1 W32 Eng Intl MLF,ISO
+X19-11697,SW DVD5 Win Embed Industry ENT 8.1 64Bit Eng Intl MLF,ISO
+X19-11735,SW DVD5 Win Embedded Industry Pro 8.1 W32 Latvian MLF,ISO
+X19-11740,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Latvian MLF,ISO
+X19-11745,SW DVD5 Win Embedded Industry Pro 8.1 W32 Lithuanian MLF,ISO
+X19-11750,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Lithuanian MLF,ISO
+X19-11755,SW DVD5 Win Embedded Industry Pro 8.1 W32 Croatian MLF,ISO
+X19-11760,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Croatian MLF,ISO
+X19-11765,SW DVD5 Win Embedded Industry Pro 8.1 W32 Ukrainian MLF,ISO
+X19-11770,SW DVD5 Win Embedded Industry Pro 8.1 64Bit Ukrainian MLF,ISO
+X19-11817,SW DVD5 Project Server 2010w SP2 64Bit Brazilian MLF,ISO
+X19-11821,SW DVD5 Project Server 2010w SP2 64Bit ChnSimp MLF,ISO
+X19-11825,SW DVD5 Project Server 2010w SP2 64Bit English MLF,ISO
+X19-11829,SW DVD5 Project Server 2010w SP2 64Bit Arabic MLF,ISO
+X19-11833,SW DVD5 Project Server 2010w SP2 64Bit Czech MLF,ISO
+X19-11837,SW DVD5 Project Server 2010w SP2 64Bit German MLF,ISO
+X19-11841,SW DVD5 Project Server 2010w SP2 64Bit Danish MLF,ISO
+X19-11845,SW DVD5 Project Server 2010w SP2 64Bit Spanish MLF,ISO
+X19-11849,SW DVD5 Project Server 2010w SP2 64Bit French MLF,ISO
+X19-11853,SW DVD5 Project Server 2010w SP2 64Bit Greek MLF,ISO
+X19-11857,SW DVD5 Project Server 2010w SP2 64Bit Hebrew MLF,ISO
+X19-11861,SW DVD5 Project Server 2010w SP2 64Bit Hungarian MLF,ISO
+X19-11865,SW DVD5 Project Server 2010w SP2 64Bit Italian MLF,ISO
+X19-11869,SW DVD5 Project Server 2010w SP2 64Bit Japanese MLF,ISO
+X19-11873,SW DVD5 Project Server 2010w SP2 64Bit Korean MLF,ISO
+X19-11877,SW DVD5 Project Server 2010w SP2 64Bit Norwegian MLF,ISO
+X19-11881,SW DVD5 Project Server 2010w SP2 64Bit Dutch MLF,ISO
+X19-11885,SW DVD5 Project Server 2010w SP2 64Bit Portuguese MLF,ISO
+X19-11889,SW DVD5 Project Server 2010w SP2 64Bit Polish MLF,ISO
+X19-11893,SW DVD5 Project Server 2010w SP2 64Bit Swedish MLF,ISO
+X19-11897,SW DVD5 Project Server 2010w SP2 64Bit Finnish MLF,ISO
+X19-11901,SW DVD5 Project Server 2010w SP2 64Bit Russian MLF,ISO
+X19-11905,SW DVD5 Project Server 2010w SP2 64Bit Turkish MLF,ISO
+X19-11909,SW DVD5 Project Server 2010w SP2 64Bit ChnTrad MLF,ISO
+X19-11917,SW DVD5 SharePoint Server 2010w SP2 64Bit Brazilian MLF,ISO
+X19-11925,SW DVD5 SharePoint Server 2010w SP2 64Bit ChnSimp MLF,ISO
+X19-11933,SW DVD5 SharePoint Server 2010w SP2 64Bit English MLF,ISO
+X19-11941,SW DVD5 SharePoint Server 2010w SP2 64Bit Arabic MLF,ISO
+X19-11949,SW DVD5 SharePoint Server 2010w SP2 64Bit Czech MLF,ISO
+X19-11957,SW DVD5 SharePoint Server 2010w SP2 64Bit German MLF,ISO
+X19-11965,SW DVD5 SharePoint Server 2010w SP2 64Bit Danish MLF,ISO
+X19-11973,SW DVD5 SharePoint Server 2010w SP2 64Bit Spanish MLF,ISO
+X19-11982,SW DVD5 SharePoint Server 2010w SP2 64Bit French MLF,ISO
+X19-11990,SW DVD5 SharePoint Server 2010w SP2 64Bit Greek MLF,ISO
+X19-11998,SW DVD5 SharePoint Server 2010w SP2 64Bit Hebrew MLF,ISO
+X19-12002,SW DVD5 SharePoint Server 2010SP2 64Bit MultiLang MLF,ISO
+X19-12010,SW DVD5 SharePoint Server 2010w SP2 64Bit Hungarian MLF,ISO
+X19-12018,SW DVD5 SharePoint Server 2010w SP2 64Bit Italian MLF,ISO
+X19-12026,SW DVD5 SharePoint Server 2010w SP2 64Bit Japanese MLF,ISO
+X19-12034,SW DVD5 SharePoint Server 2010w SP2 64Bit Korean MLF,ISO
+X19-12042,SW DVD5 SharePoint Server 2010w SP2 64Bit Norwegian MLF,ISO
+X19-12050,SW DVD5 SharePoint Server 2010w SP2 64Bit Dutch MLF,ISO
+X19-12058,SW DVD5 SharePoint Server 2010w SP2 64Bit Portuguese MLF,ISO
+X19-12066,SW DVD5 SharePoint Server 2010w SP2 64Bit Polish MLF,ISO
+X19-12074,SW DVD5 SharePoint Server 2010w SP2 64Bit Swedish MLF,ISO
+X19-12083,SW DVD5 SharePoint Server 2010w SP2 64Bit Finnish MLF,ISO
+X19-12091,SW DVD5 SharePoint Server 2010w SP2 64Bit Russian MLF,ISO
+X19-12099,SW DVD5 SharePoint Server 2010w SP2 64Bit Thai MLF,ISO
+X19-12107,SW DVD5 SharePoint Server 2010w SP2 64Bit Turkish MLF,ISO
+X19-12115,SW DVD5 SharePoint Server 2010w SP2 64Bit ChnTrad MLF,ISO
+X19-12119,SW DVD5 Office Professional Plus 2010w SP2 64Bit Brazilian Web Apps MLF,ISO
+X19-12123,SW DVD5 Office Professional Plus 2010w SP2 64Bit ChnSimp Web Apps MLF,ISO
+X19-12127,SW DVD5 Office Professional Plus 2010w SP2 64Bit English Web Apps MLF,ISO
+X19-12131,SW DVD5 Office Professional Plus 2010w SP2 64Bit Arabic Web Apps MLF,ISO
+X19-12135,SW DVD5 Office Professional Plus 2010w SP2 64Bit Czech Web Apps MLF,ISO
+X19-12139,SW DVD5 Office Professional Plus 2010w SP2 64Bit German Web Apps MLF,ISO
+X19-12143,SW DVD5 Office Professional Plus 2010w SP2 64Bit Danish Web Apps MLF,ISO
+X19-12147,SW DVD5 Office Professional Plus 2010w SP2 64Bit Spanish Web Apps MLF,ISO
+X19-12151,SW DVD5 Office Professional Plus 2010w SP2 64Bit French Web Apps MLF,ISO
+X19-12155,SW DVD5 Office Professional Plus 2010w SP2 64Bit Greek Web Apps MLF,ISO
+X19-12159,SW DVD5 Office Professional Plus 2010w SP2 64Bit Hebrew Web Apps MLF,ISO
+X19-12163,SW DVD5 Office Professional Plus 2010w SP2 64Bit Hungarian Web Apps MLF,ISO
+X19-12167,SW DVD5 Office Professional Plus 2010w SP2 64Bit Italian Web Apps MLF,ISO
+X19-12171,SW DVD5 Office Professional Plus 2010w SP2 64Bit Japanese Web Apps MLF,ISO
+X19-12175,SW DVD5 Office Professional Plus 2010w SP2 64Bit Korean Web Apps MLF,ISO
+X19-12179,SW DVD5 Office Professional Plus 2010w SP2 64Bit Norwegian Web Apps MLF,ISO
+X19-12183,SW DVD5 Office Professional Plus 2010w SP2 64Bit Dutch Web Apps MLF,ISO
+X19-12187,SW DVD5 Office Professional Plus 2010w SP2 64Bit Portuguese Web Apps MLF,ISO
+X19-12191,SW DVD5 Office Professional Plus 2010w SP2 64Bit Polish Web Apps MLF,ISO
+X19-12199,SW DVD5 Office Professional Plus 2010w SP2 64Bit Swedish Web Apps MLF,ISO
+X19-12207,SW DVD5 Office Professional Plus 2010w SP2 64Bit Finnish Web Apps MLF,ISO
+X19-12214,SW DVD5 Office Professional Plus 2010w SP2 64Bit Russian Web Apps MLF,ISO
+X19-12223,SW DVD5 Office Professional Plus 2010w SP2 64Bit Thai Web Apps MLF,ISO
+X19-12231,SW DVD5 Office Professional Plus 2010w SP2 64Bit Turkish Web Apps MLF,ISO
+X19-12239,SW DVD5 Office Professional Plus 2010w SP2 64Bit ChnTrad Web Apps MLF,ISO
+X19-12247,SW DVD5 Office Pro 2010SP2 W32 ET FI EL KZ LV LT NO PL RU SV UK Patch,ISO
+X19-12255,SW DVD5 Office Pro 2010SP2 W32 XT ZH B3 IW HI JA KO TH Patch,ISO
+X19-12263,SW DVD5 Office Pro 2010SP2 W32 AR BG YX CS HU RO ST SK SL TR Patch,ISO
+X19-12271,SW DVD5 Office Pro 2010SP2 W32 EN XC DA NL FR DE IT PT ES Patch,ISO
+X19-12278,SW DVD5 Office Pro 2010SP2 64Bit ET FI EL KZ LV LT NO PL RU SV UK Patch,ISO
+X19-12287,SW DVD5 Office Pro 2010SP2 64Bit XT ZH B3 IW HI JA KO TH Patch,ISO
+X19-12295,SW DVD5 Office Pro 2010SP2 64Bit AR BG YX CS HU RO ST SK SL TR Patch,ISO
+X19-12303,SW DVD5 Office Pro 2010SP2 64Bit EN XC DA NL FR DE IT PT ES Patch,ISO
+X19-12311,SW DVD5 Search Server 2010w SP2 64Bit Brazilian MLF,ISO
+X19-12319,SW DVD5 Search Server 2010w SP2 64Bit ChnSimp MLF,ISO
+X19-12327,SW DVD5 Search Server 2010w SP2 64Bit English MLF,ISO
+X19-12335,SW DVD5 Search Server 2010w SP2 64Bit Arabic MLF,ISO
+X19-12343,SW DVD5 Search Server 2010w SP2 64Bit Czech MLF,ISO
+X19-12352,SW DVD5 Search Server 2010w SP2 64Bit German MLF,ISO
+X19-12361,SW DVD5 Search Server 2010w SP2 64Bit Danish MLF,ISO
+X19-12369,SW DVD5 Search Server 2010w SP2 64Bit Spanish MLF,ISO
+X19-12377,SW DVD5 Search Server 2010w SP2 64Bit French MLF,ISO
+X19-12385,SW DVD5 Search Server 2010w SP2 64Bit Greek MLF,ISO
+X19-12389,SW DVD5 Search Server 2010w SP2 64Bit Hebrew MLF,ISO
+X19-12393,SW DVD5 Search Server 2010w SP2 64Bit Hungarian MLF,ISO
+X19-12397,SW DVD5 Search Server 2010w SP2 64Bit Italian MLF,ISO
+X19-12401,SW DVD5 Search Server 2010w SP2 64Bit Japanese MLF,ISO
+X19-12405,SW DVD5 Search Server 2010w SP2 64Bit Korean MLF,ISO
+X19-12409,SW DVD5 Search Server 2010w SP2 64Bit Norwegian MLF,ISO
+X19-12413,SW DVD5 Search Server 2010w SP2 64Bit Dutch MLF,ISO
+X19-12417,SW DVD5 Search Server 2010w SP2 64Bit Portuguese MLF,ISO
+X19-12421,SW DVD5 Search Server 2010w SP2 64Bit Polish MLF,ISO
+X19-12425,SW DVD5 Search Server 2010w SP2 64Bit Swedish MLF,ISO
+X19-12429,SW DVD5 Search Server 2010w SP2 64Bit Finnish MLF,ISO
+X19-12433,SW DVD5 Search Server 2010w SP2 64Bit Russian MLF,ISO
+X19-12437,SW DVD5 Search Server 2010w SP2 64Bit Thai MLF,ISO
+X19-12441,SW DVD5 Search Server 2010w SP2 64Bit Turkish MLF,ISO
+X19-12445,SW DVD5 Search Server 2010w SP2 64Bit ChnTrad MLF,ISO
 X19-13231,SW DVD5 VS Premium 2012 ChnSimp -2 Core MLF,ISO
 X19-13232,SW DVD5 VS Premium 2012 English -2 Core MLF,ISO
 X19-13234,SW DVD5 VS Premium 2012 German -2 Core MLF,ISO
@@ -12108,3 +12909,131 @@ X19-13260,SW DVD5 VS Ultimate 2012 Japanese -2 Core MLF,ISO
 X19-13261,SW DVD5 VS Ultimate 2012 Korean -2 Core MLF,ISO
 X19-13262,SW DVD5 VS Ultimate 2012 Russian -2 Core MLF,ISO
 X19-13263,SW DVD5 VS Ultimate 2012 ChnTrad -2 Core MLF,ISO
+X19-18210,SW DVD5 Sys Ctr 2012 R2 MultiLang AppCont MLF,ISO
+X19-18211,SW DVD5 Sys Ctr 2012 R2 MultiLang Orch MLF,ISO
+X19-18212,SW DVD5 Sys Ctr 2012 R2 MultiLang VMM MLF,ISO
+X19-18215,SW DVD5 Sys Ctr 2012 R2 MultiLang ConfMgr ML MLF,ISO
+X19-18216,SW DVD5 Sys Ctr Endpnt Prtctn 2012 R2 MultiLang EP for Windows MLF,ISO
+X19-18217,SW DVD5 Sys Ctr Endpnt Prtctn 2012 R2 MultiLang EptProt Lin Mac MLF,ISO
+X19-18228,SW DVD5 Sys Ctr 2012 R2 Brazilian OpsMgr MLF,ISO
+X19-18257,SW DVD5 Sys Ctr 2012 R2 ChnSimp OpsMgr MLF,ISO
+X19-18307,SW DVD5 Sys Ctr 2012 R2 English OpsMgr MLF,ISO
+X19-18336,SW DVD5 Sys Ctr 2012 R2 Czech OpsMgr MLF,ISO
+X19-18365,SW DVD5 Sys Ctr 2012 R2 German OpsMgr MLF,ISO
+X19-18394,SW DVD5 Sys Ctr 2012 R2 Spanish OpsMgr MLF,ISO
+X19-18423,SW DVD5 Sys Ctr 2012 R2 French OpsMgr MLF,ISO
+X19-18452,SW DVD5 Sys Ctr 2012 R2 Hungarian OpsMgr MLF,ISO
+X19-18481,SW DVD5 Sys Ctr 2012 R2 Italian OpsMgr MLF,ISO
+X19-18510,SW DVD5 Sys Ctr 2012 R2 Japanese OpsMgr MLF,ISO
+X19-18539,SW DVD5 Sys Ctr 2012 R2 Korean OpsMgr MLF,ISO
+X19-18568,SW DVD5 Sys Ctr 2012 R2 Dutch OpsMgr MLF,ISO
+X19-18597,SW DVD5 Sys Ctr 2012 R2 Portuguese OpsMgr MLF,ISO
+X19-18626,SW DVD5 Sys Ctr 2012 R2 Polish OpsMgr MLF,ISO
+X19-18655,SW DVD5 Sys Ctr 2012 R2 Swedish OpsMgr MLF,ISO
+X19-18684,SW DVD5 Sys Ctr 2012 R2 Russian OpsMgr MLF,ISO
+X19-18713,SW DVD5 Sys Ctr 2012 R2 Turkish OpsMgr MLF,ISO
+X19-18742,SW DVD5 Sys Ctr 2012 R2 ChnTrad OpsMgr MLF,ISO
+X19-20832,SW DVD5 Visual Studio Test Pro 2013 ChnSimp MLF,ISO
+X19-20836,SW DVD5 Visual Studio Test Pro 2013 English MLF,ISO
+X19-20840,SW DVD5 Visual Studio Test Pro 2013 German MLF,ISO
+X19-20844,SW DVD5 Visual Studio Test Pro 2013 Spanish MLF,ISO
+X19-20848,SW DVD5 Visual Studio Test Pro 2013 French MLF,ISO
+X19-20852,SW DVD5 Visual Studio Test Pro 2013 Italian MLF,ISO
+X19-20856,SW DVD5 Visual Studio Test Pro 2013 Japanese MLF,ISO
+X19-20860,SW DVD5 Visual Studio Test Pro 2013 Korean MLF,ISO
+X19-20864,SW DVD5 Visual Studio Test Pro 2013 Russian MLF,ISO
+X19-20868,SW DVD5 Visual Studio Test Pro 2013 ChnTrad MLF,ISO
+X19-21240,SW DVD5 Visual Studio Test Pro 2013 MultiLang MVLS MLF,ISO
+X19-22052,SW DVD9 SA E-Learning(IW) W32 English SharePnt 2013 MLF,ISO
+X19-22687,SW DVD5 Sys Ctr Datacenter 2012 R2 MultiLang DPM MLF,ISO
+X19-25942,SW DVD5 BizTalk Server Ent 2013 ChnSimp -2 MLF,ISO
+X19-25943,SW DVD5 BizTalk Server Ent 2013 English -2 MLF,ISO
+X19-25944,SW DVD5 BizTalk Server Ent 2013 German -2 MLF,ISO
+X19-25945,SW DVD5 BizTalk Server Ent 2013 Spanish -2 MLF,ISO
+X19-25946,SW DVD5 BizTalk Server Ent 2013 French -2 MLF,ISO
+X19-25947,SW DVD5 BizTalk Server Ent 2013 Italian -2 MLF,ISO
+X19-25948,SW DVD5 BizTalk Server Ent 2013 Japanese -2 MLF,ISO
+X19-25949,SW DVD5 BizTalk Server Ent 2013 Korean -2 MLF,ISO
+X19-25950,SW DVD5 BizTalk Server Ent 2013 ChnTrad -2 MLF,ISO
+X19-25951,SW DVD5 BizTalk Server Std 2013 ChnSimp -2 MLF,ISO
+X19-25952,SW DVD5 BizTalk Server Std 2013 English -2 MLF,ISO
+X19-25953,SW DVD5 BizTalk Server Std 2013 German -2 MLF,ISO
+X19-25954,SW DVD5 BizTalk Server Std 2013 Spanish -2 MLF,ISO
+X19-25955,SW DVD5 BizTalk Server Std 2013 French -2 MLF,ISO
+X19-25956,SW DVD5 BizTalk Server Std 2013 Italian -2 MLF,ISO
+X19-25957,SW DVD5 BizTalk Server Std 2013 Japanese -2 MLF,ISO
+X19-25958,SW DVD5 BizTalk Server Std 2013 Korean -2 MLF,ISO
+X19-25959,SW DVD5 BizTalk Server Std 2013 ChnTrad -2 MLF,ISO
+X19-25960,SW DVD5 BizTalk Server Branch 2013 ChnSimp -2 MLF,ISO
+X19-25961,SW DVD5 BizTalk Server Branch 2013 English -2 MLF,ISO
+X19-25962,SW DVD5 BizTalk Server Branch 2013 German -2 MLF,ISO
+X19-25963,SW DVD5 BizTalk Server Branch 2013 Spanish -2 MLF,ISO
+X19-25964,SW DVD5 BizTalk Server Branch 2013 French -2 MLF,ISO
+X19-25965,SW DVD5 BizTalk Server Branch 2013 Italian -2 MLF,ISO
+X19-25966,SW DVD5 BizTalk Server Branch 2013 Japanese -2 MLF,ISO
+X19-25967,SW DVD5 BizTalk Server Branch 2013 Korean -2 MLF,ISO
+X19-25968,SW DVD5 BizTalk Server Branch 2013 ChnTrad -2 MLF,ISO
+X19-25969,SW DVD5 BizTalk Server Dev 2013 ChnSimp -2 MLF,ISO
+X19-25970,SW DVD5 BizTalk Server Dev 2013 English -2 MLF,ISO
+X19-25971,SW DVD5 BizTalk Server Dev 2013 German -2 MLF,ISO
+X19-25972,SW DVD5 BizTalk Server Dev 2013 Spanish -2 MLF,ISO
+X19-25973,SW DVD5 BizTalk Server Dev 2013 French -2 MLF,ISO
+X19-25974,SW DVD5 BizTalk Server Dev 2013 Italian -2 MLF,ISO
+X19-25975,SW DVD5 BizTalk Server Dev 2013 Japanese -2 MLF,ISO
+X19-25976,SW DVD5 BizTalk Server Dev 2013 Korean -2 MLF,ISO
+X19-25977,SW DVD5 BizTalk Server Dev 2013 ChnTrad -2 MLF,ISO
+X19-26644,SW DVD5 Windows Svr Std 2012 R2 64Bit ChnTrad Hong Kong -2 Core MLF,ISO
+X19-26645,SW DVD5 Windows Svr Std 2012 R2 64Bit ChnTrad -2 Core MLF,ISO
+X19-27114,SW DVD5 VS Ultimate 2013 ChnSimp -2 MLF,ISO
+X19-27115,SW DVD5 VS Ultimate 2013 English -2 MLF,ISO
+X19-27116,SW DVD5 VS Ultimate 2013 German -2 MLF,ISO
+X19-27117,SW DVD5 VS Ultimate 2013 Spanish -2 MLF,ISO
+X19-27118,SW DVD5 VS Ultimate 2013 French -2 MLF,ISO
+X19-27119,SW DVD5 VS Ultimate 2013 Italian -2 MLF,ISO
+X19-27120,SW DVD5 VS Ultimate 2013 Japanese -2 MLF,ISO
+X19-27121,SW DVD5 VS Ultimate 2013 Korean -2 MLF,ISO
+X19-27122,SW DVD5 VS Ultimate 2013 Russian -2 MLF,ISO
+X19-27123,SW DVD5 VS Ultimate 2013 ChnTrad -2 MLF,ISO
+X19-27124,SW DVD5 VS Premium 2013 ChnSimp -2 MLF,ISO
+X19-27125,SW DVD5 VS Premium 2013 English -2 MLF,ISO
+X19-27126,SW DVD5 VS Premium 2013 German -2 MLF,ISO
+X19-27127,SW DVD5 VS Premium 2013 Spanish -2 MLF,ISO
+X19-27128,SW DVD5 VS Premium 2013 French -2 MLF,ISO
+X19-27129,SW DVD5 VS Premium 2013 Italian -2 MLF,ISO
+X19-27130,SW DVD5 VS Premium 2013 Japanese -2 MLF,ISO
+X19-27131,SW DVD5 VS Premium 2013 Korean -2 MLF,ISO
+X19-27132,SW DVD5 VS Premium 2013 Russian -2 MLF,ISO
+X19-27133,SW DVD5 VS Premium 2013 ChnTrad -2 MLF,ISO
+X19-27134,SW DVD5 VS Team Foundation Svr 2013 ChnSimp -2 MLF,ISO
+X19-27135,SW DVD5 VS Team Foundation Svr 2013 English -2 MLF,ISO
+X19-27136,SW DVD5 VS Team Foundation Svr 2013 German -2 MLF,ISO
+X19-27137,SW DVD5 VS Team Foundation Svr 2013 Spanish -2 MLF,ISO
+X19-27138,SW DVD5 VS Team Foundation Svr 2013 French -2 MLF,ISO
+X19-27139,SW DVD5 VS Team Foundation Svr 2013 Italian -2 MLF,ISO
+X19-27140,SW DVD5 VS Team Foundation Svr 2013 Japanese -2 MLF,ISO
+X19-27141,SW DVD5 VS Team Foundation Svr 2013 Korean -2 MLF,ISO
+X19-27142,SW DVD5 VS Team Foundation Svr 2013 Russian -2 MLF,ISO
+X19-27143,SW DVD5 VS Team Foundation Svr 2013 ChnTrad -2 MLF,ISO
+X19-27144,SW DVD5 Visual Studio Pro 2013 ChnSimp -2 MLF,ISO
+X19-27145,SW DVD5 Visual Studio Pro 2013 English -2 MLF,ISO
+X19-27146,SW DVD5 Visual Studio Pro 2013 German -2 MLF,ISO
+X19-27147,SW DVD5 Visual Studio Pro 2013 Spanish -2 MLF,ISO
+X19-27148,SW DVD5 Visual Studio Pro 2013 French -2 MLF,ISO
+X19-27149,SW DVD5 Visual Studio Pro 2013 Italian -2 MLF,ISO
+X19-27150,SW DVD5 Visual Studio Pro 2013 Japanese -2 MLF,ISO
+X19-27151,SW DVD5 Visual Studio Pro 2013 Korean -2 MLF,ISO
+X19-27152,SW DVD5 Visual Studio Pro 2013 Russian -2 MLF,ISO
+X19-27153,SW DVD5 Visual Studio Pro 2013 ChnTrad -2 MLF,ISO
+X19-27154,Sys Ctr Service Manager 2012 wSP1 Multi-Language -2,ISO
+X19-27155,SW DVD5 Sys Ctr 2012 R2 MultiLang -2 SvcMgr MLF,ISO
+X19-27157,SW DVD5 VS Ultimate 2013 MultiLang -2 Pro Prem Ult MLF,ISO
+X19-27615,SW DVD5 Release Management for Visual Studio 2013 ChnSimp,ISO
+X19-27616,SW DVD5 Release Management for Visual Studio 2013 French,ISO
+X19-27617,SW DVD5 Release Management for Visual Studio 2013 Japanese,ISO
+X19-27618,SW DVD5 Release Management for Visual Studio 2013 Russian,ISO
+X19-27619,SW DVD5 Release Management for Visual Studio 2013 English,ISO
+X19-27625,SW DVD5 Release Management for Visual Studio 2013 German,ISO
+X19-27626,SW DVD5 Release Management for Visual Studio 2013 Spanish,ISO
+X19-27627,SW DVD5 Release Management for Visual Studio 2013 Italian,ISO
+X19-27628,SW DVD5 Release Management for Visual Studio 2013 Korean,ISO
+X19-27629,SW DVD5 Release Management for Visual Studio 2013 ChnTrad,ISO
